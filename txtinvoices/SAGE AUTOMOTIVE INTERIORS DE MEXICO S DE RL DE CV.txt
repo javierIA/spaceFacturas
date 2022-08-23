@@ -1,0 +1,12706 @@
+?????????: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 12:33:45
+
+Page 1 of 2
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+CNI122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+-
+
+VENDIDO A:: CNI INC
+1451 E. LINCOLN
+MADISON HEIGHTS,MI,USA CP:48071 RFC/TAX No:382555708
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: BRENA MEX S.A. DE C.V.
+CARR. PRESA LA AMISTAD KM 4.5
+CIUDAD ACU?A, COAHUILA,,MEX CP:26220
+RFC/TAX No:BME9612311E6 IMMEX324-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+175.58
+
+MTS
+
+1 BULTOS
+
+111.840 
+
+111.840 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+9.18727
+
+$1,613.100
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+3632154-600R       VINIL LAMINADO
+LAMINATED VINYL PINKAD POSEIDEN 3MM
+
+MEX
+
+USA
+
+3921120100
+
+3632159-503F       VINIL LAMINADO
+VN.PINKAD.CORINTHIAN.3MM LT WHEAT 503F
+USA
+
+3921120100
+
+MEX
+
+3632159-600R       VINIL LAMINADO
+LAMINATED VINYL 3MM CORINTHIAN
+
+MEX
+
+USA
+
+3921120100
+
+3632159-803T       VINIL LAMINADO
+VN.PINKAD.CORINTHIAN.3MM PLATINUM 803T
+USA
+
+3921120100
+
+MEX
+
+3900187-TX7       VINIL LAMINADO
+VN. MCKINLEYHD 6MM 1.7 BLACKo 1.50
+
+MEX
+
+USA
+
+3921120100
+
+3968709-600R       VINIL LAMINADO
+LAMINATED VINYL 10MM BLACK
+
+MEX
+
+USA
+
+3921120100
+
+43
+
+MTS
+
+1 BULTOS
+
+27.390 
+
+27.390 
+
+9.18727
+
+$395.050
+
+205.55
+
+MTS
+
+1 BULTOS
+
+130.940 
+
+130.940 
+
+9.18727
+
+$1,888.440
+
+81.76
+
+MTS
+
+1 BULTOS
+
+52.080 
+
+52.080 
+
+9.18727
+
+$751.150
+
+465.52
+
+MTS
+
+2 BULTOS
+
+296.540 
+
+296.540 
+
+11.15659
+
+$5,193.610
+
+70.36
+
+MTS
+
+1 BULTOS
+
+44.820 
+
+44.820 
+
+11.50880
+
+$809.750
+
+UNIDADES:
+
+1,041.77
+
+7 Bultos
+
+663.610 
+
+663.610 
+
+La presente factura certifica el precio real de los bienes descritos y confirma que todos los detalles son
+verdaderos y correctos. Estos art?culos son controlados por el gobierno de los Estados Unidos y est?n
+autorizados para la exportaci?n s?lo al pa?s de destino y para ser empleados por el consignatario
+?ltimo o el usuario final en este documento identificado. Estos productos no pueden ser revendidos,
+transferidos a cualquier otro pa?s o a cualquier persona diferente al consignatario autorizado o ?ltimo
+usuario (s) final (es), en su forma original o despu?s de la incorporaci?n en otros art?culos, sin la
+primera aprobaci?n obtenida por el gobierno de los Estados Unidos o de otra manera autorizada seg?n
+la ley y regulaciones de los Estados Unidos. Por favor considere: Obtener la omisi?n Clasificaci?n
+Arancelaria, ECCN o la Informaci?n de Licencias de Exportaci?n e importaci?n, enviando la solicitud a
+adienthts@sttas.com Agentes Aduanales y Consolidadores de carga, recuerdan sus respon
+sabilidades de entender, asimilar y dar cumplimento a todas las leyes aplicables, regulaciones, t?rminos
+
+RFC:               CURP:
+Patente: 0
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.6 FRACC II y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS E
+MPRESAS SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON RFC SAI120808FA9 y B
+RENA MEX S.A DE C.V CON IMMEX 324-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+$10,651.100
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 12:33:48
+
+Page 2 of 2
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+CNI122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+-
+
+VENDIDO A:: CNI INC
+1451 E. LINCOLN
+MADISON HEIGHTS,MI,USA CP:48071 RFC/TAX No:382555708
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: BRENA MEX S.A. DE C.V.
+CARR. PRESA LA AMISTAD KM 4.5
+CIUDAD ACU?A, COAHUILA,,MEX CP:26220
+RFC/TAX No:BME9612311E6 IMMEX324-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+y condiciones establecidos en los contratos.
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+RFC:               CURP:
+Patente: 0
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.6 FRACC II y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS E
+MPRESAS SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON RFC SAI120808FA9 y B
+RENA MEX S.A DE C.V CON IMMEX 324-2006
+
+HUMBERTO AVILA GOMEZ
+RFC: AIGH590325QT3
+CURP: AIGH590325HMCVMM02
+Puesto: REPRESENTANTE LEGAL
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+???: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220202 18:36:53
+
+Page 1 of 2
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+E1012022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.6352
+-
+07
+22
+070
+
+-
+
+VENDIDO A:: ADIENT US ENTERPRISES LP
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:384102153
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: ENSAMBLES DE INTERIORES AUTOMOTRICES MEXICO
+S DE RL DE CV (EDIASA1)
+BLVD OSCAR FLORES  4250 ACACIAS
+CD JUAREZ,CH,MEX CP:32650 RFC/TAX No:ASH160921KB1
+IMMEX122-2019
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+69.76
+
+MTS
+
+1 BULTOS
+
+28.760 
+
+28.760 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+9.29580
+
+$648.470
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+4742249-JG18       TELA 100% POLYESTER LAMINADA CON
+POLIURETANO
+100% POLYESTER FABRIC LAMINATED WITH
+POLIURETHANE-CLT ATOMIC JG18
+
+MEX
+
+USA
+
+5903200201
+
+4742249-JP70       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+100% POLYESTER FABRICS LAMINATED WITH POLYURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+69.76
+
+MTS
+
+1 BULTOS
+
+28.760 
+
+28.760 
+
+9.29580
+
+$648.470
+
+UNIDADES:
+
+139.52
+
+2 Bultos
+
+57.520 
+
+57.520 
+
+La presente factura certifica el precio real de los bienes descritos y confirma que todos los detalles son
+verdaderos y correctos. Estos art?culos son controlados por el gobierno de los Estados Unidos y est?n
+autorizados para la exportaci?n s?lo al pa?s de destino y para ser empleados por el consignatario
+?ltimo o el usuario final en este documento identificado. Estos productos no pueden ser revendidos,
+transferidos a cualquier otro pa?s o a cualquier persona diferente al consignatario autorizado o ?ltimo
+usuario (s) final (es), en su forma original o despu?s de la incorporaci?n en otros art?culos, sin la
+primera aprobaci?n obtenida por el gobierno de los Estados Unidos o de otra manera autorizada seg?n
+la ley y regulaciones de los Estados Unidos. Por favor considere: Obtener la omisi?n Clasificaci?n
+Arancelaria, ECCN o la Informaci?n de Licencias de Exportaci?n e importaci?n, enviando la solicitud a
+adienthts@sttas.com Agentes Aduanales y Consolidadores de carga, recuerdan sus respon
+sabilidades de entender, asimilar y dar cumplimento a todas las leyes aplicables, regulaciones, t?rminos
+y condiciones establecidos en los contratos.
+
+$1,296.940
+
+RFC:               CURP:
+Patente: 0
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV IMMEX 432-2014 y ENSAMBLE DE INT
+ERIORES AUTOMOTRICES MEXICO S DE RL DE C.V. CON IMMEX 122-2019
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220202 18:36:54
+
+Page 2 of 2
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+E1012022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.6352
+-
+07
+22
+070
+
+-
+
+VENDIDO A:: ADIENT US ENTERPRISES LP
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:384102153
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: ENSAMBLES DE INTERIORES AUTOMOTRICES MEXICO
+S DE RL DE CV (EDIASA1)
+BLVD OSCAR FLORES  4250 ACACIAS
+CD JUAREZ,CH,MEX CP:32650 RFC/TAX No:ASH160921KB1
+IMMEX122-2019
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+RFC:               CURP:
+Patente: 0
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV IMMEX 432-2014 y ENSAMBLE DE INT
+ERIORES AUTOMOTRICES MEXICO S DE RL DE C.V. CON IMMEX 122-2019
+
+HUMBERTO AVILA GOMEZ
+RFC: AIGH590325QT3
+CURP: AIGH590325HMCVMM02
+Puesto: REPRESENTANTE LEGAL
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+?????????IMPORTACION
+PROVEEDOR: ADIENT US ENTERPRISES LIMITED PARTNERSHIP
+49200 HALYARD DRIVE    PLYMOUTH MI USA CP:48170
+RFC/TAX No:38-4102153
+
+VENDIDO A: ENSAMBLE DE INTERIORES AUTOMOTRICES MEXICO S DE
+RL DE CV
+ AV. RICARDO MARGAIN #575 7C COL.SANTA ENGRACIA  SAN PEDRO
+GARZA GARCIA, NLE MEX CP:66267 RFC/TAX No:ASH160921KB1
+IMMEX:122-2019
+
+ENVIADO A:
+ENSAMBLE DE INTERIORES AUTOMOTRICES MEXICO S DE RL
+CALLE PUERTO DE PALOS  1080
+OTRA NO ESPECIFICADA EN EL CATALAGO  JUAREZ CH MEX CP:32580
+RFC/TAX No:ASH160921KB1 IMMEX:122-2019
+
+20220207 8:21:37
+
+PAG. 1 DE
+
+2
+
+EDIASA 4
+
+SAGE083-E22
+
+2702
+
+TRANSPORTE
+PLANTA
+FACTURA
+FIRMA ELECT.
+COVE
+FECHA  EXPEDICION
+FECHA 
+PEDIMENTO
+
+22 67
+
+ADUANA CRUCE
+
+T. CAMBIO
+INCOTERM
+CONSECUTIVO
+
+20.5157
+DAP
+1
+
+01/01/2022
+01/01/2022
+
+3459-2001083 V1
+670
+
+NUMERO DE PARTE
+DESCRIPCION DE LA MERCANCIA
+
+CANTIDAD UNIDAD
+MEDIDA
+
+TIPO FRACCION
+
+PAIS
+ORIGEN
+
+TIPO Y CANTIDAD
+
+PESO BRUTO KGS
+
+COSTO UNITARIO
+
+DE BULTOS
+
+PESO NETO KGS
+
+TOTAL
+
+USD
+
+80.013 MTS
+
+38.9534 MTS
+
+78.6384 MTS
+
+38.4048 MTS
+
+117.9576 MTS
+
+153.6192 MTS
+
+123.0782 MTS
+
+5502541-103H
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5502542-103H
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5502544-103H
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5502546-103H
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5502548-103H
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5512603-103H
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5515947-103H
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5633168-600R
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5633171-600R
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5633173-600R
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5633174-600R
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5633176-600R
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5633368-600R
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5633369-600R
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5633377-600R
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+5633401-600R
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+909940
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+
+125.2728 MTS
+
+83.2104 MTS
+
+81.3816 MTS
+
+41.6052 MTS
+
+81.8388 MTS
+
+164.592 MTS
+
+77.724 MTS
+
+41.148 MTS
+
+41.148 MTS
+
+82.296 MTS
+
+MEX
+
+27 BULTOS
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+MEX
+
+32.990
+32.990
+
+16.060
+16.060
+50.740
+50.740
+63.340
+63.340
+15.830
+15.830
+48.630
+48.630
+32.420
+32.420
+16.970
+16.970
+33.740
+33.740
+51.650
+51.650
+67.860
+67.860
+33.930
+33.930
+32.050
+32.050
+16.970
+16.970
+17.150
+17.150
+33.550
+33.550
+34.310
+34.310
+
+9.6343
+
+$770.87
+
+10.9687
+
+$427.27
+
+9.3394
+
+$1,149.48
+8.8036
+$1,352.40
+8.8036
+$338.10
+8.8036
+$1,038.45
+
+9.3395
+
+$734.44
+
+10.9689
+
+$451.35
+
+9.6457
+$789.39
+9.3395
+$1,169.98
+8.8036
+$1,449.00
+10.1815
+$837.90
+17.8696
+$1,388.90
+
+9.3395
+
+$384.30
+
+9.3395
+
+$388.57
+
+9.3395
+
+$760.06
+
+17.8696
+$1,486.94
+
+TRANSFERENCIA QUE SE EFECTUA  DE CONFORMIDAD CON EL ARTICULO 112 DE LA LEY ADUANERA Y LAS
+REGLAS DE CARACTER GENERAL  5.2.4, 5.2.6 Y 4.3.21 EN MATERIA DE COMERCIO EXTERIOR.
+
+ORIGINAL ADUANAS
+
+OSCAR SIERRA CHAVEZ
+RFC: SICO5407099U2         CURP: SICO540709HCHRHS08
+Patente: 3459
+Declaramos bajo protesta de decir verdad que los datos asentados son
+verdaderos y correctos.
+
+ALFREDO SIERRA CHAVEZ
+RFC: SICA660112JJ4
+CURP: SICA660112HCHRHL06
+Puesto: REPRESENTANTE LEGAL
+
+NUMERO DE PARTE
+DESCRIPCION DE LA MERCANCIA
+
+CANTIDAD
+
+UNIDAD
+MEDIDA
+
+PAIS
+ORIGEN
+
+TIPO Y CANTIDAD
+DE BULTOS
+
+PESO BRUTO KGS
+PESO NETO KGS
+
+COSTO UNITARIO
+
+TOTAL
+
+909940B
+VINYL CON REFUERZO TEXTIL O LAMINADO DE PLASTICO
+
+32.9184 MTS
+
+MEX
+
+TOTALES
+Bultos totales:
+
+27
+
+1,483.8
+
+UNIDADES
+
+27
+
+BULTOS
+
+13.570
+13.570
+
+611.760
+611.760
+
+14.3920
+
+$473.76
+
+$15,391.16
+
+20220207 8:21:43
+
+FACTURASAGE083-E22
+
+PAG.
+
+2 DE
+
+2
+
+TRANSFERENCIA QUE SE EFECTUA  DE CONFORMIDAD CON EL ARTICULO 112 DE LA LEY ADUANERA Y LAS
+REGLAS DE CARACTER GENERAL  5.2.4, 5.2.6 Y 4.3.21 EN MATERIA DE COMERCIO EXTERIOR.
+
+ORIGINAL ADUANAS
+
+OSCAR SIERRA CHAVEZ
+RFC: SICO5407099U2         CURP: SICO540709HCHRHS08
+Patente: 3459
+Declaramos bajo protesta de decir verdad que los datos asentados son
+verdaderos y correctos.
+
+ALFREDO SIERRA CHAVEZ
+RFC: SICA660112JJ4
+CURP: SICA660112HCHRHL06
+Puesto: REPRESENTANTE LEGAL
+
+??????????????????????????????SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064982
+
+04/09/2022
+Date
+
+0000362456
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+55099861
+
+Packing List
+
+4000338412
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 4305321-TX7
+
+SCH B Code: 6005.37.0080
+
+Description: GEAR TX7 GLOBAL BLACK
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: United States
+
+Piece Nbr
+232989804
+232989805
+232989806
+232989906
+232990001
+232990003
+232990007
+232990008
+
+Lot Nbr.
+2329898
+2329898
+2329898
+2329899
+2329900
+2329900
+2329900
+2329900
+
+Qty
+199.339
+204.368
+177.508
+153.276
+204.826
+205.854
+205.054
+182.537
+
+U/M
+MTR
+MTR
+MTR
+MTR
+MTR
+MTR
+MTR
+MTR
+
+Price
+12.120
+12.120
+12.120
+12.120
+12.120
+12.120
+12.120
+12.120
+
+Total
+
+Packages : 8
+
+Net Weight : 2,105.2 LB 954.9 KGS
+
+Quantity : 1532.762
+
+SEAL #:UL-3266928
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$18,577.09
+
+Customer Nbr: 3020101 3020101003
+
+Item: 254954001057000321
+
+Order Number: 4000112290
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:RDAVIS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+???SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064982
+
+04/09/2022
+Date
+
+0000362458
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+55099861
+
+Packing List
+
+4000338415
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 3824720-HL1
+
+SCH B Code: 5407.52.0000
+
+Description: MILLENNIUM 62 Inch HL1 Light Frost Beige
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: United States
+
+Piece Nbr
+328106010
+
+Lot Nbr.
+3281060
+
+Qty
+88.250
+
+U/M
+YDS
+
+Price
+4.730
+
+Total
+
+Packages : 1
+
+Net Weight : 60.6 LB 27.5 KGS
+
+Quantity : 88.250
+
+SEAL #:UL-3266928
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$417.42
+
+Customer Nbr: 3020101 3020101003
+
+Item: 251529001070110322
+
+Order Number: 4000112290
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:RDAVIS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+???SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064982
+
+04/09/2022
+Date
+
+0000362460
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+55099861
+
+Packing List
+
+4000338414
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 3824720-LA8
+
+SCH B Code: 5407.52.0000
+
+Description: MILLENNIUM LA8 DIESEL GRAY 62
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: United States
+
+Piece Nbr
+329474312
+
+Lot Nbr.
+3294743
+
+Qty
+186.875
+
+U/M
+YDS
+
+Price
+4.730
+
+Total
+
+Packages : 1
+
+Net Weight : 127.2 LB 57.7 KGS
+
+Quantity : 186.875
+
+SEAL #:UL-3266928
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$883.92
+
+Customer Nbr: 3020101 3020101003
+
+Item: 251529001063510322
+
+Order Number: 4000112290
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:RDAVIS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+???SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064982
+
+04/09/2022
+Date
+
+0000362468
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+55099861
+
+Packing List
+
+4000338422
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 5248610-KGN4
+
+SCH B Code: 6005.32.0000
+
+Description: SOFT SANDI BLACK KGN4
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: United States
+
+Piece Nbr
+232864611
+232864612
+232912303
+232912305
+232912308
+232912309
+232912312
+232912315
+
+Lot Nbr.
+2328646
+2328646
+2329123
+2329123
+2329123
+2329123
+2329123
+2329123
+
+Qty
+172.000
+155.375
+59.750
+214.625
+164.875
+107.750
+60.375
+212.500
+
+U/M
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+
+Price
+6.290
+6.290
+6.290
+6.290
+6.290
+6.290
+6.290
+6.290
+
+Total
+
+Packages : 8
+
+Net Weight : 1,283.7 LB 582.3 KGS
+
+Quantity : 1147.250
+
+SEAL #:UL-3266928
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$7,216.20
+
+Customer Nbr: 3020101 3020101003
+
+Item: 475453001051160321
+
+Order Number: 4000112290
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:RDAVIS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+???SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064982
+
+04/09/2022
+Date
+
+0000362469
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+55099861
+
+Packing List
+
+4000338430
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 081805001058997041
+
+SCH B Code: 9401.90.1020
+
+Description: DINAMICA AUTO CANNOLI 19W ONYX
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: United States
+
+Piece Nbr
+40074069
+40074093
+
+Lot Nbr.
+92545
+92545
+
+Qty
+60.000
+60.000
+
+U/M
+PCS
+PCS
+
+Price
+14.970
+14.970
+
+Total
+
+Packages : 2
+
+Net Weight : 108.0 LB 49.0 KGS
+
+Quantity : 120.000
+
+SEAL #:UL-3266928
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$1,796.40
+
+Customer Nbr: 3020101 3020101003
+
+Item: 081805001058997041
+
+Order Number: 4000112290
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:RDAVIS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+???SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064982
+
+04/09/2022
+Date
+
+0000362471
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+55099861
+
+Packing List
+
+4000338423
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 5248610-FZ85
+
+SCH B Code: 6005.32.0000
+
+Description: SOFT SANDI FRONTIER FZ85 MED GRAY
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: United States
+
+Piece Nbr
+232959113
+232959201
+
+Lot Nbr.
+2329591
+2329592
+
+Qty
+33.000
+190.500
+
+U/M
+YDS
+YDS
+
+Price
+6.290
+6.290
+
+Total
+
+Packages : 2
+
+Net Weight : 247.9 LB 112.4 KGS
+
+Quantity : 223.500
+
+SEAL #:UL-3266928
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$1,405.82
+
+Customer Nbr: 3020101 3020101003
+
+Item: 475453001061040321
+
+Order Number: 4000112290
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:RDAVIS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+???SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064982
+
+04/09/2022
+Date
+
+0000362476
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+55099861
+
+Packing List
+
+4000338431
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 081805001058997051
+
+SCH B Code: 9401.90.1020
+
+Description: DINAMICA AUTO CANNOLI 19W ONYX
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: United States
+
+Piece Nbr
+40074156
+40074231
+40074303
+40074324
+40074338
+40074353
+
+Lot Nbr.
+92545
+92545
+92545
+92545
+92545
+92545
+
+Qty
+60.000
+60.000
+60.000
+60.000
+60.000
+60.000
+
+U/M
+PCS
+PCS
+PCS
+PCS
+PCS
+PCS
+
+Price
+18.010
+18.010
+18.010
+18.010
+18.010
+18.010
+
+Total
+
+Packages : 6
+
+Net Weight : 324.0 LB 147.0 KGS
+
+Quantity : 360.000
+
+SEAL #:UL-3266928
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$6,483.60
+
+Customer Nbr: 3020101 3020101003
+
+Item: 081805001058997051
+
+Order Number: 4000112290
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:RDAVIS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+???SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064982
+
+04/09/2022
+Date
+
+0000362478
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+55099861
+
+Packing List
+
+4000338560
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 6000043-153030B
+
+SCH B Code:
+
+Description: FLINT 645D GIDEON (LERMA)
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: United States
+
+Piece Nbr
+329421403
+329421404
+329421405
+329421406
+329421407
+329421408
+329421410
+329421412
+329421413
+329553607
+329553609
+329553611
+329553612
+329553613
+329553614
+
+Lot Nbr.
+3294214
+3294214
+3294214
+3294214
+3294214
+3294214
+3294214
+3294214
+3294214
+3295536
+3295536
+3295536
+3295536
+3295536
+3295536
+
+Qty
+99.875
+99.125
+99.750
+99.875
+98.750
+99.875
+17.000
+100.000
+64.000
+97.000
+88.250
+99.125
+98.875
+73.000
+49.375
+
+U/M
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+YDS
+
+Price
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+5.040
+
+Total
+
+Packages : 15
+
+Net Weight : 1,807.6 LB 819.9 KGS
+
+Quantity : 1283.875
+
+SEAL #:UL-3266928
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$6,470.73
+
+Customer Nbr: 3020101 3020101003
+
+Item: 014905001061830321
+
+Order Number: 4000112290
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:RDAVIS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+???SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064983
+
+04/09/2022
+Date
+
+0000362480
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+100687
+
+Packing List
+
+4000338547
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 082052002052050621
+
+SCH B Code: 5603.14.9090
+
+Description: DINAMICA AUTO JARVIS (PATTERN 2) 2M4
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: Italy
+
+Piece Nbr
+000501510
+000501512
+
+Lot Nbr.
+2115M021
+2115M021
+
+Qty
+33.902
+33.410
+
+U/M
+YDS
+YDS
+
+Price
+131.750
+131.750
+
+Total
+
+Packages : 2
+
+Net Weight : 90.4 LB 41.0 KGS
+
+Quantity : 67.312
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$8,868.36
+
+Customer Nbr: 3020101 3020101003
+
+Item: 082052002052050621
+
+Order Number: 4000125610
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:NARIAS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+???SOLD TO:
+MEXICO S DE RL DE CV
+
+SAGE AUTOMOTIVE INTERIORS DE
+
+MIGUEL ALEMAN KM 14.5 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON,
+MX
+
+, 66633
+
+SAGE AUTOMOTIVE INTERIORS, INC.
+PO Box 26269
+Greenville, SC, 29616
+Phone:864-987-7834 Fax:864-987-7820
+EIN: 27-0266382
+
+Tax ID:SAI120808FA9
+
+Master BOL:4000064982
+
+04/09/2022
+Date
+
+0000362481
+Invoice No.
+
+1 of 1
+Page
+
+INVOICE
+
+SHIP TO:
+
+SAGE LERMA FABRICS
+C/O SPACE BORDER LOGISTICS (SBL)
+11302-B EAST POINT DRIVE
+SUITE 100
+LAREDO, TX, 78045
+US
+
+Please wire payment to:
+Account Name: WFBC FBO Sage Automotive
+Account #: 4122040587
+ABA Routing #: 121000248
+SWIFT/BIC #:WFBIUS6S (For international wire transfers)
+
+Purchase Order
+
+55099861
+
+Packing List
+
+4000338432
+
+Ship Date
+
+04/09/2022
+
+INCO Terms:
+
+Routing:
+
+FCA SAGE PLANT
+
+Customer Truck
+
+Part Number: 081805001058997056
+
+SCH B Code: 9401.90.1020
+
+Description: DINAMICA AUTO CANNOLI 19W ONYX
+
+Fiber Content: 100% POLYESTER
+
+Country Of Export: United States
+
+Country Of MFG: United States
+
+Piece Nbr
+40074123
+40074124
+40074152
+
+Lot Nbr.
+92545
+92545
+92545
+
+Qty
+60.000
+60.000
+60.000
+
+U/M
+PCS
+PCS
+PCS
+
+Price
+18.010
+18.010
+18.010
+
+Total
+
+Packages : 3
+
+Net Weight : 162.0 LB 73.5 KGS
+
+Quantity : 180.000
+
+SEAL #:UL-3266928
+
+Customer Specific Verbiage
+
+PAYMENT TERMS
+
+Total Invoice Amount
+
+These items are controlled by the U.S. government and authorized for export only to the country
+of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They
+may not be resold, transferred, or otherwise disposed of, to any other country or to any person
+other than the authorized ultimate consignee or end-user(s), either in their original form or after
+being incorporated into other items, without first obtaining approval from the U.S. government or
+as otherwise authorized by U.S. law and regulations. I DECLARE ALL INFORMATION ON THIS
+COMMERCIAL INVOICE TO BE TRUE AND ACCURATE TO THE BEST OF MY
+KNOWLEDGE.
+
+Signature: ____________________________________________
+
+MSN2 2nd Prox
+Payable in US Dollars
+From Invoice Date
+
+$3,241.80
+
+Customer Nbr: 3020101 3020101003
+
+Item: 081805001058997056
+
+Order Number: 4000112290
+
+Buyer shall pay service charges on overdue bills at the rate of 4.1% per annum,
+said amount not to exceed that allowable by applicable law.
+
+Last User Allocated:RDAVIS
+
+User:ERAMSEY
+
+This Order is subject to the Seller's Terms and Conditions found at http://www.sageautomotiveinteriors.com/terms/ which may be amended from time to time.
+
+?????????????????????????????????: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220203 17:19:27
+
+Page 1 of 2
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+NYX012022
+FECHA
+03/01/2022
+FECHA EXPEDICION 03/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5157
+-
+07
+22
+070
+
+-
+
+VENDIDO A:: WIXOM TECHNOLOGIES LLC
+36111 SCHOOLCRAFT RD
+LIVONIA,MI,USA CP:48150 RFC/TAX No:38-6031993
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: NYX MEXICO PLASTICS S DE RL DE CV
+EJE DOS 112 VILLA DE REYES
+SAN LUIS POTOSI,SL,MEX CP:79526 RFC/TAX No:NMP140226GW3
+IMMEX170-2014
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+GMGA_VNL       VINIL LAMINADO CON POLIURETANO
+LAMINATED VINYL WITH POLYURETHANE
+3921120100
+
+MEX
+
+USA
+
+225
+
+YDS
+
+3 BULTOS
+
+66.450 
+
+66.450 
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+11.82000
+
+$2,659.500
+
+GMGA_VNL       VINIL LAMINADO CON POLIURETANO
+LAMINATED VINYL WITH POLYURETHANE
+3921120100
+
+MEX
+
+USA
+
+176
+
+YDS
+
+4 BULTOS
+
+51.970 
+
+51.970 
+
+11.43000
+
+$2,011.680
+
+UNIDADES:
+
+401
+
+7 Bultos
+
+118.420 
+
+118.420 
+
+La presente factura certifica el precio real de los bienes descritos y confirma que todos los detalles son
+verdaderos y correctos. Estos art?culos son controlados por el gobierno de los Estados Unidos y est?n
+autorizados para la exportaci?n s?lo al pa?s de destino y para ser empleados por el consignatario
+?ltimo o el usuario final en este documento identificado. Estos productos no pueden ser revendidos,
+transferidos a cualquier otro pa?s o a cualquier persona diferente al consignatario autorizado o ?ltimo
+usuario (s) final (es), en su forma original o despu?s de la incorporaci?n en otros art?culos, sin la
+primera aprobaci?n obtenida por el gobierno de los Estados Unidos o de otra manera autorizada seg?n
+la ley y regulaciones de los Estados Unidos. Por favor considere: Obtener la omisi?n Clasificaci?n
+Arancelaria, ECCN o la Informaci?n de Licencias de Exportaci?n e importaci?n, enviando la solicitud a
+adienthts@sttas.com Agentes Aduanales y Consolidadores de carga, recuerdan sus respon
+sabilidades de entender, asimilar y dar cumplimento a todas las leyes aplicables, regulaciones, t?rminos
+y condiciones establecidos en los contratos.
+
+$4,671.180
+
+RFC:               CURP:
+Patente: 0
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON LA REGLA 5.2.5. FRACCION II y 5.2.6. DE LAS RGCE (
+Reglas Generales de Comercio Exterior) Y EL ARTICULO 29 FRACCION I DE LA LEY DEL IVA, VIGENTE
+S. ENTRE LAS EMPRESAS: SAGE AUTOMOTIVE INTERIORS S DE RL DE CV con RFC: SAI120808FA9
+y NYX MEXICO PLASTICS S DE RL DE CV CON NO. IMMEX 170-2014
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220203 17:19:29
+
+Page 2 of 2
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+NYX012022
+FECHA
+03/01/2022
+FECHA EXPEDICION 03/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5157
+-
+07
+22
+070
+
+-
+
+VENDIDO A:: WIXOM TECHNOLOGIES LLC
+36111 SCHOOLCRAFT RD
+LIVONIA,MI,USA CP:48150 RFC/TAX No:38-6031993
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: NYX MEXICO PLASTICS S DE RL DE CV
+EJE DOS 112 VILLA DE REYES
+SAN LUIS POTOSI,SL,MEX CP:79526 RFC/TAX No:NMP140226GW3
+IMMEX170-2014
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+RFC:               CURP:
+Patente: 0
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON LA REGLA 5.2.5. FRACCION II y 5.2.6. DE LAS RGCE (
+Reglas Generales de Comercio Exterior) Y EL ARTICULO 29 FRACCION I DE LA LEY DEL IVA, VIGENTE
+S. ENTRE LAS EMPRESAS: SAGE AUTOMOTIVE INTERIORS S DE RL DE CV con RFC: SAI120808FA9
+y NYX MEXICO PLASTICS S DE RL DE CV CON NO. IMMEX 170-2014
+
+HUMBERTO AVILA GOMEZ
+RFC: AIGH590325QT3
+CURP: AIGH590325HMCVMM02
+Puesto: REPRESENTANTE LEGAL
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+???OKAMOTO SANDUSKY MFG, LLC
+3130 W Monroe Street
+Sandusky OH 44870
+USA
+Phone:
+Fax:
+
+419-626-1633
+419-621-1381
+
+INVOICE NUMBER:
+
+21838
+
+INVOICE DATE:
+
+03/25/2022
+
+REFERENCE NUMBER: RFC: SAI120808FA9
+
+ORDER NUMBER:
+
+13440
+
+PACK ID: 8915
+
+INVOICE
+
+Page:
+
+ 1 of 1
+
+Sold To:
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO S 
+RL CV
+MIGUEL ALEMAN KM 14.5 INT 3C
+BUSINESS PARK MONTERREY
+APODACA NUEVO LEON 66633 Mexico
+
+Ship To:
+
+SPACE BORDER LOGISTICS
+11302-B EAST POINT DRIVE
+LAREDO TX 78045
+USA
+
+Fax:
+
+F.O.B.
+
+EXW
+
+Sales Rep
+
+Mark King
+
+EMail:
+
+PO Number
+
+55099882
+
+Shipping Method
+
+CUSTOMER PICKUP
+
+Quantity
+M
+595.0000
+
+Item Number
+3643155-NH836L
+
+Description/Part Number
+
+TPU
+
+VNL TPU10AM GREY
+
+Payment Terms
+
+2ND DAY OF 2ND MONTH
+
+Ship Date
+
+3/25/2022  12:00:00AM
+
+Unit Price
+
+Ext Price
+
+13.930
+
+$8,288.35
+
+3,448.0000
+
+M
+
+4285946-NH900L
+
+TPU
+
+TPU-23AM VINYL BLACK
+
+14.430
+
+$49,754.64
+
+TOTAL QTY:
+
+4,043.00
+
+Remarks:
+
+Total:
+
+$58,042.99
+
+For Kronos Logistics Inc. and their authorized Agents:  Please prepare CBP Form 
+7512.  FTZ Number and Balance Not Required.  Firms Code:  S8Z1
+
+ARForm:001:00
+
+??????: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:06
+
+Page 1 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+2478030-VG22       VINIL LAMINADO
+VN.CAMINO GR 3MM 1.7LB
+MEX
+
+USA
+
+3921130201
+
+1,135.85
+
+YDS
+
+6 BULTOS
+
+428.220 
+
+428.220 
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+9.25707
+
+$10,514.640
+
+2487503-NH836L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AM.5MM.2.7 GREY
+
+MEX
+
+USA
+
+5903200201
+
+2487503-NH900L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AM.5MM.2.7 BEIGE
+
+MEX
+
+USA
+
+5903200201
+
+2517919-JG18VA       TELA LAMINADA
+LAMINATED FABRIC - CLTH.ATOMIC 3MM 1.7 CHARBLACK
+
+MEX
+
+USA
+
+5903200201
+
+3297667-NH836L       VINIL LAMINADO
+TPU10AGG.H515.3MM 2.7 GREY
+
+MEX
+
+USA
+
+5903200201
+
+3297667-NH900L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AGG.H515.3MM 2.7
+NATURAL BLACK
+
+MEX
+
+USA
+
+5903200201
+
+3297669-NH836L       TELA LAMINADA DE POLIURETANO
+3297669-NH836L
+POLYURETHANE LAMINATED FABRIC TPU10AGG.H515.5MM 2.7
+GREY
+
+MEX
+
+USA
+
+5903200201
+
+3297669-NH900L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC NATURAL BLACK
+
+MEX
+
+USA
+
+5903200201
+
+3297669-YR507L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AGG.H515.5MM 2.7
+
+483.4
+
+YDS
+
+4 BULTOS
+
+182.240 
+
+182.240 
+
+15.91326
+
+$7,692.460
+
+1,734.87
+
+YDS
+
+7 BULTOS
+
+654.050 
+
+654.050 
+
+15.91326
+
+$27,607.430
+
+2,155.89
+
+YDS
+
+11 BULTOS
+
+812.770 
+
+812.770 
+
+5.03273
+
+$10,850.010
+
+44.9
+
+YDS
+
+1 BULTOS
+
+16.930 
+
+16.930 
+
+14.13330
+
+$634.580
+
+195.16
+
+YDS
+
+2 BULTOS
+
+73.580 
+
+73.580 
+
+14.13329
+
+$2,758.250
+
+6,562.15
+
+YDS
+
+6 BULTOS
+
+2,473.930 
+
+2,473.930 
+
+14.67900
+
+$96,325.790
+
+28,263.43
+
+YDS
+
+15 BULTOS
+
+10,655.310 
+
+10,655.310 
+
+14.67900
+
+$414,878.880
+
+2,649.37
+
+YDS
+
+3 BULTOS
+
+998.810 
+
+998.810 
+
+14.67900
+
+$38,890.100
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:12
+
+Page 2 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+BEIGE
+
+MEX
+
+USA
+
+5903200201
+
+3465434-HG70       TELA LAMINADA
+CLTH.BIO PET 5MM STD
+MEX
+USA
+
+5603140100
+
+3465436-KGR2       TELA LAMINADA
+CLTH.BIO FLAT 5 MM STD
+MEX
+USA
+
+5903200201
+
+3791772-YW15       TELA LAMINADA
+CLTH.ULTRASUEDE-RX5M43KG GRAY
+
+MEX
+
+USA
+
+5903200201
+
+3894115-VG22       VINIL LAMINADO
+LAMINATED VINYL CAMINO
+
+MEX
+
+USA
+
+3921120100
+
+4229675-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4229680-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4229680-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4229684-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4229684-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+1,278.58
+
+MTS
+
+5 BULTOS
+
+527.160 
+
+527.160 
+
+14.83179
+
+$18,963.630
+
+2,561.38
+
+MTS
+
+7 BULTOS
+
+1,056.060 
+
+1,056.060 
+
+8.53777
+
+$21,868.470
+
+110.16
+
+MTS
+
+1 BULTOS
+
+45.420 
+
+45.420 
+
+49.84673
+
+$5,491.110
+
+55.21
+
+MTS
+
+1 BULTOS
+
+22.760 
+
+22.760 
+
+10.99489
+
+$607.020
+
+105.18
+
+MTS
+
+2 BULTOS
+
+43.370 
+
+43.370 
+
+14.85969
+
+$1,562.940
+
+286.93
+
+MTS
+
+3 BULTOS
+
+118.300 
+
+118.300 
+
+16.64094
+
+$4,774.780
+
+185.78
+
+MTS
+
+3 BULTOS
+
+76.600 
+
+76.600 
+
+16.64094
+
+$3,091.550
+
+525.4
+
+MTS
+
+3 BULTOS
+
+216.620 
+
+216.620 
+
+18.00148
+
+$9,457.970
+
+379.92
+
+MTS
+
+3 BULTOS
+
+156.640 
+
+156.640 
+
+18.00148
+
+$6,839.120
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:18
+
+Page 3 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5903200201
+
+4237081-NH882L       VINIL LAMINADO
+LAMINATED VINYL -TPU.23AM 3MM 34KG DOW BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237081-NH900L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 3MM 34KG DOW BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4237082-NH882L       VINIL LAMINADO
+LAMINATED VYNIL-TPU.23AM 3MM 34KG TR364B BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237082-NH900L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 3MM 34KG TR364B BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4237083-NH882L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 8MM 34KG DOW BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237083-NH900L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 8MM 34KG DOW BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4237085-NH882L       VINIL LAMINADO
+LAMINATED VINYL - TPU.23A 3MM 34KG DOW BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237085-NH900L       VINIL LAMINADO
+LAMINATED VINYL - TPU.23A 3MM 34KG DOW BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4284592-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+566.06
+
+MTS
+
+5 BULTOS
+
+233.390 
+
+233.390 
+
+18.03557
+
+$10,209.210
+
+2,611.65
+
+MTS
+
+8 BULTOS
+
+1,076.780 
+
+1,076.780 
+
+18.03557
+
+$47,102.590
+
+86.46
+
+MTS
+
+2 BULTOS
+
+35.650 
+
+35.650 
+
+24.80830
+
+$2,144.920
+
+565.18
+
+MTS
+
+4 BULTOS
+
+233.020 
+
+233.020 
+
+24.80831
+
+$14,021.160
+
+261.96
+
+MTS
+
+3 BULTOS
+
+108.010 
+
+108.010 
+
+19.26122
+
+$5,045.660
+
+1,025.87
+
+MTS
+
+6 BULTOS
+
+422.970 
+
+422.970 
+
+19.26122
+
+$19,759.500
+
+1,497.67
+
+MTS
+
+6 BULTOS
+
+617.490 
+
+617.490 
+
+16.60725
+
+$24,872.180
+
+8,226.83
+
+MTS
+
+13 BULTOS
+
+3,391.920 
+
+3,391.920 
+
+16.60725
+
+$136,625.020
+
+59.21
+
+MTS
+
+1 BULTOS
+
+24.410 
+
+24.410 
+
+14.70199
+
+$870.500
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:25
+
+Page 4 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+402.12
+
+MTS
+
+4 BULTOS
+
+165.790 
+
+165.790 
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+14.70200
+
+$5,911.960
+
+4284592-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRICS WITH POLIURETHANE
+USA
+
+5903200201
+
+MEX
+
+4284592-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-NH802L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-R188L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+123.48
+
+MTS
+
+2 BULTOS
+
+50.910 
+
+50.910 
+
+14.70200
+
+$1,815.400
+
+332.56
+
+MTS
+
+2 BULTOS
+
+137.110 
+
+137.110 
+
+16.40060
+
+$5,454.180
+
+4,520.41
+
+MTS
+
+10 BULTOS
+
+1,863.770 
+
+1,863.770 
+
+16.40060
+
+$74,137.430
+
+2,741.45
+
+MTS
+
+9 BULTOS
+
+1,130.300 
+
+1,130.300 
+
+16.40060
+
+$44,961.420
+
+2,819.77
+
+MTS
+
+9 BULTOS
+
+1,162.590 
+
+1,162.590 
+
+16.40060
+
+$46,245.910
+
+1,000.51
+
+MTS
+
+5 BULTOS
+
+412.510 
+
+412.510 
+
+16.40060
+
+$16,408.960
+
+238.83
+
+MTS
+
+1 BULTOS
+
+98.470 
+
+98.470 
+
+18.00148
+
+$4,299.290
+
+2,356.23
+
+MTS
+
+7 BULTOS
+
+971.470 
+
+971.470 
+
+18.00148
+
+$42,415.620
+
+2,032.64
+
+MTS
+
+6 BULTOS
+
+838.060 
+
+838.060 
+
+18.00148
+
+$36,590.520
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:31
+
+Page 5 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5903200201
+
+4284594-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRI WITH POLIURETHANE
+5903200201
+
+MEX
+
+USA
+
+4559280-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4559280-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4559280-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4559282-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623419-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623421-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623421-YR552L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+1,236.39
+
+MTS
+
+5 BULTOS
+
+509.760 
+
+509.760 
+
+18.00148
+
+$22,256.840
+
+915.74
+
+MTS
+
+6 BULTOS
+
+377.560 
+
+377.560 
+
+18.00148
+
+$16,484.670
+
+329.75
+
+MTS
+
+3 BULTOS
+
+135.960 
+
+135.960 
+
+17.06333
+
+$5,626.630
+
+119.5
+
+MTS
+
+2 BULTOS
+
+49.270 
+
+49.270 
+
+17.06333
+
+$2,039.060
+
+192.67
+
+MTS
+
+2 BULTOS
+
+79.440 
+
+79.440 
+
+17.06333
+
+$3,287.590
+
+60.18
+
+MTS
+
+1 BULTOS
+
+24.810 
+
+24.810 
+
+17.21411
+
+$1,035.940
+
+179.35
+
+MTS
+
+1 BULTOS
+
+73.950 
+
+73.950 
+
+15.61322
+
+$2,800.230
+
+174.92
+
+MTS
+
+2 BULTOS
+
+72.120 
+
+72.120 
+
+20.58636
+
+$3,600.960
+
+68.02
+
+MTS
+
+1 BULTOS
+
+28.040 
+
+28.040 
+
+20.58636
+
+$1,400.280
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:38
+
+Page 6 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+198.91
+
+MTS
+
+3 BULTOS
+
+82.010 
+
+82.010 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+17.51154
+
+$3,483.220
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+4623424-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623424-YR552L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623426-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623426-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284592-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284592-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+164.56
+
+MTS
+
+3 BULTOS
+
+67.850 
+
+67.850 
+
+17.51154
+
+$2,881.690
+
+176.75
+
+MTS
+
+2 BULTOS
+
+72.870 
+
+72.870 
+
+19.59817
+
+$3,463.970
+
+45.08
+
+MTS
+
+1 BULTOS
+
+18.590 
+
+18.590 
+
+19.59818
+
+$883.480
+
+560.03
+
+MTS
+
+4 BULTOS
+
+230.900 
+
+230.900 
+
+14.70200
+
+$8,233.560
+
+412.25
+
+MTS
+
+5 BULTOS
+
+169.970 
+
+169.970 
+
+14.70200
+
+$6,060.890
+
+67.22
+
+MTS
+
+1 BULTOS
+
+27.710 
+
+27.710 
+
+15.54183
+
+$1,044.720
+
+945.66
+
+MTS
+
+6 BULTOS
+
+389.900 
+
+389.900 
+
+15.54184
+
+$14,697.290
+
+721.39
+
+MTS
+
+6 BULTOS
+
+297.430 
+
+297.430 
+
+15.54184
+
+$11,211.720
+
+565.65
+
+MTS
+
+6 BULTOS
+
+233.220 
+
+233.220 
+
+15.54184
+
+$8,791.240
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:44
+
+Page 7 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5903200201
+
+4623427-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623429-NH900L       TELA LAMINADA DE POLIRETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623429-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623429-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+123.6
+
+MTS
+
+1 BULTOS
+
+50.960 
+
+50.960 
+
+15.54184
+
+$1,920.970
+
+218.49
+
+MTS
+
+3 BULTOS
+
+90.080 
+
+90.080 
+
+20.77856
+
+$4,539.900
+
+57
+
+MTS
+
+1 BULTOS
+
+23.500 
+
+23.500 
+
+20.77856
+
+$1,184.370
+
+45.88
+
+MTS
+
+1 BULTOS
+
+18.920 
+
+18.920 
+
+20.77855
+
+$953.310
+
+371.15
+
+MTS
+
+3 BULTOS
+
+153.030 
+
+153.030 
+
+17.45867
+
+$6,479.780
+
+260.82
+
+MTS
+
+3 BULTOS
+
+107.540 
+
+107.540 
+
+17.45867
+
+$4,553.570
+
+169.26
+
+MTS
+
+2 BULTOS
+
+69.790 
+
+69.790 
+
+17.45867
+
+$2,955.050
+
+58.76
+
+MTS
+
+1 BULTOS
+
+24.230 
+
+24.230 
+
+19.42446
+
+$1,141.380
+
+1,212.91
+
+MTS
+
+7 BULTOS
+
+500.080 
+
+500.080 
+
+19.42446
+
+$23,560.120
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:50
+
+Page 8 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+926.86
+
+MTS
+
+6 BULTOS
+
+382.140 
+
+382.140 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+19.42446
+
+$18,003.750
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+4623433-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4645530-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4872292-FZ84       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRICS OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLUYRETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872292-FZ86       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER WTH POLIURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872297-FZ85       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872297-FZ87       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+
+346.37
+
+MTS
+
+3 BULTOS
+
+142.810 
+
+142.810 
+
+19.42446
+
+$6,728.050
+
+172.72
+
+MTS
+
+3 BULTOS
+
+71.210 
+
+71.210 
+
+19.42446
+
+$3,354.990
+
+93.82
+
+MTS
+
+1 BULTOS
+
+38.680 
+
+38.680 
+
+18.48605
+
+$1,734.360
+
+551.15
+
+MTS
+
+3 BULTOS
+
+227.240 
+
+227.240 
+
+13.75536
+
+$7,581.260
+
+1,765.74
+
+MTS
+
+6 BULTOS
+
+728.010 
+
+728.010 
+
+13.75536
+
+$24,288.380
+
+1,290.85
+
+MTS
+
+6 BULTOS
+
+532.220 
+
+532.220 
+
+10.84638
+
+$14,001.040
+
+6,015.98
+
+MTS
+
+7 BULTOS
+
+2,480.390 
+
+2,480.390 
+
+10.84638
+
+$65,251.600
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:55
+
+Page 9 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872297-KGN4       TELA DE FILAMENTOS SINTETICOS
+LAMINADA CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872301-FZ85       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872301-FZ87       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872301-KGN4       TELA DE FILAMENTOS SINTETICOS
+LAMINADA CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLUYRETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872302-HK38       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+4872302-WGD4       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER
+
+3,629.31
+
+MTS
+
+6 BULTOS
+
+1,496.360 
+
+1,496.360 
+
+10.84638
+
+$39,364.870
+
+837.46
+
+MTS
+
+5 BULTOS
+
+345.280 
+
+345.280 
+
+10.07430
+
+$8,436.820
+
+4,358.53
+
+MTS
+
+11 BULTOS
+
+1,797.020 
+
+1,797.020 
+
+10.07430
+
+$43,909.130
+
+4,486.63
+
+MTS
+
+11 BULTOS
+
+1,849.840 
+
+1,849.840 
+
+10.07430
+
+$45,199.650
+
+450.01
+
+MTS
+
+5 BULTOS
+
+185.540 
+
+185.540 
+
+13.98486
+
+$6,293.320
+
+1,317.55
+
+MTS
+
+8 BULTOS
+
+543.230 
+
+543.230 
+
+13.98486
+
+$18,425.750
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:00:59
+
+Page 10 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5407610693
+
+4872305-WGD3       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100 % POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+4872310-VGE3       VINIL LAMINADO CON POLIUETANO
+LAMINATED VINYL WITH POLIURETHANE
+3920990200
+
+MEX
+
+USA
+
+4875463-VG22       VINIL, PLASTICO LAMINADO CON
+POLIURETANO
+LAMINATED VINYL
+
+MEX
+
+USA
+
+3920990200
+
+4875464-VG22       VINIL LAMINADO CON POLIURETANO
+LAMINATED VYNIL WITH POLIURETHANE
+3920990200
+
+MEX
+
+USA
+
+4956045-HK38       TELA LAMINADA 100% POLIESTER
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+4956045-WGD4       TELA LAMINADA 100% POLIESTER
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+5493721-FZ85-A       TELA DE FILAMENTO SINTETICO LAMINADA
+LAMINATED SYNTHETIC FILAMNT FABRIC
+5407520503
+
+MEX
+
+USA
+
+524.88
+
+MTS
+
+3 BULTOS
+
+216.410 
+
+216.410 
+
+15.93136
+
+$8,362.050
+
+370.15
+
+MTS
+
+5 BULTOS
+
+152.610 
+
+152.610 
+
+14.69252
+
+$5,438.430
+
+1,780.8
+
+MTS
+
+8 BULTOS
+
+734.220 
+
+734.220 
+
+11.61498
+
+$20,683.950
+
+1,952.12
+
+MTS
+
+7 BULTOS
+
+804.860 
+
+804.860 
+
+11.99001
+
+$23,405.930
+
+226.07
+
+MTS
+
+2 BULTOS
+
+93.210 
+
+93.210 
+
+13.58511
+
+$3,071.180
+
+1,272.29
+
+MTS
+
+7 BULTOS
+
+524.570 
+
+524.570 
+
+13.58511
+
+$17,284.190
+
+518.67
+
+YDS
+
+4 BULTOS
+
+213.850 
+
+213.850 
+
+5.09898
+
+$2,644.680
+
+5493721-FZ87-A       TELA DE FILAMENTO SINTETICO LAMINADA
+LAMINATED SYNTHETIC FILAMENT FABRIC
+
+MEX
+
+USA
+
+5407520503
+
+2,278.51
+
+YDS
+
+5 BULTOS
+
+939.430 
+
+939.430 
+
+5.33341
+
+$12,152.220
+
+2,821.87
+
+YDS
+
+6 BULTOS
+
+1,163.460 
+
+1,163.460 
+
+5.27341
+
+$14,880.870
+
+5493721-KGN4-A       TELA LAMINADA DE FILAMENTOS
+SINTETICOS
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220103 18:01:05
+
+Page 11 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TME122021
+FECHA
+01/12/2021
+FECHA EXPEDICION 01/12/2021
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+21.7333
+-
+07
+21
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+LAMIANTED SYNTHETIC FILAMENT FABRIC
+USA
+
+5407520503
+
+MEX
+
+UNIDADES:
+
+127,822.68
+
+396 Bultos
+
+51,175.470 
+
+51,175.470 
+
+La presente factura certifica el precio real de los bienes descritos y confirma que todos los detalles son
+verdaderos y correctos. Estos art?culos son controlados por el gobierno de los Estados Unidos y est?n
+autorizados para la exportaci?n s?lo al pa?s de destino y para ser empleados por el consignatario
+?ltimo o el usuario final en este documento identificado. Estos productos no pueden ser revendidos,
+transferidos a cualquier otro pa?s o a cualquier persona diferente al consignatario autorizado o ?ltimo
+usuario (s) final (es), en su forma original o despu?s de la incorporaci?n en otros art?culos, sin la
+primera aprobaci?n obtenida por el gobierno de los Estados Unidos o de otra manera autorizada seg?n
+la ley y regulaciones de los Estados Unidos. Por favor considere: Obtener la omisi?n Clasificaci?n
+Arancelaria, ECCN o la Informaci?n de Licencias de Exportaci?n e importaci?n, enviando la solicitud a
+adienthts@sttas.com Agentes Aduanales y Consolidadores de carga, recuerdan sus respon
+sabilidades de entender, asimilar y dar cumplimento a todas las leyes aplicables, regulaciones, t?rminos
+y condiciones establecidos en los contratos.
+
+$1,798,769.060
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.7 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+HUMBERTO AVILA GOMEZ
+RFC: AIGH590325QT3
+CURP: AIGH590325HMCVMM02
+Puesto: REPRESENTANTE LEGAL
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+???: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 11:32:05
+
+Page 1 of 2
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTSLW032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL DE CV
+BLVD FRANCISCO I MADERO  2973 FRANCISCO I MADERO
+FRANCISCO I MADERO
+SALTILLO, COAHUILA,,MEX CP:25120 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+1,855.77
+
+YDS
+
+5 BULTOS
+
+699.620 
+
+699.620 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+7.04170
+
+$13,067.770
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+2591923-TX7       TELA LAMINADA
+CLTH.MILLENIUM 3MM 1.7LB BLACK
+
+MEX
+
+USA
+
+5903200201
+
+3286506-TX7       VINIL LAMINADO
+LAMINATED VINYL - VN.MCKINLEY 3MM 1.7LB BLACK
+
+MEX
+
+USA
+
+3921120100
+
+3286506-VT9       VINIL LAMINADO
+LAMINATED VYNIL - MCKINLEY DAR SADDLE
+USA
+
+3921120100
+
+MEX
+
+3900187-TX7       VINIL LAMINADO
+VN. MCKINLEYHD 6MM 1.7 BLACKo 1.50
+
+MEX
+
+USA
+
+3921120100
+
+3900187-VT9       VINIL LAMINADO
+LAMINATED VINYL DARL SADDLE
+
+MEX
+
+USA
+
+3921120100
+
+4215936-SA5       TELA LAMINADA
+LAMINATED FABRIC MCKINLEY SEAL GREY
+USA
+
+5603140100
+
+MEX
+
+4215936-TX7       TELA LAMINADA
+LAMINATED FABRIC VN BLACK MCKINLEY
+5603140100
+
+MEX
+
+USA
+
+4215936-VT9       TELA LAMINADA
+LAMINATED FABRIC VN DARK SADDLE
+
+MEX
+
+USA
+
+5603140100
+
+452.96
+
+YDS
+
+3 BULTOS
+
+170.770 
+
+170.770 
+
+9.68440
+
+$4,386.640
+
+59.88
+
+YDS
+
+1 BULTOS
+
+22.570 
+
+22.570 
+
+9.68440
+
+$579.900
+
+1,033.3
+
+MTS
+
+4 BULTOS
+
+426.030 
+
+426.030 
+
+10.99158
+
+$11,357.590
+
+109.52
+
+MTS
+
+1 BULTOS
+
+45.160 
+
+45.160 
+
+11.15689
+
+$1,221.900
+
+54.08
+
+MTS
+
+1 BULTOS
+
+22.300 
+
+22.300 
+
+10.13508
+
+$548.100
+
+2,355.03
+
+MTS
+
+5 BULTOS
+
+970.980 
+
+970.980 
+
+11.06656
+
+$26,062.080
+
+150.16
+
+MTS
+
+2 BULTOS
+
+61.910 
+
+61.910 
+
+11.06625
+
+$1,661.700
+
+UNIDADES:
+
+6,070.7
+
+22 Bultos
+
+2,419.340 
+
+2,419.340 
+
+La presente factura certifica el precio real de los bienes descritos y confirma que todos los detalles son
+verdaderos y correctos. Estos art?culos son controlados por el gobierno de los Estados Unidos y est?n
+autorizados para la exportaci?n s?lo al pa?s de destino y para ser empleados por el consignatario
+?ltimo o el usuario final en este documento identificado. Estos productos no pueden ser revendidos,
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+$58,885.680
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 11:32:10
+
+Page 2 of 2
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTSLW032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL DE CV
+BLVD FRANCISCO I MADERO  2973 FRANCISCO I MADERO
+FRANCISCO I MADERO
+SALTILLO, COAHUILA,,MEX CP:25120 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+transferidos a cualquier otro pa?s o a cualquier persona diferente al consignatario autorizado o ?ltimo
+usuario (s) final (es), en su forma original o despu?s de la incorporaci?n en otros art?culos, sin la
+primera aprobaci?n obtenida por el gobierno de los Estados Unidos o de otra manera autorizada seg?n
+la ley y regulaciones de los Estados Unidos. Por favor considere: Obtener la omisi?n Clasificaci?n
+Arancelaria, ECCN o la Informaci?n de Licencias de Exportaci?n e importaci?n, enviando la solicitud a
+adienthts@sttas.com Agentes Aduanales y Consolidadores de carga, recuerdan sus respon
+sabilidades de entender, asimilar y dar cumplimento a todas las leyes aplicables, regulaciones, t?rminos
+y condiciones establecidos en los contratos.
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+HUMBERTO AVILA GOMEZ
+RFC: AIGH590325QT3
+CURP: AIGH590325HMCVMM02
+Puesto: REPRESENTANTE LEGAL
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+???: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:56:00
+
+Page 1 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+2,667.07
+
+MTS
+
+9 BULTOS
+
+2,438.770 
+
+2,438.770 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+16.60725
+
+$44,292.690
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+4237085-NH882L       VINIL LAMINADO
+LAMINATED VINYL - TPU.23A 3MM 34KG DOW BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237085-NH900L       VINIL LAMINADO
+LAMINATED VINYL - TPU.23A 3MM 34KG DOW BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4284592-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284592-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284592-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284592-YR422L       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284592-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRICS WITH POLIURETHANE
+USA
+
+5903200201
+
+MEX
+
+2478030-VG22       VINIL LAMINADO
+VN.CAMINO GR 3MM 1.7LB
+MEX
+
+USA
+
+3921130201
+
+12,089.21
+
+MTS
+
+17 BULTOS
+
+11,054.370 
+
+11,054.370 
+
+16.60725
+
+$200,768.530
+
+114.02
+
+MTS
+
+3 BULTOS
+
+104.260 
+
+104.260 
+
+14.70200
+
+$1,676.320
+
+501.18
+
+MTS
+
+6 BULTOS
+
+458.280 
+
+458.280 
+
+14.70200
+
+$7,368.340
+
+303.68
+
+MTS
+
+3 BULTOS
+
+277.680 
+
+277.680 
+
+14.70200
+
+$4,464.700
+
+133.64
+
+MTS
+
+2 BULTOS
+
+122.200 
+
+122.200 
+
+14.70200
+
+$1,964.770
+
+165.36
+
+MTS
+
+1 BULTOS
+
+151.210 
+
+151.210 
+
+14.70200
+
+$2,431.120
+
+448.81
+
+YDS
+
+5 BULTOS
+
+169.200 
+
+169.200 
+
+9.25707
+
+$4,154.660
+
+2487503-NH836L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AM.5MM.2.7 GREY
+
+MEX
+
+USA
+
+5903200201
+
+572.66
+
+YDS
+
+4 BULTOS
+
+215.900 
+
+215.900 
+
+15.91326
+
+$9,112.880
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:56:10
+
+Page 2 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+2,714.1
+
+YDS
+
+10 BULTOS
+
+1,023.220 
+
+1,023.220 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+15.91326
+
+$43,190.170
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+2487503-NH900L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AM.5MM.2.7 BEIGE
+
+MEX
+
+USA
+
+5903200201
+
+2487503-YR507L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AM.5MM.2.7 BEIGE
+
+MEX
+
+USA
+
+5903200201
+
+2517919-JG18VA       TELA LAMINADA
+LAMINATED FABRIC - CLTH.ATOMIC 3MM 1.7 CHARBLACK
+
+MEX
+
+USA
+
+5903200201
+
+3297667-NH900L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AGG.H515.3MM 2.7
+NATURAL BLACK
+
+MEX
+
+USA
+
+5903200201
+
+3297669-NH836L       TELA LAMINADA DE POLIURETANO
+3297669-NH836L
+POLYURETHANE LAMINATED FABRIC TPU10AGG.H515.5MM 2.7
+GREY
+
+MEX
+
+USA
+
+5903200201
+
+3297669-NH900L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC NATURAL BLACK
+
+MEX
+
+USA
+
+5903200201
+
+3297669-YR507L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AGG.H515.5MM 2.7
+BEIGE
+
+268.03
+
+YDS
+
+3 BULTOS
+
+101.050 
+
+101.050 
+
+15.91326
+
+$4,265.230
+
+4,175.98
+
+YDS
+
+13 BULTOS
+
+1,574.340 
+
+1,574.340 
+
+5.03273
+
+$21,016.570
+
+471.84
+
+YDS
+
+5 BULTOS
+
+177.880 
+
+177.880 
+
+14.13329
+
+$6,668.650
+
+9,571.77
+
+YDS
+
+13 BULTOS
+
+3,608.560 
+
+3,608.560 
+
+14.67900
+
+$140,504.010
+
+37,070.31
+
+YDS
+
+19 BULTOS
+
+13,975.510 
+
+13,975.510 
+
+14.67900
+
+$544,155.080
+
+4,243.66
+
+YDS
+
+11 BULTOS
+
+1,599.860 
+
+1,599.860 
+
+14.67900
+
+$62,292.680
+
+MEX
+
+USA
+
+5903200201
+
+3465434-HG70       TELA LAMINADA
+CLTH.BIO PET 5MM STD
+MEX
+USA
+
+5603140100
+
+3465436-KGR2       TELA LAMINADA
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+1,639.24
+
+MTS
+
+11 BULTOS
+
+1,498.920 
+
+1,498.920 
+
+14.83179
+
+$24,312.860
+
+3,411.59
+
+MTS
+
+12 BULTOS
+
+3,119.560 
+
+3,119.560 
+
+8.53777
+
+$29,127.370
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:56:17
+
+Page 3 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+CLTH.BIO FLAT 5 MM STD
+MEX
+USA
+
+5903200201
+
+4229684-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4237081-NH882L       VINIL LAMINADO
+LAMINATED VINYL -TPU.23AM 3MM 34KG DOW BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237081-NH900L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 3MM 34KG DOW BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4237082-NH882L       VINIL LAMINADO
+LAMINATED VYNIL-TPU.23AM 3MM 34KG TR364B BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237082-NH900L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 3MM 34KG TR364B BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4237083-NH882L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 8MM 34KG DOW BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4284592-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4237083-NH900L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 8MM 34KG DOW BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4284593-NH802L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+
+208.52
+
+MTS
+
+2 BULTOS
+
+190.670 
+
+190.670 
+
+18.00148
+
+$3,753.660
+
+1,039.49
+
+MTS
+
+8 BULTOS
+
+950.510 
+
+950.510 
+
+18.03557
+
+$18,747.790
+
+3,894.9
+
+MTS
+
+11 BULTOS
+
+3,561.500 
+
+3,561.500 
+
+18.03557
+
+$70,246.740
+
+204.72
+
+MTS
+
+4 BULTOS
+
+187.200 
+
+187.200 
+
+24.80831
+
+$5,078.750
+
+1,033.87
+
+MTS
+
+7 BULTOS
+
+945.370 
+
+945.370 
+
+24.80831
+
+$25,648.560
+
+533.59
+
+MTS
+
+6 BULTOS
+
+487.910 
+
+487.910 
+
+19.26122
+
+$10,277.590
+
+94.59
+
+MTS
+
+1 BULTOS
+
+86.490 
+
+86.490 
+
+14.70200
+
+$1,390.660
+
+2,059.54
+
+MTS
+
+9 BULTOS
+
+1,883.240 
+
+1,883.240 
+
+19.26122
+
+$39,669.250
+
+983.09
+
+MTS
+
+4 BULTOS
+
+898.940 
+
+898.940 
+
+16.40060
+
+$16,123.260
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:56:34
+
+Page 4 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5903200201
+
+4284593-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-YR422L       TELA LAMINADA 100% POLIESTER CON
+ESPUMA DE POLIURETANO
+100% POLYESTER LAMINATED FABRIC WITH POLYURETHANE
+FOAM
+
+MEX
+
+USA
+
+5903200201
+
+4284593-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-R188L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-YR422L       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+4,581.26
+
+MTS
+
+12 BULTOS
+
+4,189.100 
+
+4,189.100 
+
+16.40060
+
+$75,135.410
+
+1,933.12
+
+MTS
+
+7 BULTOS
+
+1,767.640 
+
+1,767.640 
+
+16.40060
+
+$31,704.320
+
+121.01
+
+MTS
+
+1 BULTOS
+
+110.650 
+
+110.650 
+
+16.40060
+
+$1,984.630
+
+1,627.01
+
+MTS
+
+7 BULTOS
+
+1,487.740 
+
+1,487.740 
+
+16.40060
+
+$26,683.940
+
+1,368.88
+
+MTS
+
+6 BULTOS
+
+1,251.700 
+
+1,251.700 
+
+16.40060
+
+$22,450.450
+
+168.4
+
+MTS
+
+1 BULTOS
+
+153.980 
+
+153.980 
+
+18.00148
+
+$3,031.440
+
+2,935.69
+
+MTS
+
+12 BULTOS
+
+2,684.390 
+
+2,684.390 
+
+18.00148
+
+$52,846.760
+
+1,727.58
+
+MTS
+
+8 BULTOS
+
+1,579.700 
+
+1,579.700 
+
+18.00148
+
+$31,098.990
+
+177.43
+
+MTS
+
+2 BULTOS
+
+162.240 
+
+162.240 
+
+18.00148
+
+$3,194.000
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:56:43
+
+Page 5 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+LAMINATED FABRIC 100% POLYESTER WITH POLYURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRI WITH POLIURETHANE
+5903200201
+
+MEX
+
+USA
+
+4559280-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4559280-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4559280-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4559280-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623421-YR552L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623426-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+1,107.41
+
+MTS
+
+6 BULTOS
+
+1,012.620 
+
+1,012.620 
+
+18.00148
+
+$19,935.010
+
+1,085.66
+
+MTS
+
+6 BULTOS
+
+992.730 
+
+992.730 
+
+18.00148
+
+$19,543.480
+
+311.98
+
+MTS
+
+4 BULTOS
+
+285.270 
+
+285.270 
+
+17.06333
+
+$5,323.410
+
+227.63
+
+MTS
+
+4 BULTOS
+
+208.140 
+
+208.140 
+
+17.06333
+
+$3,884.120
+
+118.97
+
+MTS
+
+1 BULTOS
+
+108.790 
+
+108.790 
+
+17.06333
+
+$2,030.020
+
+64.85
+
+MTS
+
+1 BULTOS
+
+59.300 
+
+59.300 
+
+17.06333
+
+$1,106.550
+
+50.18
+
+MTS
+
+1 BULTOS
+
+45.880 
+
+45.880 
+
+20.58637
+
+$1,033.020
+
+39.76
+
+MTS
+
+1 BULTOS
+
+36.360 
+
+36.360 
+
+19.59816
+
+$779.220
+
+224.9
+
+MTS
+
+3 BULTOS
+
+205.650 
+
+205.650 
+
+15.54184
+
+$3,495.350
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:56:57
+
+Page 6 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5903200201
+
+4623427-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623429-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623429-NH900L       TELA LAMINADA DE POLIRETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623429-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4872297-FZ87       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872297-KGN4       TELA DE FILAMENTOS SINTETICOS
+LAMINADA CON POLIURETANO
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+686.63
+
+MTS
+
+6 BULTOS
+
+627.850 
+
+627.850 
+
+15.54184
+
+$10,671.490
+
+463.98
+
+MTS
+
+6 BULTOS
+
+424.260 
+
+424.260 
+
+15.54184
+
+$7,211.100
+
+331.79
+
+MTS
+
+3 BULTOS
+
+303.390 
+
+303.390 
+
+15.54184
+
+$5,156.620
+
+234.43
+
+MTS
+
+2 BULTOS
+
+214.360 
+
+214.360 
+
+15.54184
+
+$3,643.470
+
+83.78
+
+MTS
+
+2 BULTOS
+
+76.610 
+
+76.610 
+
+20.77856
+
+$1,740.820
+
+175.4
+
+MTS
+
+2 BULTOS
+
+160.390 
+
+160.390 
+
+20.77856
+
+$3,644.550
+
+69.16
+
+MTS
+
+1 BULTOS
+
+63.240 
+
+63.240 
+
+20.77856
+
+$1,437.040
+
+7,808.18
+
+MTS
+
+15 BULTOS
+
+7,139.800 
+
+7,139.800 
+
+10.84638
+
+$84,690.480
+
+1,936.22
+
+MTS
+
+7 BULTOS
+
+1,770.480 
+
+1,770.480 
+
+10.84638
+
+$21,000.970
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:57:07
+
+Page 7 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872301-FZ85       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872301-FZ87       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872301-KGN4       TELA DE FILAMENTOS SINTETICOS
+LAMINADA CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLUYRETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872302-HK38       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+4872302-WGD4       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+4872305-WGD3       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100 % POLYESTER
+
+870.44
+
+MTS
+
+6 BULTOS
+
+795.930 
+
+795.930 
+
+10.07430
+
+$8,769.070
+
+6,136.07
+
+MTS
+
+14 BULTOS
+
+5,610.820 
+
+5,610.820 
+
+10.07430
+
+$61,816.610
+
+3,253.45
+
+MTS
+
+12 BULTOS
+
+2,974.950 
+
+2,974.950 
+
+10.07430
+
+$32,776.230
+
+401.72
+
+MTS
+
+4 BULTOS
+
+367.330 
+
+367.330 
+
+13.98486
+
+$5,617.990
+
+1,485.84
+
+MTS
+
+8 BULTOS
+
+1,358.650 
+
+1,358.650 
+
+13.98486
+
+$20,779.260
+
+319.88
+
+MTS
+
+4 BULTOS
+
+292.500 
+
+292.500 
+
+15.93136
+
+$5,096.120
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:57:18
+
+Page 8 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5407610693
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+4872310-VGE3       VINIL LAMINADO CON POLIUETANO
+LAMINATED VINYL WITH POLIURETHANE
+3920990200
+
+MEX
+
+USA
+
+4875463-VG22       VINIL, PLASTICO LAMINADO CON
+POLIURETANO
+LAMINATED VINYL
+
+MEX
+
+USA
+
+3920990200
+
+4623429-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-YR422L       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER WITH POLYURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+382.76
+
+MTS
+
+5 BULTOS
+
+350.000 
+
+350.000 
+
+14.69252
+
+$5,623.700
+
+1,665.96
+
+MTS
+
+12 BULTOS
+
+1,523.350 
+
+1,523.350 
+
+11.61498
+
+$19,350.090
+
+106.16
+
+MTS
+
+2 BULTOS
+
+97.070 
+
+97.070 
+
+20.77856
+
+$2,205.850
+
+60.46
+
+MTS
+
+1 BULTOS
+
+55.280 
+
+55.280 
+
+17.45867
+
+$1,055.550
+
+452.52
+
+MTS
+
+5 BULTOS
+
+413.780 
+
+413.780 
+
+17.45867
+
+$7,900.390
+
+248.44
+
+MTS
+
+4 BULTOS
+
+227.170 
+
+227.170 
+
+17.45867
+
+$4,337.430
+
+61.12
+
+MTS
+
+1 BULTOS
+
+55.890 
+
+55.890 
+
+17.45867
+
+$1,067.070
+
+258.72
+
+MTS
+
+2 BULTOS
+
+236.570 
+
+236.570 
+
+17.45867
+
+$4,516.900
+
+66.9
+
+MTS
+
+1 BULTOS
+
+61.170 
+
+61.170 
+
+17.45867
+
+$1,167.980
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:57:28
+
+Page 9 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5903200201
+
+4623433-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4872292-FZ84       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRICS OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLUYRETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4875464-VG22       VINIL LAMINADO CON POLIURETANO
+LAMINATED VYNIL WITH POLIURETHANE
+3920990200
+
+MEX
+
+USA
+
+4872292-FZ86       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER WTH POLIURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872297-FZ85       TELA DE FILAMENTOS SINTETICOS LAMINADA
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+71.64
+
+MTS
+
+1 BULTOS
+
+65.510 
+
+65.510 
+
+19.42446
+
+$1,391.560
+
+1,368.93
+
+MTS
+
+7 BULTOS
+
+1,251.750 
+
+1,251.750 
+
+19.42446
+
+$26,590.720
+
+761.07
+
+MTS
+
+6 BULTOS
+
+695.920 
+
+695.920 
+
+19.42446
+
+$14,783.370
+
+259.54
+
+MTS
+
+2 BULTOS
+
+237.320 
+
+237.320 
+
+19.42446
+
+$5,041.420
+
+204.74
+
+MTS
+
+3 BULTOS
+
+187.210 
+
+187.210 
+
+19.42446
+
+$3,976.960
+
+501.85
+
+MTS
+
+4 BULTOS
+
+458.890 
+
+458.890 
+
+13.75536
+
+$6,903.120
+
+1,927.02
+
+MTS
+
+12 BULTOS
+
+1,762.070 
+
+1,762.070 
+
+11.99001
+
+$23,104.980
+
+2,323.88
+
+MTS
+
+8 BULTOS
+
+2,124.960 
+
+2,124.960 
+
+13.75536
+
+$31,965.800
+
+1,145.27
+
+MTS
+
+8 BULTOS
+
+$12,422.030
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:57:43
+
+Page 10 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+1,047.230 
+
+1,047.230 
+
+COSTO
+UNIT DLS
+
+10.84638
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4956045-HK38       TELA LAMINADA 100% POLIESTER
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+4956045-WGD4       TELA LAMINADA 100% POLIESTER
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+5386710-VG22       TEJIDO DE POLIESTER LAMINADO
+LAMINATED POLYESTER KNIT FABRIC
+
+MEX
+
+USA
+
+3921909999
+
+5493721-FZ85-A       TELA DE FILAMENTO SINTETICO LAMINADA
+LAMINATED SYNTHETIC FILAMNT FABRIC
+5407520503
+
+MEX
+
+USA
+
+512.23
+
+MTS
+
+5 BULTOS
+
+468.380 
+
+468.380 
+
+13.58511
+
+$6,958.700
+
+1,470.25
+
+MTS
+
+7 BULTOS
+
+1,344.400 
+
+1,344.400 
+
+13.58511
+
+$19,973.500
+
+392.48
+
+MTS
+
+5 BULTOS
+
+358.880 
+
+358.880 
+
+13.93660
+
+$5,469.830
+
+657.12
+
+YDS
+
+3 BULTOS
+
+247.730 
+
+247.730 
+
+5.00000
+
+$3,285.600
+
+5493721-FZ87-A       TELA DE FILAMENTO SINTETICO LAMINADA
+LAMINATED SYNTHETIC FILAMENT FABRIC
+
+MEX
+
+USA
+
+5407520503
+
+3,466.12
+
+YDS
+
+10 BULTOS
+
+1,306.730 
+
+1,306.730 
+
+5.01000
+
+$17,365.260
+
+5493721-KGN4-A       TELA LAMINADA DE FILAMENTOS
+SINTETICOS
+LAMIANTED SYNTHETIC FILAMENT FABRIC
+USA
+
+5407520503
+
+MEX
+
+4872305-WGD       TELA LAMINADA CON POLIURETANO 100%
+POLIESTER
+44 / 5,000
+Resultados de traducci?n
+FABRIC LAMINATED WITH POLYURETHANE 100% POLYESTER
+
+MEX
+
+USA
+
+5903200201
+
+1,923.22
+
+YDS
+
+10 BULTOS
+
+725.050 
+
+725.050 
+
+5.01000
+
+$9,635.330
+
+60
+
+YDS
+
+1 BULTOS
+
+54.860 
+
+54.860 
+
+16.50000
+
+$990.000
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220302 17:57:53
+
+Page 11 of 11
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA022022
+FECHA
+01/02/2022
+FECHA EXPEDICION 01/02/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.8597
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+UNIDADES:
+
+153,091.55
+
+499 Bultos
+
+104,742.210 
+
+104,742.210 
+
+La presente factura certifica el precio real de los bienes descritos y confirma que todos los detalles son
+verdaderos y correctos. Estos art?culos son controlados por el gobierno de los Estados Unidos y est?n
+autorizados para la exportaci?n s?lo al pa?s de destino y para ser empleados por el consignatario
+?ltimo o el usuario final en este documento identificado. Estos productos no pueden ser revendidos,
+transferidos a cualquier otro pa?s o a cualquier persona diferente al consignatario autorizado o ?ltimo
+usuario (s) final (es), en su forma original o despu?s de la incorporaci?n en otros art?culos, sin la
+primera aprobaci?n obtenida por el gobierno de los Estados Unidos o de otra manera autorizada seg?n
+la ley y regulaciones de los Estados Unidos. Por favor considere: Obtener la omisi?n Clasificaci?n
+Arancelaria, ECCN o la Informaci?n de Licencias de Exportaci?n e importaci?n, enviando la solicitud a
+adienthts@sttas.com Agentes Aduanales y Consolidadores de carga, recuerdan sus respon
+sabilidades de entender, asimilar y dar cumplimento a todas las leyes aplicables, regulaciones, t?rminos
+y condiciones establecidos en los contratos.
+
+$2,159,097.970
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+HUMBERTO AVILA GOMEZ
+RFC: AIGH590325QT3
+CURP: AIGH590325HMCVMM02
+Puesto: REPRESENTANTE LEGAL
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+???: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:10:13
+
+Page 1 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+145.82
+
+MTS
+
+1 BULTOS
+
+133.340 
+
+133.340 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+15.54184
+
+$2,266.310
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+4623427-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623429-NH900L       TELA LAMINADA DE POLIRETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623429-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623429-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-YR422L       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+222.31
+
+MTS
+
+3 BULTOS
+
+203.280 
+
+203.280 
+
+15.54184
+
+$3,455.100
+
+173.74
+
+MTS
+
+3 BULTOS
+
+158.870 
+
+158.870 
+
+20.77856
+
+$3,610.060
+
+105.6
+
+MTS
+
+1 BULTOS
+
+96.560 
+
+96.560 
+
+20.77856
+
+$2,194.210
+
+102.28
+
+MTS
+
+2 BULTOS
+
+93.520 
+
+93.520 
+
+20.77856
+
+$2,125.230
+
+103.94
+
+MTS
+
+2 BULTOS
+
+95.040 
+
+95.040 
+
+17.45867
+
+$1,814.650
+
+515.46
+
+MTS
+
+5 BULTOS
+
+471.340 
+
+471.340 
+
+17.45867
+
+$8,999.240
+
+1,105.96
+
+MTS
+
+9 BULTOS
+
+1,011.290 
+
+1,011.290 
+
+15.54184
+
+$17,188.650
+
+693.71
+
+MTS
+
+8 BULTOS
+
+634.330 
+
+634.330 
+
+15.54184
+
+$10,781.520
+
+60.4
+
+MTS
+
+1 BULTOS
+
+55.230 
+
+55.230 
+
+15.54184
+
+$938.720
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:10:20
+
+Page 2 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+LAMINATED FABRIC 1005 POLYESTER WITH POLYURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-YR422L       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER WITH POLYURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623431-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-YR422L       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER WITH POLYURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-YR545L       TELA LAMINADA DE POLIURETANO
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+331.19
+
+MTS
+
+4 BULTOS
+
+302.840 
+
+302.840 
+
+17.45867
+
+$5,782.130
+
+58.68
+
+MTS
+
+1 BULTOS
+
+53.660 
+
+53.660 
+
+17.45867
+
+$1,024.470
+
+90.5
+
+MTS
+
+1 BULTOS
+
+82.750 
+
+82.750 
+
+17.45867
+
+$1,580.000
+
+115.5
+
+MTS
+
+1 BULTOS
+
+105.610 
+
+105.610 
+
+17.45867
+
+$2,016.470
+
+169.64
+
+MTS
+
+3 BULTOS
+
+155.120 
+
+155.120 
+
+19.42446
+
+$3,295.160
+
+1,833.55
+
+MTS
+
+10 BULTOS
+
+1,676.600 
+
+1,676.600 
+
+19.42446
+
+$35,615.710
+
+1,486.27
+
+MTS
+
+9 BULTOS
+
+1,359.050 
+
+1,359.050 
+
+19.42446
+
+$28,869.990
+
+72.83
+
+MTS
+
+2 BULTOS
+
+66.600 
+
+66.600 
+
+19.42445
+
+$1,414.680
+
+250.32
+
+MTS
+
+5 BULTOS
+
+$4,862.330
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:10:26
+
+Page 3 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+228.890 
+
+228.890 
+
+COSTO
+UNIT DLS
+
+19.42446
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623433-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4645530-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4645530-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4872292-FZ84       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRICS OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLUYRETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872292-FZ86       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER WTH POLIURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872297-FZ85       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872297-FZ87       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+296.31
+
+MTS
+
+4 BULTOS
+
+270.950 
+
+270.950 
+
+19.42446
+
+$5,755.660
+
+23.5
+
+MTS
+
+1 BULTOS
+
+21.490 
+
+21.490 
+
+18.48604
+
+$434.420
+
+26.28
+
+MTS
+
+1 BULTOS
+
+24.030 
+
+24.030 
+
+18.48604
+
+$485.810
+
+110.44
+
+MTS
+
+1 BULTOS
+
+100.990 
+
+100.990 
+
+13.75536
+
+$1,519.140
+
+2,274.73
+
+MTS
+
+12 BULTOS
+
+2,080.010 
+
+2,080.010 
+
+13.75536
+
+$31,289.730
+
+1,030.97
+
+MTS
+
+8 BULTOS
+
+942.720 
+
+942.720 
+
+10.84638
+
+$11,182.290
+
+5,798.84
+
+MTS
+
+15 BULTOS
+
+5,302.460 
+
+5,302.460 
+
+10.84638
+
+$62,896.420
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:10:32
+
+Page 4 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5407520503
+
+4872297-KGN4       TELA DE FILAMENTOS SINTETICOS
+LAMINADA CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872301-FZ85       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872301-FZ87       TELA DE FILAMENTOS SINTETICOS LAMINADA
+CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLYURETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872301-KGN4       TELA DE FILAMENTOS SINTETICOS
+LAMINADA CON POLIURETANO
+FABRIC OF SYNTHETIC FILAMENTS LAMINATED WITH
+POLUYRETHANE
+
+MEX
+
+USA
+
+5407520503
+
+4872302-HK38       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+4872302-WGD4       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+3,273.34
+
+MTS
+
+11 BULTOS
+
+2,993.140 
+
+2,993.140 
+
+10.84638
+
+$35,503.880
+
+559.8
+
+MTS
+
+4 BULTOS
+
+511.880 
+
+511.880 
+
+10.07430
+
+$5,639.590
+
+4,901.94
+
+MTS
+
+15 BULTOS
+
+4,482.330 
+
+4,482.330 
+
+10.07430
+
+$49,383.610
+
+4,022.1
+
+MTS
+
+12 BULTOS
+
+3,677.810 
+
+3,677.810 
+
+10.07430
+
+$40,519.840
+
+177.52
+
+MTS
+
+2 BULTOS
+
+162.320 
+
+162.320 
+
+13.98486
+
+$2,482.590
+
+1,455.13
+
+MTS
+
+8 BULTOS
+
+1,330.570 
+
+1,330.570 
+
+13.98486
+
+$20,349.780
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:10:37
+
+Page 5 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+544.72
+
+MTS
+
+5 BULTOS
+
+498.090 
+
+498.090 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+15.93136
+
+$8,678.130
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+4872305-WGD3       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100 % POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+4872310-VGE3       VINIL LAMINADO CON POLIUETANO
+LAMINATED VINYL WITH POLIURETHANE
+3920990200
+
+MEX
+
+USA
+
+4875463-VG22       VINIL, PLASTICO LAMINADO CON
+POLIURETANO
+LAMINATED VINYL
+
+MEX
+
+USA
+
+3920990200
+
+4875464-VG22       VINIL LAMINADO CON POLIURETANO
+LAMINATED VYNIL WITH POLIURETHANE
+3920990200
+
+MEX
+
+USA
+
+4956045-HK38       TELA LAMINADA 100% POLIESTER
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+4956045-WGD4       TELA LAMINADA 100% POLIESTER
+LAMINATED FABRIC 100% POLYESTER
+
+MEX
+
+USA
+
+5407610693
+
+5386710-VG22       TEJIDO DE POLIESTER LAMINADO
+LAMINATED POLYESTER KNIT FABRIC
+
+MEX
+
+USA
+
+3921909999
+
+5493721-FZ85-A       TELA DE FILAMENTO SINTETICO LAMINADA
+LAMINATED SYNTHETIC FILAMNT FABRIC
+5407520503
+
+MEX
+
+USA
+
+304.01
+
+MTS
+
+3 BULTOS
+
+277.990 
+
+277.990 
+
+14.69252
+
+$4,466.670
+
+1,801.72
+
+MTS
+
+9 BULTOS
+
+1,647.490 
+
+1,647.490 
+
+11.61498
+
+$20,926.940
+
+1,556.32
+
+MTS
+
+9 BULTOS
+
+1,423.100 
+
+1,423.100 
+
+11.99001
+
+$18,660.290
+
+265.16
+
+MTS
+
+2 BULTOS
+
+242.460 
+
+242.460 
+
+13.58511
+
+$3,602.220
+
+1,491.72
+
+MTS
+
+7 BULTOS
+
+1,364.030 
+
+1,364.030 
+
+13.58511
+
+$20,265.180
+
+504.82
+
+MTS
+
+4 BULTOS
+
+461.610 
+
+461.610 
+
+13.93660
+
+$7,035.470
+
+333.37
+
+YDS
+
+2 BULTOS
+
+125.680 
+
+125.680 
+
+5.00000
+
+$1,666.850
+
+5493721-FZ87-A       TELA DE FILAMENTO SINTETICO LAMINADA
+LAMINATED SYNTHETIC FILAMENT FABRIC
+
+MEX
+
+USA
+
+5407520503
+
+2,235.09
+
+YDS
+
+7 BULTOS
+
+842.630 
+
+842.630 
+
+5.01000
+
+$11,197.800
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:10:44
+
+Page 6 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+5493721-KGN4-A       TELA LAMINADA DE FILAMENTOS
+SINTETICOS
+LAMIANTED SYNTHETIC FILAMENT FABRIC
+USA
+
+5407520503
+
+MEX
+
+2,101.23
+
+YDS
+
+9 BULTOS
+
+792.160 
+
+792.160 
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+5.01000
+
+$10,527.160
+
+4237081-NH882L       VINIL LAMINADO
+LAMINATED VINYL -TPU.23AM 3MM 34KG DOW BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237081-NH900L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 3MM 34KG DOW BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4237082-NH882L       VINIL LAMINADO
+LAMINATED VYNIL-TPU.23AM 3MM 34KG TR364B BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237082-NH900L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 3MM 34KG TR364B BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4237083-NH882L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 8MM 34KG DOW BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237083-NH900L       VINIL LAMINADO
+LAMINATED VINYL-TPU.23AM 8MM 34KG DOW BLACK
+
+MEX
+
+USA
+
+3921130201
+
+4237085-NH882L       VINIL LAMINADO
+LAMINATED VINYL - TPU.23A 3MM 34KG DOW BEIGE
+
+MEX
+
+USA
+
+3921130201
+
+4237085-NH900L       VINIL LAMINADO
+LAMINATED VINYL - TPU.23A 3MM 34KG DOW BLACK
+
+MEX
+
+USA
+
+3921130201
+
+782.56
+
+MTS
+
+3 BULTOS
+
+715.570 
+
+715.570 
+
+18.03557
+
+$14,113.910
+
+4,163.77
+
+MTS
+
+15 BULTOS
+
+3,807.350 
+
+3,807.350 
+
+18.03557
+
+$75,095.960
+
+178.66
+
+MTS
+
+2 BULTOS
+
+163.370 
+
+163.370 
+
+24.80831
+
+$4,432.250
+
+747.77
+
+MTS
+
+8 BULTOS
+
+683.760 
+
+683.760 
+
+24.80831
+
+$18,550.900
+
+293.67
+
+MTS
+
+3 BULTOS
+
+268.530 
+
+268.530 
+
+19.26122
+
+$5,656.440
+
+1,830.49
+
+MTS
+
+10 BULTOS
+
+1,673.800 
+
+1,673.800 
+
+19.26122
+
+$35,257.470
+
+1,904.07
+
+MTS
+
+10 BULTOS
+
+1,741.080 
+
+1,741.080 
+
+16.60725
+
+$31,621.360
+
+9,643.01
+
+MTS
+
+17 BULTOS
+
+8,817.570 
+
+8,817.570 
+
+16.60725
+
+$160,143.870
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:10:50
+
+Page 7 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+39.88
+
+YDS
+
+1 BULTOS
+
+15.030 
+
+15.030 
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+9.25707
+
+$369.170
+
+2478030-VG22       VINIL LAMINADO
+VN.CAMINO GR 3MM 1.7LB
+MEX
+
+USA
+2478030-VX63       TELA DE VINIL LAMINADO
+VN.CAMINO GR 3MM 1.7LB
+MEX
+
+3921130201
+
+3921130201
+
+USA
+
+2487503-NH836L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AM.5MM.2.7 GREY
+
+MEX
+
+USA
+
+5903200201
+
+2487503-NH900L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AM.5MM.2.7 BEIGE
+
+MEX
+
+USA
+
+5903200201
+
+2487503-YR507L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AM.5MM.2.7 BEIGE
+
+MEX
+
+USA
+
+5903200201
+
+2517919-JG18VA       TELA LAMINADA
+LAMINATED FABRIC - CLTH.ATOMIC 3MM 1.7 CHARBLACK
+
+MEX
+
+USA
+
+5903200201
+
+3297667-NH836L       VINIL LAMINADO
+TPU10AGG.H515.3MM 2.7 GREY
+
+MEX
+
+USA
+
+5903200201
+
+3297667-NH900L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AGG.H515.3MM 2.7
+NATURAL BLACK
+
+MEX
+
+USA
+
+5903200201
+
+3297667-YR507L       VINIL LAMINADO
+TPU10AGG.H515.3MM 2.7 BEIGE
+
+MEX
+
+USA
+
+5903200201
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+54.09
+
+YDS
+
+1 BULTOS
+
+20.390 
+
+20.390 
+
+9.25707
+
+$500.710
+
+746.05
+
+YDS
+
+3 BULTOS
+
+281.260 
+
+281.260 
+
+15.91326
+
+$11,872.080
+
+2,178.56
+
+YDS
+
+12 BULTOS
+
+821.320 
+
+821.320 
+
+15.91326
+
+$34,667.990
+
+248.1
+
+YDS
+
+2 BULTOS
+
+93.530 
+
+93.530 
+
+15.91326
+
+$3,948.070
+
+2,979.09
+
+YDS
+
+11 BULTOS
+
+1,123.120 
+
+1,123.120 
+
+5.03273
+
+$14,992.950
+
+223.62
+
+YDS
+
+5 BULTOS
+
+84.300 
+
+84.300 
+
+14.13329
+
+$3,160.480
+
+625.74
+
+YDS
+
+4 BULTOS
+
+235.900 
+
+235.900 
+
+14.13329
+
+$8,843.760
+
+52
+
+YDS
+
+1 BULTOS
+
+19.600 
+
+19.600 
+
+14.13329
+
+$734.930
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:10:57
+
+Page 8 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+8,257.79
+
+YDS
+
+17 BULTOS
+
+3,113.190 
+
+3,113.190 
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+14.67900
+
+$121,216.090
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+3297669-NH836L       TELA LAMINADA DE POLIURETANO
+3297669-NH836L
+POLYURETHANE LAMINATED FABRIC TPU10AGG.H515.5MM 2.7
+GREY
+
+MEX
+
+USA
+
+5903200201
+
+3297669-NH900L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC NATURAL BLACK
+
+MEX
+
+USA
+
+5903200201
+
+3297669-YR507L       TELA LAMINADA DE POLIURETANO
+POLYURETHANE LAMINATED FABRIC TPU10AGG.H515.5MM 2.7
+BEIGE
+
+MEX
+
+USA
+
+5903200201
+
+3465434-HG70       TELA LAMINADA
+CLTH.BIO PET 5MM STD
+MEX
+USA
+
+5603140100
+
+3465436-KGR2       TELA LAMINADA
+CLTH.BIO FLAT 5 MM STD
+MEX
+USA
+
+5903200201
+
+3791772-YP83       TELA DE POLIESTER LAMINADO
+CLTH.ULTRASUEDE-RX5M43KG BEIGE
+
+MEX
+
+USA
+
+5903200201
+
+4229675-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4229680-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4229680-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+33,497.05
+
+YDS
+
+18 BULTOS
+
+12,628.390 
+
+12,628.390 
+
+14.67900
+
+$491,703.190
+
+1,424.78
+
+YDS
+
+7 BULTOS
+
+537.140 
+
+537.140 
+
+14.67900
+
+$20,914.340
+
+1,394.49
+
+MTS
+
+8 BULTOS
+
+1,275.120 
+
+1,275.120 
+
+14.83179
+
+$20,682.780
+
+2,834.59
+
+MTS
+
+11 BULTOS
+
+2,591.950 
+
+2,591.950 
+
+8.53777
+
+$24,201.070
+
+63.88
+
+MTS
+
+1 BULTOS
+
+58.410 
+
+58.410 
+
+49.93619
+
+$3,189.920
+
+58.68
+
+MTS
+
+1 BULTOS
+
+53.660 
+
+53.660 
+
+14.85970
+
+$871.960
+
+30
+
+MTS
+
+1 BULTOS
+
+27.430 
+
+27.430 
+
+16.64093
+
+$499.220
+
+26
+
+MTS
+
+1 BULTOS
+
+23.770 
+
+23.770 
+
+16.64092
+
+$432.660
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:11:03
+
+Page 9 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5903200201
+
+4284592-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284592-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284592-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRICS WITH POLIURETHANE
+USA
+
+5903200201
+
+MEX
+
+4284592-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-NH802L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284593-YR422L       TELA LAMINADA 100% POLIESTER CON
+ESPUMA DE POLIURETANO
+100% POLYESTER LAMINATED FABRIC WITH POLYURETHANE
+FOAM
+
+MEX
+
+USA
+
+5903200201
+
+4284593-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+655.38
+
+MTS
+
+6 BULTOS
+
+599.280 
+
+599.280 
+
+14.70200
+
+$9,635.390
+
+380.34
+
+MTS
+
+4 BULTOS
+
+347.780 
+
+347.780 
+
+14.70200
+
+$5,591.750
+
+27
+
+MTS
+
+1 BULTOS
+
+24.690 
+
+24.690 
+
+14.70200
+
+$396.950
+
+115.63
+
+MTS
+
+2 BULTOS
+
+105.730 
+
+105.730 
+
+14.70200
+
+$1,699.990
+
+392.4
+
+MTS
+
+5 BULTOS
+
+358.810 
+
+358.810 
+
+16.40060
+
+$6,435.590
+
+5,771.03
+
+MTS
+
+15 BULTOS
+
+5,277.030 
+
+5,277.030 
+
+16.40060
+
+$94,648.350
+
+2,798.52
+
+MTS
+
+13 BULTOS
+
+2,558.970 
+
+2,558.970 
+
+16.40060
+
+$45,897.400
+
+265.39
+
+MTS
+
+2 BULTOS
+
+242.670 
+
+242.670 
+
+16.40060
+
+$4,352.550
+
+1,170.14
+
+MTS
+
+9 BULTOS
+
+1,069.980 
+
+1,069.980 
+
+16.40060
+
+$19,190.990
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:11:09
+
+Page 10 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5903200201
+
+4284593-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-R188L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-YR422L       TELA 100% POLIESTER LAMINADA CON
+POLIURETANO
+LAMINATED FABRIC 100% POLYESTER WITH POLYURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4284594-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRI WITH POLIURETHANE
+5903200201
+
+MEX
+
+USA
+
+4559280-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIUREHANE
+5903200201
+
+MEX
+
+USA
+
+691.16
+
+MTS
+
+5 BULTOS
+
+632.000 
+
+632.000 
+
+16.40060
+
+$11,335.430
+
+417.2
+
+MTS
+
+4 BULTOS
+
+381.490 
+
+381.490 
+
+18.00148
+
+$7,510.210
+
+3,926.32
+
+MTS
+
+15 BULTOS
+
+3,590.230 
+
+3,590.230 
+
+18.00148
+
+$70,679.570
+
+2,430.4
+
+MTS
+
+11 BULTOS
+
+2,222.360 
+
+2,222.360 
+
+18.00148
+
+$43,750.790
+
+421.16
+
+MTS
+
+5 BULTOS
+
+385.110 
+
+385.110 
+
+18.00148
+
+$7,581.500
+
+804.01
+
+MTS
+
+6 BULTOS
+
+735.190 
+
+735.190 
+
+18.00148
+
+$14,473.360
+
+330.13
+
+MTS
+
+5 BULTOS
+
+301.870 
+
+301.870 
+
+18.00148
+
+$5,942.820
+
+64.13
+
+MTS
+
+1 BULTOS
+
+58.640 
+
+58.640 
+
+17.06332
+
+$1,094.270
+
+4559280-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+444.79
+
+MTS
+
+6 BULTOS
+
+406.720 
+
+406.720 
+
+17.06333
+
+$7,589.590
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:11:16
+
+Page 11 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+MEX
+
+USA
+
+5903200201
+
+4559280-R188L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4559280-YR545L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4559280-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4559282-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623421-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623421-YR552L       TELA LAMINADA DE POLIURETANO
+LAMIANTED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623426-NH900L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623426-YR552L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+4623427-NH802L       TELA LAMINADA DE POLIURETANO
+LAMINATED FABRIC WITH POLIURETHANE
+
+MEX
+
+USA
+
+5903200201
+
+280.36
+
+MTS
+
+4 BULTOS
+
+256.360 
+
+256.360 
+
+17.06333
+
+$4,783.870
+
+88.07
+
+MTS
+
+1 BULTOS
+
+80.530 
+
+80.530 
+
+17.06332
+
+$1,502.760
+
+30.2
+
+MTS
+
+1 BULTOS
+
+27.610 
+
+27.610 
+
+17.06334
+
+$515.310
+
+51.24
+
+MTS
+
+1 BULTOS
+
+46.850 
+
+46.850 
+
+17.21409
+
+$882.040
+
+57.28
+
+MTS
+
+1 BULTOS
+
+52.380 
+
+52.380 
+
+20.58637
+
+$1,179.180
+
+17
+
+MTS
+
+1 BULTOS
+
+15.540 
+
+15.540 
+
+20.58635
+
+$349.960
+
+29.5
+
+MTS
+
+1 BULTOS
+
+26.970 
+
+26.970 
+
+19.59817
+
+$578.140
+
+27.6
+
+MTS
+
+1 BULTOS
+
+25.240 
+
+25.240 
+
+19.59815
+
+$540.900
+
+47.18
+
+MTS
+
+1 BULTOS
+
+43.140 
+
+43.140 
+
+15.54184
+
+$733.260
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV MIGUEL ALEMAN KM 14.5  INT 3 C BUSINESS PARK MONTERREY
+APODACA,NL,MEX CP:66633 RFC/TAX No:SAI120808FA9
+
+EXPORTACION
+
+PLANTA 
+2735
+TRANSPORTE
+EDOCUMENT
+
+NO. ENTRY
+FIRMA ELEC.
+
+20220404 12:11:23
+
+Page 12 of 12
+
+SAGE AUTOMOTIVE INTERIORS DE MEXICO 
+
+FACTURA
+TTMCVA032022
+FECHA
+01/03/2022
+FECHA EXPEDICION 01/03/2022
+T. CAMBIO
+PEDIMENTO
+ADUANA CRUCE
+
+20.5272
+-
+07
+22
+070
+
+3459-
+
+-
+
+VENDIDO A:: TECHNOTRIM
+49200 HALYARD DRIVE
+PLYMOUTH,MI,USA CP:48170 RFC/TAX No:382710245
+
+: SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV
+AV. DE LA INDUSTRIA AUTOMOTRIZ 11 OTRA NO ESPECIFICADA EN
+EL CATALOGO COL. PARQ. INDUSTRIAL EX-HACIENDA RO?A ROSA
+LERMA,EM,MEX CP:52000 RFC/TAX No:SAI120808FA9
+
+ENVIADO A:: TECHNOTRIM DE MEXICO S DE RL D CV
+PLAN DE GUADALUPE  OTILIO MONTANO, COAHUILA UNIDO 1400
+OTILIO MONTANO, COAHUILA
+MONCLOVA,,MEX CP:25790 RFC/TAX No:TME970421654
+IMMEX2301-2006
+
+NUM PARTE    DESCRIPCIÓN DE LA MERCANCÍA
+
+CANTIDAD Y UNIMED
+
+BULTOS
+
+KILOS NETOS
+
+PAIS ORIG PAIS DEST
+
+FRACCION
+
+  KILOS
+BRUTOS
+
+COSTO
+UNIT DLS
+
+VALOR
+TOTAL DLS
+
+UNIDADES:
+
+138,738.71
+
+522 Bultos
+
+97,307.570 
+
+97,307.570 
+
+La presente factura certifica el precio real de los bienes descritos y confirma que todos los detalles son
+verdaderos y correctos. Estos art?culos son controlados por el gobierno de los Estados Unidos y est?n
+autorizados para la exportaci?n s?lo al pa?s de destino y para ser empleados por el consignatario
+?ltimo o el usuario final en este documento identificado. Estos productos no pueden ser revendidos,
+transferidos a cualquier otro pa?s o a cualquier persona diferente al consignatario autorizado o ?ltimo
+usuario (s) final (es), en su forma original o despu?s de la incorporaci?n en otros art?culos, sin la
+primera aprobaci?n obtenida por el gobierno de los Estados Unidos o de otra manera autorizada seg?n
+la ley y regulaciones de los Estados Unidos. Por favor considere: Obtener la omisi?n Clasificaci?n
+Arancelaria, ECCN o la Informaci?n de Licencias de Exportaci?n e importaci?n, enviando la solicitud a
+adienthts@sttas.com Agentes Aduanales y Consolidadores de carga, recuerdan sus respon
+sabilidades de entender, asimilar y dar cumplimento a todas las leyes aplicables, regulaciones, t?rminos
+y condiciones establecidos en los contratos.
+
+$1,988,849.550
+
+LIC. OSCAR SIERRA CHAVEZ
+RFC:SICO5407099U2  CURP:
+Patente: 3459
+
+NOTA: Los valores que se muestran en esta factura son solo para efectos aduanales, declaramos bajo
+protesta de decir verdad que los datos asentados son verdaderos.
+
+OPERACION VIRTUAL DE CONFORMIDAD CON EL ART. 112 DE LA LEY ADUANERA,  ART.29 FRACC
+ION I DE LA LEY DEL IVA, Y RGCE 4.3.21, 5.2.4 y 5.2.6 VIGENTES,  VIGENTES ENTRE LAS EMPRESA
+S SAGE AUTOMOTIVE INTERIORS DE MEXICO S DE RL DE CV CON IMMEX 432-2014 y TECHNOTRIM
+DE MEXICO S DE RL DE CV CON IMMEX 2301-2006
+
+HUMBERTO AVILA GOMEZ
+RFC: AIGH590325QT3
+CURP: AIGH590325HMCVMM02
+Puesto: REPRESENTANTE LEGAL
+
+Declaramos bajo protesta de decir verdad que los datos as
+entados son verdaderos y correctos.
+
+???

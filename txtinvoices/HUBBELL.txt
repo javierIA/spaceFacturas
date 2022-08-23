@@ -1,0 +1,6085 @@
+Hubbell Lighting, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607 USA
+
+INTERCOMPANY
+BILLING
+
+435853865
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+Hubbell Lighting, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607 USA
+
+  SHIP TO:
+
+P3621
+
+Hubbell Products Mexico
+9560 JOE RODRIGUEZ
+EL PASO TX  79927-2146
+
+UDC: Mexico
+
+  REMIT TO:
+
+EIN Number: 06-1123319
+
+Currency: USD
+
+INTERCOMPANY BILLING 435853865
+
+DUPLICATE
+
+Page 1 of 1  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 435853865 / 12/23/2021
+Order Number/Date:    4505894800 
+PO Number/Date:         
+
+  SHIPPING INFO:
+Shipping Doc/Date: 9000941777 / 12/23/2021
+Delivery Terms:      PREPAID
+Point of Delivery:    SHIPPING POINT
+Shipping Point:        HLI Jefferson, GA
+Carrier:                    UCW LOGISTICS VAN
+BOL/Tracking:         UCW-1199 
+Number of Shipping Units: 248
+Total Volume:     573.376  FT3
+Gross Weight:         2980.960  LB
+Net Weight:           2296.480  LB
+
+Payment Terms: Net 30 days
+
+Brand
+COL
+
+Qty
+Ordered
+      248
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+      248
+
+Qty
+UM
+EA
+
+Price
+
+      29.29
+
+Price
+UM
+Value
+EA     7,265.04
+
+Merchandise Total
+Invoice Amount
+
+             7,265.04
+             7,265.04
+
+  SOLD TO: P3621
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CALLE 1 NORTE NO 103
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+  BILL TO:
+
+C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505894800
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    10 93123038
+
+CBT24-LS40
+
+UPC Code: 840141400068
+
+Additional Comments:
+Note:
+Tracking Numbers:
+
+     
+???HLI Solutions, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607
+Phone:  1-864-678-1000
+
+CUSTOMER INVOICE 436260592
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+HLI Solutions, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607
+Phone:  1-864-678-1000
+
+  SHIP TO:
+
+329939
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+UDC: Mexico
+
+  REMIT TO:
+
+      745792
+
+HLI Solutions Inc.
+PO Box 745792
+Atlanta GA  30374-5792
+
+EIN Number: 06-1123319
+
+Currency: USD
+
+CUSTOMER INVOICE
+
+DUPLICATE
+
+436260592
+Page 1 of 2  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436260592 / 02/10/2022
+Order Number/Date:    120012008 / 01/30/2022
+PO Number/Date:        4505931860 / 01/29/2022
+
+  SHIPPING INFO:
+Shipping Doc/Date: 825535565 / 02/10/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    PREPAID
+Shipping Point:        HLI Chicago, IL - Commercial
+Carrier:                    UPS WW EXPRESS SAVER
+BOL/Tracking:         1Z2RV4970428981700 /
+1Z2RV4970428981728
+Number of Shipping Units: 5
+Total Volume:     4.115  FT3
+Gross Weight:         125.000  LB
+
+Payment Terms: Net 30 days
+
+  SOLD TO: 329939
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+HOUSE ACCOUNTS
+HOUSE ACCOUNTS
+HOUSE ACCOUNTS
+
+  BILL TO:
+
+329939
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505931860
+Freight Forwarder:
+UPS WW EXPRESS SAVER
+UNITED PARCEL SVC INC
+137 DANBURY RD
+NEW MILFORD CT  06776-3428
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    10 93097509
+
+PEL2-50MM-FAW-EDU
+
+UPC Code: 078531133740
+Ctry of Origin:Mexico
+Harmonized Code:9405116020
+
+Brand
+COL
+
+Qty
+Ordered
+        5
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+        5
+
+Qty
+UM
+EA
+
+Price
+
+      97.02
+
+Price
+UM
+EA
+
+Value
+      485.10
+
+Additional Comments:
+Note:
+
+Brand Codes:   AAL = ARCHITECTURAL AREA LIGHTING; BEAC = BEACON PRODUCTS; COL COLUMBIA LIGHTING; COMP = COMPASS; D-L = DUAL-LITE; HCS = HUBBELL CONTROLS SOLUTIONS; HLOL = HUBBELL LIGHTING OUTDOOR; KIM = KIM LIGHTING; KV
+
+Merchandise Total
+Invoice Amount
+
+               485.10
+               485.10
+
+HLI Solutions, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607
+Phone:  1-864-678-1000
+
+CUSTOMER INVOICE 436260592
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+HLI Solutions, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607
+Phone:  1-864-678-1000
+
+CUSTOMER INVOICE
+
+DUPLICATE
+
+436260592
+Page 2 of 2  
+
+02/10/2022 PO Number: 4505931860
+
+= KURT VERSON; PRES = PRESCOLITE
+
+Subject to published Terms and Conditions
+
+Some states have laws requiring that we inform you that all fluorescent and HID lamps (except low pressure sodium) contain mercury, a hazardous substance that is regulated by federal or state law.  The small amount of mercury is vital to the operation of the lamp.
+
+Tracking Numbers:
+
+1Z2RV4970428981700
+1Z2RV4970428981719
+1Z2RV4970428981728
+
+???HLI Solutions, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607
+Phone:  1-864-678-1000
+
+CUSTOMER INVOICE 436437768
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  SOLD TO: 329939
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+HOUSE ACCOUNTS
+HOUSE ACCOUNTS
+HOUSE ACCOUNTS
+
+  BILL TO:
+
+329939
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505931857
+
+Item
+    10 FXL1904KY
+
+Material Number / Catalog Number
+Description / Additional Information
+FXL-190-4K-Y
+
+HLI Solutions, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607
+Phone:  1-864-678-1000
+
+  SHIP TO:
+
+329939
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+UDC: Mexico
+
+  REMIT TO:
+
+      745792
+
+HLI Solutions Inc.
+PO Box 745792
+Atlanta GA  30374-5792
+
+EIN Number: 06-1123319
+
+Currency: USD
+
+CUSTOMER INVOICE
+
+DUPLICATE
+
+436437768
+Page 1 of 1  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436437768 / 02/28/2022
+Order Number/Date:    120011993 / 01/30/2022
+PO Number/Date:        4505931857 / 01/29/2022
+
+  SHIPPING INFO:
+Shipping Doc/Date: 825664543 / 02/28/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    PREPAID
+Shipping Point:        HLI/OI Christiansburg, VA
+Carrier:                    UPS SCS MEXICO SA DE CV
+BOL/Tracking:         1Z2871676892698766 
+Number of Shipping Units: 1
+Total Volume:     1.888  FT3
+Gross Weight:         36.000  LB
+
+Payment Terms: Net 30 days
+
+Brand
+HLOL
+
+Qty
+Ordered
+        1
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+        1
+
+Qty
+UM
+EA
+
+Price
+
+     353.69
+
+Price
+UM
+EA
+
+Value
+      353.69
+
+UPC Code: 785988033713
+Ctry of Origin:China
+Harmonized Code:9405426000
+
+Additional Comments:
+Note:
+
+Brand Codes:   AAL = ARCHITECTURAL AREA LIGHTING; BEAC = BEACON PRODUCTS; COL COLUMBIA LIGHTING; COMP = COMPASS; D-L = DUAL-LITE; HCS = HUBBELL CONTROLS SOLUTIONS; HLOL = HUBBELL LIGHTING OUTDOOR; KIM = KIM LIGHTING; KV
+
+Merchandise Total
+Invoice Amount
+
+               353.69
+               353.69
+
+= KURT VERSON; PRES = PRESCOLITE
+
+Subject to published Terms and Conditions
+
+Some states have laws requiring that we inform you that all fluorescent and HID lamps (except low pressure sodium) contain mercury, a hazardous substance that is regulated by federal or state law.  The small amount of mercury is vital to the operation of the lamp.
+
+???HLI Solutions, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607
+Phone:  1-864-678-1000
+
+CUSTOMER INVOICE 436467270
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+HLI Solutions, Inc.
+701 Millennium Boulevard
+Greenville, SC 29607
+Phone:  1-864-678-1000
+
+  SHIP TO:
+
+329939
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+UDC: Mexico
+
+  REMIT TO:
+
+      745792
+
+HLI Solutions Inc.
+PO Box 745792
+Atlanta GA  30374-5792
+
+EIN Number: 06-1123319
+
+Currency: USD
+
+CUSTOMER INVOICE
+
+DUPLICATE
+
+436467270
+Page 1 of 1  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436467270 / 03/03/2022
+Order Number/Date:    120012119 / 01/30/2022
+PO Number/Date:        4505931831 / 01/30/2022
+
+  SHIPPING INFO:
+Shipping Doc/Date: 825696363 / 03/03/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    PREPAID
+Shipping Point:        HLI/OI Christiansburg, VA
+Carrier:                    UPS CANADA STD GROUND DOM
+BOL/Tracking:         1Z2871676893842811 
+Number of Shipping Units: 1
+Gross Weight:         27.000  LB
+
+Payment Terms: Net 30 days
+
+  SOLD TO: 329939
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+HOUSE ACCOUNTS
+HOUSE ACCOUNTS
+HOUSE ACCOUNTS
+
+  BILL TO:
+
+329939
+
+HUBBELL PRODUCTS MEXICO S DE
+HUBBELL INC
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505931831
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    10 RAR
+
+RAR2-320L-165-4K7-3-UNV-
+MAF-DBT
+
+Brand
+HLOL
+
+Qty
+Ordered
+        1
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+        1
+
+Qty
+UM
+EA
+
+Price
+
+     224.61
+
+Price
+UM
+EA
+
+Value
+      224.61
+
+Additional Comments:
+Note:
+
+Brand Codes:   AAL = ARCHITECTURAL AREA LIGHTING; BEAC = BEACON PRODUCTS; COL COLUMBIA LIGHTING; COMP = COMPASS; D-L = DUAL-LITE; HCS = HUBBELL CONTROLS SOLUTIONS; HLOL = HUBBELL LIGHTING OUTDOOR; KIM = KIM LIGHTING; KV
+
+Merchandise Total
+Invoice Amount
+
+               224.61
+               224.61
+
+= KURT VERSON; PRES = PRESCOLITE
+
+Subject to published Terms and Conditions
+
+Some states have laws requiring that we inform you that all fluorescent and HID lamps (except low pressure sodium) contain mercury, a hazardous substance that is regulated by federal or state law.  The small amount of mercury is vital to the operation of the lamp.
+
+???INTERCOMPANY
+BILLING
+
+436484760
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  SHIP TO:
+
+P3621
+
+Space Border Logistics Corp
+11302B EASTPOINT DR, STE 100
+LAREDO TX  78045
+
+UDC: Mexico
+
+  NEW REMIT TO:
+
+       25409
+
+Hubbell Electrical Products
+25409 Network Place
+Chicago IL  60673-1254
+
+EIN Number: 35-0617070
+
+Currency: USD
+
+  SOLD TO: P3621
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CALLE 1 NORTE NO 103
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+  BILL TO:
+
+C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505962535
+
+INTERCOMPANY BILLING 436484760
+
+ORIGINAL
+
+Page 1 of 2  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436484760 / 03/04/2022
+Order Number/Date:    4505962535 
+PO Number/Date:         
+
+  SHIPPING INFO:
+Shipping Doc/Date: 9000964057 / 03/04/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    SHIPPING POINT
+Shipping Point:        Fenton, MO
+Carrier:                    FEDEX FRT ECONOMY LTL
+BOL/Tracking:         7695637585 
+
+Total Volume:     1,683.422  "3
+Gross Weight:         166.320  LB
+Net Weight:           15.994  LB
+
+Payment Terms: Net 30 days
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    10 X37SA
+
+    20 X27SA
+
+    30 KFL3030
+
+1" ALUM CONDUIT BODY "X"
+
+UPC Code: 783936080604
+Ctry of Origin:Mexico
+
+3/4" ALUM CONDUIT BODY
+"X"
+
+UPC Code: 783936080598
+Ctry of Origin:Mexico
+
+30000 Lumen LED Flood
+120-277VAC 50/60HZ
+UPC Code: 783936183220
+Ctry of Origin:USA
+
+Brand
+KILL
+
+Qty
+Ordered
+        4
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+        4
+
+Qty
+UM
+EA
+
+Price
+
+       7.68
+
+Price
+UM
+EA
+
+Value
+       30.72
+
+KILL
+
+        5
+
+        0
+
+        5
+
+EA
+
+       5.19
+
+EA
+
+       25.95
+
+KILL
+
+       12
+
+        6
+
+        6
+
+EA
+
+     254.02
+
+EA     1,524.12
+
+    40 CUP-7
+
+PLUG AL CLOSE UP 2-1/2"
+
+KILL
+
+       10
+
+        0
+
+       10
+
+EA
+
+      10.77
+
+EA
+
+      107.70
+
+UPC Code: 783936090078
+Ctry of Origin:USA
+
+INTERCOMPANY
+BILLING
+
+436484760
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INTERCOMPANY BILLING 436484760
+
+ORIGINAL
+
+Page 2 of 2  
+
+Brand
+KILL
+
+Qty
+Ordered
+        5
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+        5
+
+Qty
+UM
+EA
+
+Price
+
+       6.83
+
+Price
+UM
+EA
+
+Value
+       34.15
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    60 TB37SA
+
+CORROSAFE7 1" TB COND
+BDY
+
+UPC Code: 783936080727
+Ctry of Origin:Mexico
+
+Additional Comments:
+Note:
+Tracking Numbers:
+
+Merchandise Total
+Invoice Amount
+
+             1,722.64
+             1,722.64
+
+???INTERCOMPANY
+BILLING
+
+436502778
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  SHIP TO:
+
+P3621
+
+Space Border Logistics Corp
+11302B EASTPOINT DR, STE 100
+LAREDO TX  78045
+
+UDC: Mexico
+
+  NEW REMIT TO:
+
+       25409
+
+Hubbell Electrical Products
+25409 Network Place
+Chicago IL  60673-1254
+
+EIN Number: 35-0617070
+
+Currency: USD
+
+INTERCOMPANY BILLING 436502778
+
+ORIGINAL
+
+Page 1 of 1  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436502778 / 03/07/2022
+Order Number/Date:    4505814560 
+PO Number/Date:         
+
+  SHIPPING INFO:
+Shipping Doc/Date: 9000966194 / 03/07/2022
+Delivery Terms:      COLLECT
+Point of Delivery:    SHIPPING POINT
+Shipping Point:        Fenton, MO
+Carrier:                    UPS NEXT DAY STD 10AM DOM US
+BOL/Tracking:         1Z6A40Y20118212896 /
+1Z6A40Y20118212896
+Number of Shipping Units: 1
+Gross Weight:         13.080  LB
+
+Payment Terms: Net 30 days
+
+  SOLD TO: P3621
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CALLE 1 NORTE NO 103
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+  BILL TO:
+
+C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505814560
+Freight Forwarder:
+UPS NEXT DAY STD 10AM DOM US
+UNITED PARCEL SVC INC
+12380 MORRIS RD
+ALPHARETTA GA  30005-4616
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    70 ESXA120A
+
+ESX AMBER STROBE 120VAC
+
+UPC Code: 783936153575
+Ctry of Origin:USA
+
+Brand
+KILL
+
+Qty
+Ordered
+        1
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+        1
+
+Qty
+UM
+EA
+
+Price
+
+     413.53
+
+Price
+UM
+EA
+
+Value
+      413.53
+
+Merchandise Total
+Invoice Amount
+
+               413.53
+               413.53
+
+Additional Comments:
+Note:
+Tracking Numbers:
+1Z6A40Y20118212896
+
+???Hubbell Power Systems, Inc.
+210 North Allen Street
+Centralia, MO 65240
+
+CUSTOMER INVOICE 436525343
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+Hubbell Power Systems, Inc.
+210 North Allen Street
+Centralia, MO 65240
+
+  SHIP TO:
+
+1061331
+
+HUBBELL DE MEXICO
+C/O Space Border Logistics, Corp.
+11302B EASTPOINT DR, STE 100
+LAREDO TX  78045-6327
+
+UDC: Mexico
+
+  NEW REMIT TO:
+
+      891210
+
+HUBBELL POWER SYSTEMS INC
+Dept. 1210
+PO Box 121210
+Dallas TX  75312-1210
+
+EIN Number: 06-1413832
+
+Currency: USD
+
+CUSTOMER INVOICE
+
+ORIGINAL
+
+436525343
+Page 1 of 2  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436525343 / 03/09/2022
+Order Number/Date:    119986112 / 01/23/2022
+PO Number/Date:        4505924589 / 01/23/2022
+PO Release No:       
+
+Cust Cont:                   HUBBELL DE MEXICO SA DE CV
+
+  SHIPPING INFO:
+Shipping Doc/Date: 825672695 / 03/09/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    SHIPPING POINT
+Shipping Point:        HPS Aiken, SC
+Carrier:                    YRC FREIGHT
+BOL/Tracking:         7609302022 
+
+Gross Weight:         642.000  LB
+Net Weight:           624.000  LB
+
+Payment Terms: Net 30 days
+
+  SOLD TO: C362
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+  BILL TO:
+
+C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505924589
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    10 VLN036GA029AA
+
+VL Arrester, 29kV MCOV, 36kV
+Rated
+
+UPC Code: 096359747932
+Ctry of Origin:USA
+Harmonized Code:8535400000
+
+Brand
+OB
+
+Qty
+Ordered
+        6
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+        6
+
+Qty
+UM
+EA        505.8483
+
+Price
+
+Price
+UM
+Value
+EA     3,035.09
+
+Additional Comments:
+Note:
+
+Subject to published Terms and Conditions.
+
+Important: For customs use only, do not provide to consignee.
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other country or to any person other than the
+
+authorized ultimate consignee or end-user(s), either in their original form or after being incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and regulations.
+
+This invoice is certified true and correct.
+
+Merchandise Total
+Invoice Amount
+
+             3,035.09
+             3,035.09
+
+Hubbell Power Systems, Inc.
+210 North Allen Street
+Centralia, MO 65240
+
+CUSTOMER INVOICE 436525343
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+Hubbell Power Systems, Inc.
+210 North Allen Street
+Centralia, MO 65240
+
+CUSTOMER INVOICE
+
+ORIGINAL
+
+436525343
+Page 2 of 2  
+
+03/09/2022 PO Number: 4505924589
+
+Tracking Numbers:
+
+???Hubbell Power Systems, Inc.
+210 North Allen Street
+Centralia, MO 65240
+
+CUSTOMER INVOICE 436591804
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+Hubbell Power Systems, Inc.
+210 North Allen Street
+Centralia, MO 65240
+
+  SHIP TO:
+
+1061331
+
+HUBBELL PRODUCTS MEXICO
+11302B EASTPOINT DR, STE 100
+11302B EASTPOINT DR, STE 100
+LAREDO TX  78045-6327
+
+UDC: Mexico
+
+  NEW REMIT TO:
+
+      891210
+
+HUBBELL POWER SYSTEMS INC
+Dept. 1210
+PO Box 121210
+Dallas TX  75312-1210
+
+EIN Number: 06-1413832
+
+Currency: USD
+
+CUSTOMER INVOICE
+
+ORIGINAL
+
+436591804
+Page 1 of 2  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436591804 / 03/16/2022
+Order Number/Date:    119837531 / 12/05/2021
+PO Number/Date:        4505881209 / 12/05/2021
+PO Release No:       
+
+Cust Cont:                   HUBBELL DE MEXICO SA DE CV
+
+  SHIPPING INFO:
+Shipping Doc/Date: 825788603 / 03/16/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    SHIPPING POINT
+Shipping Point:        HPS Aiken, SC
+Carrier:                    YRC FREIGHT
+BOL/Tracking:         6493182567 
+
+Total Volume:     18  FT3
+Gross Weight:         105.930  LB
+Net Weight:           96.300  LB
+
+Payment Terms: Net 30 days
+
+  SOLD TO: C362
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+  BILL TO:
+
+C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505881209
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    20 3018243010
+
+PVI-LP, 24.4kV MCOV, 30kV
+Rated
+
+UPC Code: 096359733300
+Ctry of Origin:USA
+Harmonized Code:8535400000
+
+Brand
+OB
+
+Qty
+Ordered
+        9
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+        9
+
+Qty
+UM
+EA        107.9433
+
+Price
+
+Price
+UM
+EA
+
+Value
+      971.49
+
+Additional Comments:
+Note:
+
+Subject to published Terms and Conditions.
+
+Important: For customs use only, do not provide to consignee.
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other country or to any person other than the
+
+authorized ultimate consignee or end-user(s), either in their original form or after being incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and regulations.
+
+This invoice is certified true and correct.
+
+Merchandise Total
+Invoice Amount
+
+               971.49
+               971.49
+
+Hubbell Power Systems, Inc.
+210 North Allen Street
+Centralia, MO 65240
+
+CUSTOMER INVOICE 436591804
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+Hubbell Power Systems, Inc.
+210 North Allen Street
+Centralia, MO 65240
+
+CUSTOMER INVOICE
+
+ORIGINAL
+
+436591804
+Page 2 of 2  
+
+03/16/2022 PO Number: 4505881209
+
+Tracking Numbers:
+
+???INTERCOMPANY
+BILLING
+
+436636812
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  SHIP TO:
+
+P3621
+
+Space Border Logistics Corp
+11302B EASTPOINT DR, STE 100
+LAREDO TX  78045
+
+UDC: Mexico
+
+  NEW REMIT TO:
+
+      891210
+
+HUBBELL POWER SYSTEMS INC
+Dept. 1210
+PO Box 121210
+Dallas TX  75312-1210
+
+EIN Number: 06-1413832
+
+Currency: USD
+
+  SOLD TO: P3621
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CALLE 1 NORTE NO 103
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+  BILL TO:
+
+C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505887215
+
+INTERCOMPANY BILLING 436636812
+
+ORIGINAL
+
+Page 1 of 1  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436636812 / 03/21/2022
+Order Number/Date:    4505887215 
+PO Number/Date:         
+PO Release No:       
+
+  SHIPPING INFO:
+Shipping Doc/Date: 9000970899 / 03/21/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    SHIPPING POINT
+Shipping Point:        HPS Centralia, MO
+Carrier:                    XPO LOGISTICS LTL
+BOL/Tracking:         161432880 
+
+Total Volume:     27  FT3
+Gross Weight:         400.000  LB
+Net Weight:           300.000  LB
+
+Payment Terms: Net 30 days
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    40 C4060531
+
+HOT STICK RUBBER
+BLANKET CLAMP
+UPC Code: 096359243953
+
+Additional Comments:
+Note:
+Tracking Numbers:
+
+Brand
+CH
+
+Qty
+Ordered
+    1,000
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+    1,000
+
+Qty
+UM
+EA           4.1604
+
+Price
+
+Price
+UM
+Value
+EA     4,160.40
+
+Merchandise Total
+Invoice Amount
+
+             4,160.40
+             4,160.40
+
+???INTERCOMPANY
+BILLING
+
+436636813
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  SHIP TO:
+
+P3621
+
+Space Border Logistics Corp
+11302B EASTPOINT DR, STE 100
+LAREDO TX  78045
+
+UDC: Mexico
+
+  NEW REMIT TO:
+
+      891210
+
+HUBBELL POWER SYSTEMS INC
+Dept. 1210
+PO Box 121210
+Dallas TX  75312-1210
+
+EIN Number: 06-1413832
+
+Currency: USD
+
+  SOLD TO: P3621
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CALLE 1 NORTE NO 103
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+  BILL TO:
+
+C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505912815
+
+INTERCOMPANY BILLING 436636813
+
+ORIGINAL
+
+Page 1 of 1  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436636813 / 03/21/2022
+Order Number/Date:    4505912815 
+PO Number/Date:         
+PO Release No:       
+
+  SHIPPING INFO:
+Shipping Doc/Date: 9000970798 / 03/21/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    SHIPPING POINT
+Shipping Point:        HPS Centralia, MO
+Carrier:                    XPO LOGISTICS LTL
+BOL/Tracking:         161432880 
+
+Total Volume:     1.246  FT3
+Gross Weight:         17.500  LB
+Net Weight:           17.150  LB
+
+Payment Terms: Net 30 days
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+   160 P6213
+
+TOOL BAG, 5' 4" L X 7.5" W
+
+UPC Code: 096359050391
+
+Brand
+CH
+
+Qty
+Ordered
+       33
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+       14
+
+Qty
+UM
+EA          17.1043
+
+Price
+
+Price
+UM
+EA
+
+Value
+      239.46
+
+Merchandise Total
+Invoice Amount
+
+               239.46
+               239.46
+
+Additional Comments:
+Note:
+Tracking Numbers:
+
+???INTERCOMPANY
+BILLING
+
+436704056
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  SHIP TO:
+
+P3621
+
+Space Border Logistics Corp
+11302B EASTPOINT DR, STE 100
+LAREDO TX  78045
+
+UDC: Mexico
+
+  NEW REMIT TO:
+
+       25409
+
+Hubbell Electrical Products
+25409 Network Place
+Chicago IL  60673-1254
+
+EIN Number: 35-0617070
+
+Currency: USD
+
+  SOLD TO: P3621
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CALLE 1 NORTE NO 103
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+  BILL TO:
+
+C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4505965796
+
+INTERCOMPANY BILLING 436704056
+
+ORIGINAL
+
+Page 1 of 2  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436704056 / 03/28/2022
+Order Number/Date:    4505965796 
+PO Number/Date:         
+
+  SHIPPING INFO:
+Shipping Doc/Date: 9000972922 / 03/28/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    SHIPPING POINT
+Shipping Point:        Fenton, MO
+Carrier:                    R&L CARRIERS
+BOL/Tracking:         361664127 
+Number of Shipping Units: 9
+Total Volume:     576,271.588  "3
+Gross Weight:         3555.000  LB
+Net Weight:           1676.610  LB
+
+Payment Terms: Net 30 days
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    10 VMAG25S
+
+    20 VMD5B
+
+    30 VMD5B
+
+VM 7-3/4" STAINLESS GUARD
+LO WATT
+
+UPC Code: 783936786704
+Ctry of Origin:China
+
+VM 1-1/2" 25° STANCHION
+MOUNT
+
+UPC Code: 783936781037
+Ctry of Origin:Mexico
+
+VM 1-1/2" 25° STANCHION
+MOUNT
+
+UPC Code: 783936781037
+Ctry of Origin:Mexico
+
+Brand
+KILL
+
+Qty
+Ordered
+      445
+
+Qty
+Backordered
+      246
+
+Qty
+Shipped
+      199
+
+Qty
+UM
+EA
+
+Price
+
+      15.78
+
+Price
+UM
+Value
+EA     3,140.22
+
+KILL
+
+      267
+
+        0
+
+      267
+
+EA
+
+      25.36
+
+EA     6,771.12
+
+KILL
+
+      222
+
+       51
+
+      171
+
+EA
+
+      25.36
+
+EA     4,336.56
+
+   140 SWB-2
+
+3/4" 5 7/8X3X2 1/4 SWB BODY
+
+KILL
+
+    1,477
+
+      625
+
+      852
+
+EA
+
+      12.91
+
+EA    10,999.32
+
+UPC Code: 783936630021
+
+INTERCOMPANY
+BILLING
+
+436704056
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INTERCOMPANY BILLING 436704056
+
+ORIGINAL
+
+Page 2 of 2  
+
+Item
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Brand
+
+Qty
+Ordered
+
+Qty
+Backordered
+
+Qty
+Shipped
+
+Qty
+UM
+
+Price
+
+Price
+UM
+
+Value
+
+Ctry of Origin:Mexico
+
+Merchandise Total
+Invoice Amount
+
+            25,247.22
+            25,247.22
+
+Additional Comments:
+Note:
+Tracking Numbers:
+
+???COMMERCIAL
+INVOICE
+
+436834868
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+SHIP TO:
+Space Border Logistics Corp
+11302B EASTPOINT DR, STE 100
+LAREDO TX 78045
+
+P3621
+
+NEW REMIT TO:
+Hubbell Electrical Products
+25409 Network Place
+Chicago IL 60673-1254
+
+25409
+
+EIN Number: 35-0617070
+
+Currency: USD
+
+ID:
+
+SOLD TO: C362
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+C362
+
+BILL TO:
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+Special Markings/Instructions:
+4506010136
+Freight Forwarder:
+SPACE BORDER LOGISTICS CORP
+11302B EASTPOINT DR, STE 100
+LAREDO TX 78045-6327
+
+COMMERCIAL INVOICE 436834868
+
+ORIGINAL
+
+Page 1 of 2
+
+DOCUMENT INFO:
+
+Invoice Number/Date: 436834868 / 04/12/2022
+Order Number/Date: 4506010136
+PO Number/Date:
+
+SHIPPING INFO:
+
+9000978837
+
+Shipping Doc:
+Ship From:
+Delivery Terms:
+Point of Delivery: SHIPPING POINT
+
+4201 , Fenton MO
+PREPAID
+
+Payment Terms: Net 30 days
+
+Item
+
+Material Number / Catalog Number
+Description / Additional Information
+
+10  KFL19530 - REPAIR
+
+195 WATT LED FLOOD  
+REPAIR WORK COMPLETE
+
+UPC Code: 783936123011
+Harmonized Code:9405416000
+
+Units were sent in for repair due to manufacturing 
+defect. The invoice value reflects repair costs. 
+
+Brand
+KILL
+
+Qty
+Ordered
+34
+
+Qty
+Backordered
+0
+
+Qty
+Shipped
+
+34
+
+Qty
+UM
+EA
+
+Price
+
+22.72
+
+Price
+UM
+EA 
+
+Value
+
+772.48
+
+Merchandise Total
+Invoice Amount
+
+772.48
+772.48
+
+Authorized Signature _________________________________________
+
+COMMERCIAL INVOICE 436834868
+
+ORIGINAL
+
+Page 2 of 2
+
+Additional Comments:
+Note:
+
+Subject to published Terms and Conditions.
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other country or to any person other than the
+
+authorized ultimate consignee or end-user(s), either in their original form or after being incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and regulations.
+
+???COMMERCIAL
+INVOICE
+
+436834868
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+SHIP TO:
+Space Border Logistics Corp
+11302B EASTPOINT DR, STE 100
+LAREDO TX 78045
+
+P3621
+
+NEW REMIT TO:
+Hubbell Electrical Products
+25409 Network Place
+Chicago IL 60673-1254
+
+25409
+
+EIN Number: 35-0617070
+
+Currency: USD
+
+ID:
+
+SOLD TO: C362
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+C362
+
+BILL TO:
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+Special Markings/Instructions:
+4506010136
+Freight Forwarder:
+SPACE BORDER LOGISTICS CORP
+11302B EASTPOINT DR, STE 100
+LAREDO TX 78045-6327
+
+COMMERCIAL INVOICE 436834868
+
+ORIGINAL
+
+Page 1 of 2
+
+DOCUMENT INFO:
+
+Invoice Number/Date: 436834868 / 04/12/2022
+Order Number/Date: 4506010136
+PO Number/Date:
+
+SHIPPING INFO:
+
+9000978837
+
+Shipping Doc:
+Ship From:
+Delivery Terms:
+Point of Delivery: SHIPPING POINT
+
+4201 , Fenton MO
+PREPAID
+
+Payment Terms: Net 30 days
+
+Item
+
+Material Number / Catalog Number
+Description / Additional Information
+
+10  KFL19530 - REPAIR
+
+195 WATT LED FLOOD  
+REPAIR WORK COMPLETE
+
+UPC Code: 783936123011
+Harmonized Code:9405416000
+
+Units were sent in for repair due to manufacturing 
+defect. The invoice value reflects repair costs. 
+
+Brand
+KILL
+
+Qty
+Ordered
+34
+
+Qty
+Backordered
+0
+
+Qty
+Shipped
+
+34
+
+Qty
+UM
+EA
+
+Price
+
+22.72
+
+Price
+UM
+EA 
+
+Value
+
+772.48
+
+Merchandise Total
+Invoice Amount
+
+772.48
+772.48
+
+Authorized Signature _________________________________________
+
+COMMERCIAL INVOICE 436834868
+
+ORIGINAL
+
+Page 2 of 2
+
+Additional Comments:
+Note:
+
+Subject to published Terms and Conditions.
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other country or to any person other than the
+
+authorized ultimate consignee or end-user(s), either in their original form or after being incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and regulations.
+
+??????????????????????????????COMMERCIAL INVOICE
+436582627
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+ BILL TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SHIP TO:     P3620
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CINCO SUR 104
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SOLD TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INFORMATION:
+
+Invoice No.:
+Invoice Date:
+
+Sales Order No.:
+Sales Order Date:
+
+436582627
+03/16/2022
+Original
+
+4505916663*
+
+Delivery Note No.:
+Delivery Date:
+
+9000967058
+03/16/2022
+
+Purchase Order No.:
+
+Sales Rep/Agency:
+
+Our Contact:
+Tel No.:
+Fax No.:
+Email:
+
+Customer Contact:
+Tel No.:
+Fax No.:
+Email:
+
+ADDITIONAL INFORMATION:
+
+Shipping Instructions:
+
+Payment Terms:
+Currency:
+Incoterms:
+Carrier:
+BOL:
+
+Net 30 days
+USD
+WOB SHIPPING POINT
+R&L CARRIERS
+224464842
+
+No. of Packages: 1
+Net Weight:
+Gross Weight:
+Volume:
+
+18.44
+18.44
+0.000
+
+LB
+LB
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+    60
+
+YS28A1
+4/0 AWG CODE AL9CU COMPRESSION SPLICE
+
+100
+
+EA
+
+            2.8882 
+
+           288.82 
+
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 1 of 3
+
+COMMERCIAL INVOICE
+436582627
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+Returnable
+
+   110
+
+YS28A1
+4/0 AWG CODE AL9CU COMPRESSION SPLICE
+
+14
+
+EA
+
+            2.8879 
+
+            40.43 
+
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+   180
+
+YS28A1
+4/0 AWG CODE AL9CU COMPRESSION SPLICE
+
+15
+
+EA
+
+            2.8880 
+
+            43.32 
+
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+   250
+
+YAV10
+12-10 HVYDTY RING 8-10 S,0.97 IN L
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+493
+
+EA
+
+            0.0921 
+
+            45.41 
+
+  Sub-total for Items:
+
+  Final Total:
+
+            $ 417.98
+
+            $ 417.98
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 2 of 3
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+COMMERCIAL INVOICE
+436582627
+
+PACKAGE
+
+PACKING
+
+DIMENSIONS()
+
+NET WEIGHT
+
+GROSS WEIGHT
+
+ID
+
+TYPE
+
+( LB )
+
+( LB )
+
+64414199
+
+PALLET
+
+     0.00
+
+L
+
+W
+
+     0.00
+
+H
+
+     0.00
+
+    18.44
+
+    18.44
+
+CERTIFICATE OF CONFORMITY DECLARATION:
+
+Name of Approver:            ______________________________   
+
+Title:            ______________________________   
+
+Signature:            ______________________________   
+
+Date:            ______________________________   
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and
+regulations.
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 3 of 3
+
+???COMMERCIAL INVOICE
+436582628
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+ BILL TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SHIP TO:     P3620
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CINCO SUR 104
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SOLD TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INFORMATION:
+
+Invoice No.:
+Invoice Date:
+
+Sales Order No.:
+Sales Order Date:
+
+436582628
+03/16/2022
+Original
+
+4505952942
+
+Delivery Note No.:
+Delivery Date:
+
+9000967695
+03/16/2022
+
+Purchase Order No.:
+
+Sales Rep/Agency:
+
+Our Contact:
+Tel No.:
+Fax No.:
+Email:
+
+Customer Contact:
+Tel No.:
+Fax No.:
+Email:
+
+ADDITIONAL INFORMATION:
+
+Shipping Instructions:
+
+Payment Terms:
+Currency:
+Incoterms:
+Carrier:
+BOL:
+
+Net 30 days
+USD
+WOB SHIPPING POINT
+R&L CARRIERS
+224464842
+
+No. of Packages: 1
+Net Weight:
+Gross Weight:
+Volume:
+
+10.60
+10.60
+0.000
+
+LB
+LB
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+    60
+
+YA6C2TC14E2
+6 AWG CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+342
+
+EA
+
+            0.5449 
+
+           186.34 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 1 of 3
+
+COMMERCIAL INVOICE
+436582628
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+Returnable
+
+  Sub-total for Items:
+
+  Final Total:
+
+            $ 186.34
+
+            $ 186.34
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 2 of 3
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+COMMERCIAL INVOICE
+436582628
+
+PACKAGE
+
+PACKING
+
+DIMENSIONS()
+
+NET WEIGHT
+
+GROSS WEIGHT
+
+ID
+
+TYPE
+
+( LB )
+
+( LB )
+
+64414133
+
+PALLET
+
+     0.00
+
+L
+
+W
+
+     0.00
+
+H
+
+     0.00
+
+    10.60
+
+    10.60
+
+CERTIFICATE OF CONFORMITY DECLARATION:
+
+Name of Approver:            ______________________________   
+
+Title:            ______________________________   
+
+Signature:            ______________________________   
+
+Date:            ______________________________   
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and
+regulations.
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 3 of 3
+
+???COMMERCIAL INVOICE
+436582620
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+ BILL TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SHIP TO:     P3620
+
+Hubbell Products Mexico
+Calle 1 Norte No. 103
+S. de RL de CV
+50200 TOLUCA
+MEXICO
+
+ SOLD TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INFORMATION:
+
+Invoice No.:
+Invoice Date:
+
+Sales Order No.:
+Sales Order Date:
+
+436582620
+03/16/2022
+Original
+
+4505976890
+
+Delivery Note No.:
+Delivery Date:
+
+9000968087
+03/16/2022
+
+Purchase Order No.:
+
+Sales Rep/Agency:
+
+Our Contact:
+Tel No.:
+Fax No.:
+Email:
+
+Customer Contact:
+Tel No.:
+Fax No.:
+Email:
+
+ADDITIONAL INFORMATION:
+
+Shipping Instructions:
+
+Payment Terms:
+Currency:
+Incoterms:
+Carrier:
+BOL:
+
+Net 30 days
+USD
+WOB SHIPPING POINT
+R&L CARRIERS
+224464842
+
+No. of Packages: 1
+Net Weight:
+Gross Weight:
+Volume:
+
+9.23
+9.23
+0.000
+
+LB
+LB
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+    10
+
+YA28
+4/0 AWG CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+71
+
+EA
+
+            1.6123 
+
+           114.47 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 1 of 3
+
+COMMERCIAL INVOICE
+436582620
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+Returnable
+
+  Sub-total for Items:
+
+  Final Total:
+
+            $ 114.47
+
+            $ 114.47
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 2 of 3
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+COMMERCIAL INVOICE
+436582620
+
+PACKAGE
+
+PACKING
+
+DIMENSIONS()
+
+NET WEIGHT
+
+GROSS WEIGHT
+
+ID
+
+TYPE
+
+( LB )
+
+( LB )
+
+64414535
+
+PALLET
+
+     0.00
+
+L
+
+W
+
+     0.00
+
+H
+
+     0.00
+
+     9.23
+
+     9.23
+
+CERTIFICATE OF CONFORMITY DECLARATION:
+
+Name of Approver:            ______________________________   
+
+Title:            ______________________________   
+
+Signature:            ______________________________   
+
+Date:            ______________________________   
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and
+regulations.
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 3 of 3
+
+???COMMERCIAL INVOICE
+436582621
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+ BILL TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SHIP TO:     P3620
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CINCO SUR 104
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SOLD TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INFORMATION:
+
+Invoice No.:
+Invoice Date:
+
+Sales Order No.:
+Sales Order Date:
+
+436582621
+03/16/2022
+Original
+
+4505915417*
+
+Delivery Note No.:
+Delivery Date:
+
+9000968284
+03/16/2022
+
+Purchase Order No.:
+
+Sales Rep/Agency:
+
+Our Contact:
+Tel No.:
+Fax No.:
+Email:
+
+Customer Contact:
+Tel No.:
+Fax No.:
+Email:
+
+ADDITIONAL INFORMATION:
+
+Shipping Instructions:
+
+Payment Terms:
+Currency:
+Incoterms:
+Carrier:
+BOL:
+
+Net 30 days
+USD
+WOB SHIPPING POINT
+R&L CARRIERS
+224464842
+
+No. of Packages: 2
+Net Weight:
+Gross Weight:
+Volume:
+
+1739.83
+1739.83
+0.000
+
+LB
+LB
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+    10
+
+YAV2CLTC12FX90
+2 AWG FLEX CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+391
+
+EA
+
+            1.6780 
+
+           656.10 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 1 of 7
+
+COMMERCIAL INVOICE
+436582621
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+Returnable
+
+    11
+
+QP10F25X03D
+FEM DISC-12-10AWG-VINYL
+
+Commodity Code: 8536904000
+Country of Origin: Taiwan
+
+    12
+
+    13
+
+    14
+
+    15
+
+    16
+
+Returnable
+
+YAZ26TC38
+2/0 AWG CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YSR26FX2CFXLTCKITC
+2/0 AWG, 2 AWG SPLICE REDUCER KIT
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YA34N
+500 KCMIL CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YAV12G2
+14-12 HVYDTY RING 8-10 S
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YA34N
+500 KCMIL CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+150
+
+EA
+
+            0.0789 
+
+            11.84 
+
+40
+
+EA
+
+            0.9950 
+
+            39.80 
+
+50
+
+EA
+
+            4.0786 
+
+           203.93 
+
+11
+
+EA
+
+            4.7627 
+
+            52.39 
+
+7900
+
+EA
+
+            0.0472 
+
+           372.96 
+
+15
+
+EA
+
+            4.7627 
+
+            71.44 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 2 of 7
+
+COMMERCIAL INVOICE
+436582621
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+    20
+
+    40
+
+    60
+
+    70
+
+    80
+
+    90
+
+B550
+BW BCR2 4/0 TO 5/8
+Commodity Code: 6815190000
+Country of Origin: USA
+
+Returnable
+
+YA6CL
+6 AWG CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YGHC26C2
+1-2/0 TO 6-2 CU GRD C TA
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+KS22
+SERVIT 6 STR - 2 SOL
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+YGHC29C26
+3/0-250 TO 6-2/0 CU GRD
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+YA4C
+4 AWG CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+4
+
+EA
+
+           45.7450 
+
+           182.98 
+
+2000
+
+EA
+
+            0.3051 
+
+           610.14 
+
+1100
+
+EA
+
+            1.3300 
+
+         1,462.96 
+
+300
+
+EA
+
+            1.0242 
+
+           307.25 
+
+275
+
+EA
+
+            2.0733 
+
+           570.16 
+
+3450
+
+EA
+
+            0.3846 
+
+         1,326.87 
+
+   100
+
+115
+CARTRIDGE WELD METAL,250-300 MCM Cable
+Commodity Code: 3810100000
+Country of Origin: USA
+
+1200
+
+EA
+
+            3.7342 
+
+         4,481.06 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 3 of 7
+
+COMMERCIAL INVOICE
+436582621
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+   110
+
+   140
+
+   160
+
+   180
+
+Returnable
+
+B106
+BW Handle Clamp w/flnt i
+Commodity Code: 8205700090
+Country of Origin: China
+
+Returnable
+
+KSU25
+SERVIT UNIV 2-1/0
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+KS15
+CU SB 10 STR - 8 STR
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+KS17
+SERVIT 8STR - 6SOL
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+20
+
+EA
+
+           49.8900 
+
+           997.80 
+
+198
+
+EA
+
+            2.0851 
+
+           412.84 
+
+1200
+
+EA
+
+            0.5108 
+
+           613.01 
+
+2000
+
+EA
+
+            0.6627 
+
+         1,325.40 
+
+   190
+
+YS27A1
+3/0 AWG CODE AL9CU COMPRESSION SPLICE
+
+6
+
+EA
+
+            2.8533 
+
+            17.12 
+
+   191
+
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+KS23
+SERVIT 6 STR - 2 STR
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+1663
+
+EA
+
+            1.0724 
+
+         1,783.32 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 4 of 7
+
+COMMERCIAL INVOICE
+436582621
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+   230
+
+   250
+
+   270
+
+   310
+
+   320
+
+   330
+
+   470
+
+K2A29U
+TWO:6STR-250 DUAL RATED
+Commodity Code: 8535908020
+Country of Origin: Mexico
+
+Returnable
+
+TP1010
+RING  12- 10AWG VINYL
+Commodity Code: 8536904000
+Country of Origin: USA
+
+Returnable
+
+KA34U
+4STR-500 DUAL RATED
+Commodity Code: 8535908020
+Country of Origin: Mexico
+
+Returnable
+
+KS20
+SERVIT 8 STR - 4 SOL
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+KS25
+SERVIT 4 STR - 1/0 STR
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+YA8CLBOX
+8 AWG CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YA39A3
+750KCMIL CODE AL9CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+200
+
+EA
+
+            1.8597 
+
+           371.93 
+
+50
+
+EA
+
+            0.1280 
+
+             6.40 
+
+227
+
+EA
+
+            2.2189 
+
+           503.70 
+
+400
+
+EA
+
+            0.8052 
+
+           322.07 
+
+2064
+
+EA
+
+            1.5020 
+
+         3,100.09 
+
+1700
+
+EA
+
+            0.2313 
+
+           393.14 
+
+30
+
+EA
+
+            7.2000 
+
+           216.00 
+
+Page 5 of 7
+
+COMMERCIAL INVOICE
+436582621
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+Returnable
+
+  Sub-total for Items:
+
+         $ 20,412.70
+
+  Final Total:
+
+         $ 20,412.70
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 6 of 7
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+COMMERCIAL INVOICE
+436582621
+
+PACKAGE
+
+PACKING
+
+DIMENSIONS()
+
+NET WEIGHT
+
+GROSS WEIGHT
+
+ID
+
+TYPE
+
+64411750
+
+64413733
+
+PALLET
+
+PALLET
+
+L
+
+     0.00
+
+     0.00
+
+W
+
+     0.00
+
+     0.00
+
+H
+
+     0.00
+
+     0.00
+
+( LB )
+
+( LB )
+
+ 1,331.83
+
+   408.00
+
+ 1,331.83
+
+   408.00
+
+CERTIFICATE OF CONFORMITY DECLARATION:
+
+Name of Approver:            ______________________________   
+
+Title:            ______________________________   
+
+Signature:            ______________________________   
+
+Date:            ______________________________   
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and
+regulations.
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 7 of 7
+
+???COMMERCIAL INVOICE
+436582622
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+ BILL TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SHIP TO:     P3620
+
+Hubbell Products Mexico
+Calle 1 Norte No. 103
+S. de RL de CV
+50200 TOLUCA
+MEXICO
+
+ SOLD TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INFORMATION:
+
+Invoice No.:
+Invoice Date:
+
+Sales Order No.:
+Sales Order Date:
+
+436582622
+03/16/2022
+Original
+
+4505978990
+
+Delivery Note No.:
+Delivery Date:
+
+9000968700
+03/16/2022
+
+Purchase Order No.:
+
+Sales Rep/Agency:
+
+Our Contact:
+Tel No.:
+Fax No.:
+Email:
+
+Customer Contact:
+Tel No.:
+Fax No.:
+Email:
+
+ADDITIONAL INFORMATION:
+
+Shipping Instructions:
+
+Payment Terms:
+Currency:
+Incoterms:
+Carrier:
+BOL:
+
+Net 30 days
+USD
+WOB SHIPPING POINT
+R&L CARRIERS
+224464842
+
+No. of Packages: 1
+Net Weight:
+Gross Weight:
+Volume:
+
+286.00
+286.00
+0.000
+
+LB
+LB
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+    10
+
+YA28
+4/0 AWG CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+2200
+
+EA
+
+            1.6122 
+
+         3,546.84 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 1 of 3
+
+COMMERCIAL INVOICE
+436582622
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+Returnable
+
+  Sub-total for Items:
+
+          $ 3,546.84
+
+  Final Total:
+
+          $ 3,546.84
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 2 of 3
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+COMMERCIAL INVOICE
+436582622
+
+PACKAGE
+
+PACKING
+
+DIMENSIONS()
+
+NET WEIGHT
+
+GROSS WEIGHT
+
+ID
+
+TYPE
+
+( LB )
+
+( LB )
+
+64413839
+
+PALLET
+
+     0.00
+
+L
+
+W
+
+     0.00
+
+H
+
+     0.00
+
+   286.00
+
+   286.00
+
+CERTIFICATE OF CONFORMITY DECLARATION:
+
+Name of Approver:            ______________________________   
+
+Title:            ______________________________   
+
+Signature:            ______________________________   
+
+Date:            ______________________________   
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and
+regulations.
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 3 of 3
+
+???COMMERCIAL INVOICE
+436582624
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+ BILL TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SHIP TO:     P3620
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CINCO SUR 104
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SOLD TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INFORMATION:
+
+Invoice No.:
+Invoice Date:
+
+Sales Order No.:
+Sales Order Date:
+
+436582624
+03/16/2022
+Original
+
+4505900406*
+
+Delivery Note No.:
+Delivery Date:
+
+9000969020
+03/16/2022
+
+Purchase Order No.:
+
+Sales Rep/Agency:
+
+Our Contact:
+Tel No.:
+Fax No.:
+Email:
+
+Customer Contact:
+Tel No.:
+Fax No.:
+Email:
+
+ADDITIONAL INFORMATION:
+
+Shipping Instructions:
+
+Payment Terms:
+Currency:
+Incoterms:
+Carrier:
+BOL:
+
+Net 30 days
+USD
+WOB SHIPPING POINT
+R&L CARRIERS
+224464842
+
+No. of Packages: 1
+Net Weight:
+Gross Weight:
+Volume:
+
+80.00
+80.00
+0.000
+
+LB
+LB
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+    10
+
+B1587
+BCR-3 PK24 CART.#115, 2/0 STR TO 5/8" GRD ROD
+Commodity Code: 6815190000
+Country of Origin: USA
+
+2
+
+EA
+
+          110.8450 
+
+           221.69 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 1 of 3
+
+COMMERCIAL INVOICE
+436582624
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+   230
+
+Returnable
+
+ES4W4W
+6 ACSR-6 AL/CU INS SE CO
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+1600
+
+EA
+
+            0.4136 
+
+           661.74 
+
+  Sub-total for Items:
+
+  Final Total:
+
+            $ 883.43
+
+            $ 883.43
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 2 of 3
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+COMMERCIAL INVOICE
+436582624
+
+PACKAGE
+
+PACKING
+
+DIMENSIONS()
+
+NET WEIGHT
+
+GROSS WEIGHT
+
+ID
+
+TYPE
+
+( LB )
+
+( LB )
+
+64428009
+
+PALLET
+
+     0.00
+
+L
+
+W
+
+     0.00
+
+H
+
+     0.00
+
+    80.00
+
+    80.00
+
+CERTIFICATE OF CONFORMITY DECLARATION:
+
+Name of Approver:            ______________________________   
+
+Title:            ______________________________   
+
+Signature:            ______________________________   
+
+Date:            ______________________________   
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and
+regulations.
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 3 of 3
+
+???COMMERCIAL INVOICE
+436582625
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+ BILL TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SHIP TO:     P3620
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CINCO SUR 104
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SOLD TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INFORMATION:
+
+Invoice No.:
+Invoice Date:
+
+Sales Order No.:
+Sales Order Date:
+
+436582625
+03/16/2022
+Original
+
+4505917931*
+
+Delivery Note No.:
+Delivery Date:
+
+9000969191
+03/16/2022
+
+Purchase Order No.:
+
+Sales Rep/Agency:
+
+Our Contact:
+Tel No.:
+Fax No.:
+Email:
+
+Customer Contact:
+Tel No.:
+Fax No.:
+Email:
+
+ADDITIONAL INFORMATION:
+
+Shipping Instructions:
+
+Payment Terms:
+Currency:
+Incoterms:
+Carrier:
+BOL:
+
+Net 30 days
+USD
+WOB SHIPPING POINT
+R&L CARRIERS
+224464842
+
+No. of Packages: 1
+Net Weight:
+Gross Weight:
+Volume:
+
+129.38
+129.38
+0.000
+
+LB
+LB
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+    10
+
+YAZ264TCG1
+CUHYLUG-4HOLES-SPLIT PAD
+Commodity Code: 8535908020
+Country of Origin: USA
+
+120
+
+EA
+
+           14.1232 
+
+         1,694.78 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 1 of 4
+
+COMMERCIAL INVOICE
+436582625
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+    11
+
+    12
+
+    13
+
+    14
+
+    15
+
+   110
+
+   120
+
+Non-Returnable
+
+K11A36U2
+TWO:2 STR-600 DUAL RTD,3/8 IN Bolt Hole
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+KA4C
+14-4 CU LUG ST SCR 1H
+Commodity Code: 8535908020
+Country of Origin: India
+
+Returnable
+
+YAZ8CTC14
+8 AWG FLEX CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YGHC34C26
+300-500 TO 6-2/0
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+YA34N
+500 KCMIL CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YSM4CPP2
+Commodity Code: 8538908180
+Country of Origin: USA
+
+ES4W4W
+6 ACSR-6 AL/CU INS SE CO
+Commodity Code: 8535908020
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+20
+
+EA
+
+           12.8525 
+
+           257.05 
+
+120
+
+EA
+
+            0.4418 
+
+            53.02 
+
+40
+
+EA
+
+            0.4158 
+
+            16.63 
+
+10
+
+EA
+
+            4.0310 
+
+            40.31 
+
+100
+
+EA
+
+            4.7624 
+
+           476.24 
+
+3800
+
+EA
+
+            0.1457 
+
+           553.70 
+
+100
+
+EA
+
+            0.4136 
+
+            41.36 
+
+Page 2 of 4
+
+COMMERCIAL INVOICE
+436582625
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+   170
+
+   171
+
+   240
+
+   250
+
+   680
+
+Country of Origin: USA
+
+Returnable
+
+ES4W4W
+6 ACSR-6 AL/CU INS SE CO
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YC4C6
+6-4 TO 6 CU FIG C
+Commodity Code: 8535908040
+Country of Origin: USA
+
+Returnable
+
+K2A36U
+TWO:2 STR-600 DUAL RTD,1/2 IN Bolt Hole
+Commodity Code: 8535908020
+Country of Origin: Mexico
+
+Returnable
+
+TP1010
+RING  12- 10AWG VINYL
+Commodity Code: 8536904000
+Country of Origin: USA
+
+Returnable
+
+YAV10T2BOX
+RING-  12- 10 AWG-UNIN, 5/16 STUD
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+300
+
+EA
+
+            0.4136 
+
+           124.08 
+
+200
+
+EA
+
+            0.3886 
+
+            77.71 
+
+3
+
+EA
+
+            4.3067 
+
+            12.92 
+
+250
+
+EA
+
+            0.1280 
+
+            32.00 
+
+50
+
+EA
+
+            0.1378 
+
+             6.89 
+
+  Sub-total for Items:
+
+          $ 3,386.69
+
+  Final Total:
+
+          $ 3,386.69
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 3 of 4
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+COMMERCIAL INVOICE
+436582625
+
+PACKAGE
+
+PACKING
+
+DIMENSIONS()
+
+NET WEIGHT
+
+GROSS WEIGHT
+
+ID
+
+TYPE
+
+( LB )
+
+( LB )
+
+64428180
+
+PALLET
+
+     0.00
+
+L
+
+W
+
+     0.00
+
+H
+
+     0.00
+
+   129.38
+
+   129.38
+
+CERTIFICATE OF CONFORMITY DECLARATION:
+
+Name of Approver:            ______________________________   
+
+Title:            ______________________________   
+
+Signature:            ______________________________   
+
+Date:            ______________________________   
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and
+regulations.
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 4 of 4
+
+???COMMERCIAL INVOICE
+436582619
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+ BILL TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SHIP TO:     P3620
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CINCO SUR 104
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+ SOLD TO:     C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+INFORMATION:
+
+Invoice No.:
+Invoice Date:
+
+Sales Order No.:
+Sales Order Date:
+
+436582619
+03/16/2022
+Original
+
+4505974724*
+
+Delivery Note No.:
+Delivery Date:
+
+9000967713
+03/16/2022
+
+Purchase Order No.:
+
+Sales Rep/Agency:
+
+Our Contact:
+Tel No.:
+Fax No.:
+Email:
+
+Customer Contact:
+Tel No.:
+Fax No.:
+Email:
+
+ADDITIONAL INFORMATION:
+
+Shipping Instructions:
+
+Payment Terms:
+Currency:
+Incoterms:
+Carrier:
+BOL:
+
+Net 30 days
+USD
+WOB SHIPPING POINT
+R&L CARRIERS
+224464842
+
+No. of Packages: 1
+Net Weight:
+Gross Weight:
+Volume:
+
+84.30
+84.30
+0.000
+
+LB
+LB
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+    10
+
+KA4C
+14-4 CU LUG ST SCR 1H
+Commodity Code: 8535908020
+Country of Origin: India
+
+150
+
+EA
+
+            0.4417 
+
+            66.26 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 1 of 5
+
+COMMERCIAL INVOICE
+436582619
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+    11
+
+    12
+
+    70
+
+   150
+
+   170
+
+   190
+
+Returnable
+
+YA27L3
+3/0 AWG CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YAZ2CTC12
+2 AWG CODE CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+YSU4W6W
+6 TO 6 AL/CU SE CONN
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+TN1010
+RING-  12- 10 AWG-NYLON,8-10 STUD
+Commodity Code: 8536904000
+Country of Origin: USA
+
+Returnable
+
+U2CRT
+U-DIE, #2 AWG
+Commodity Code: 8207906000
+Country of Origin: USA
+
+Returnable
+
+U27RT
+U-DIE, 3/0 AWG
+Commodity Code: 8207906000
+Country of Origin: USA
+
+Returnable
+
+20
+
+EA
+
+            1.1675 
+
+            23.35 
+
+25
+
+EA
+
+            1.3384 
+
+            33.46 
+
+200
+
+EA
+
+            0.4254 
+
+            85.08 
+
+2400
+
+EA
+
+            0.3926 
+
+           942.19 
+
+1
+
+EA
+
+           19.6000 
+
+            19.60 
+
+1
+
+EA
+
+           15.4600 
+
+            15.46 
+
+   240
+
+K2A36U
+
+3
+
+EA
+
+            4.3067 
+
+            12.92 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 2 of 5
+
+COMMERCIAL INVOICE
+436582619
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+TWO:2 STR-600 DUAL RTD,1/2 IN Bolt Hole
+Commodity Code: 8535908020
+Country of Origin: Mexico
+
+Returnable
+
+KA26U
+6STR-2/0STR DUAL RATED
+Commodity Code: 8535908020
+Country of Origin: Mexico
+
+Returnable
+
+TN1010
+RING-  12- 10 AWG-NYLON,8-10 STUD
+Commodity Code: 8536904000
+Country of Origin: USA
+
+Returnable
+
+TN1010
+RING-  12- 10 AWG-NYLON,8-10 STUD
+Commodity Code: 8536904000
+Country of Origin: USA
+
+Returnable
+
+YA2CA3
+2 AWG CODE AL9CU COMPRESSION TERMINAL
+Commodity Code: 8535908020
+Country of Origin: USA
+
+Returnable
+
+U5CRT
+U-DIE, #5 AWG
+Commodity Code: 8207906000
+Country of Origin: USA
+
+Returnable
+
+U28RT
+U-DIE, 4/0 KCMIL
+Commodity Code: 8207906000
+Country of Origin: USA
+
+   290
+
+   360
+
+   400
+
+   820
+
+  1330
+
+  1420
+
+1000
+
+EA
+
+            0.4607 
+
+           460.66 
+
+50
+
+EA
+
+            0.3926 
+
+            19.63 
+
+900
+
+EA
+
+            0.3926 
+
+           353.32 
+
+466
+
+EA
+
+            2.0627 
+
+           961.21 
+
+1
+
+EA
+
+           19.3800 
+
+            19.38 
+
+4
+
+EA
+
+           15.4625 
+
+            61.85 
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 3 of 5
+
+COMMERCIAL INVOICE
+436582619
+
+OUR
+ITEM
+
+YOUR ITEM / DESCRIPTION
+ITEM
+
+SHIP UoM
+QTY
+
+ NET UNIT
+   PRICE
+
+ EXTENDED
+    PRICE
+
+Returnable
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+  Sub-total for Items:
+
+          $ 3,074.37
+
+  Final Total:
+
+          $ 3,074.37
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 4 of 5
+
+Burndy LLC
+47 East Industrial Park Drive
+Manchester, NH  03109
+United States
+
+COMMERCIAL INVOICE
+436582619
+
+PACKAGE
+
+PACKING
+
+DIMENSIONS()
+
+NET WEIGHT
+
+GROSS WEIGHT
+
+ID
+
+TYPE
+
+( LB )
+
+( LB )
+
+64413961
+
+PALLET
+
+     0.00
+
+L
+
+W
+
+     0.00
+
+H
+
+     0.00
+
+    84.30
+
+    84.30
+
+CERTIFICATE OF CONFORMITY DECLARATION:
+
+Name of Approver:            ______________________________   
+
+Title:            ______________________________   
+
+Signature:            ______________________________   
+
+Date:            ______________________________   
+
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S. law and
+regulations.
+
+Burndy LLC * 47 East Industrial Park Dr.
+Manchester, NH 03109 * UNITED STATES
+
+Page 5 of 5
+
+???  SHIP TO:
+
+P3621
+
+Space Border Logistics Corp
+11302B EASTPOINT DR, STE 100
+LAREDO TX  78045
+
+UDC: Mexico
+
+  NEW REMIT TO:
+
+       25409
+
+Hubbell Electrical Products
+25409 Network Place
+Chicago IL  60673-1254
+
+EIN Number: 35-0617070
+
+Currency: USD
+
+  SOLD TO: P3621
+
+ID: 
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+CALLE 1 NORTE NO 103
+50200 TOLUCA
+MEXICO
+
+Agency/Rep:
+
+  BILL TO:
+
+C362
+
+HUBBELL PRODUCTS MEXICO S DE
+RL DE CV
+104 CINCO SUR
+PARQUE INDUSTRIAL TOLUCA 2000
+50200 TOLUCA
+MEXICO
+
+  Special Markings/Instructions:
+
+4506016492
+
+INTERCOMPANY BILLING 436937168
+
+ORIGINAL
+
+Page 1 of 2  
+
+  DOCUMENT INFO:
+Invoice Number/Date: 436937168 / 04/22/2022
+Order Number/Date:    4506016492 
+PO Number/Date:         
+
+  SHIPPING INFO:
+Shipping Doc/Date: 9000980471 / 04/22/2022
+Delivery Terms:      PREPAID
+Point of Delivery:    SHIPPING POINT
+Shipping Point:        HLI Chicago, IL - Commercial
+Carrier:                    CH ROBINSON VAN
+BOL/Tracking:         TEXASINTERNATIONAL 
+Number of Shipping Units: 621
+Total Volume:     988,240.450  "3
+Gross Weight:         20415.000  LB
+
+Payment Terms: Net 30 days
+
+Material Number / Catalog Number
+Description / Additional Information
+
+Item
+    10 192
+
+4SQ BOX DRAWN 1-1/2 DEEP
+1/2-3/4 KO
+
+UPC Code: 050169901922
+Ctry of Origin:USA
+
+4IN OCTAGON BOX 1-1/2 DEEP
+1/2-3/4 KO
+
+UPC Code: 050169001264
+Ctry of Origin:USA
+
+    20 126
+
+Additional Comments:
+Note:
+Tracking Numbers:
+
+Brand
+RACO
+
+Qty
+Ordered
+   54,000
+
+Qty
+Backordered
+        0
+
+Qty
+Shipped
+
+   30,550
+
+Qty
+UM
+EA
+
+Price
+
+       1.14
+
+Price
+UM
+Value
+EA    34,687.39
+
+RACO
+
+    1,250
+
+      750
+
+      500
+
+EA
+
+       0.98
+
+EA
+
+      488.66
+
+Merchandise Total
+Invoice Amount
+
+            35,176.05
+            35,176.05
+
+???SAGE INTERNATIONAL INC.
+1470 AVENUE T #1222
+GRAND PRAIRIE, TX 75050
+Phone +919810923473
+
+SOLD TO
+
+HUBBELL PRODUCTS MEXICO S DE RL DE CV
+CALLE CINCO SUR NO. 104 PARQUE
+
+MÉXICO RFC BPM950604 DG3
+
+No. 
+
+INVOICE
+Date
+DO#
+Delivery Date
+Way Bill No.
+
+SII/14775
+Oct 1, 2021
+
+000375 |
+
+Oct 1, 2021
+
+FBD-6674
+
+SHIP TO
+
+HUBBELL PRODUCTS MEXICO - DC
+
+CALLE 1 NORTE NO. 103
+
+S. DE RL DE CV
+
+50200 TOLUCA
+
+-
+
+SHIPPED VIA
+
+-
+
+QTY
+
+Product 
+   ID
+
+DELIVERY
+
+MANZANILLOA, MEXICO
+
+TERMS
+UPLOAD TO CITIBANK UPON
+RECEIPT NET 180 DAYS
+
+DESCRIPTION 
+
+Order #
+
+UNIT
+
+4800
+
+GTCS34A GROUND TANK CONNECTOR
+
+6400
+
+GTCL34A GROUND TANK CONNECTOR
+
+6400
+
+GTCL34A GROUND TANK CONNECTOR
+
+6400
+
+GTCL34A GROUND TANK CONNECTOR
+
+6400
+
+GTCL34A GROUND TANK CONNECTOR
+
+4200
+
+GTCL34A GROUND TANK CONNECTOR
+
+200
+
+GTCS34A GROUND TANK CONNECTOR
+
+4505639404
+4505639404
+4505639404
+4505639404
+4505639404
+4505639404
+4505639404
+
+Ea.
+Ea.
+Ea.
+Ea.
+Ea.
+Ea.
+Ea.
+
+Rate
+USD
+
+    2.025
+    1.517
+    1.517
+    1.517
+    1.517
+    1.517
+    2.025
+
+AMOUNT
+USD
+
+    9720.00
+    9708.80
+    9708.80
+    9708.80
+    9708.80
+    6371.40
+     405.00
+
+  34800
+
+-
+
+Total
+
+Freight
+
+USD
+
+Grand Total
+
+USD
+
+     55331.60
+
+        0.00
+
+     55331.60
+
+BY
+
+THESE COMMODITIES ARE LICENCED FOR THE ULTIMATE DESTINATION SHOWN ABOVE.
+DIVERSION CONTRARY TO UNITED STATES LAW PROHIBITED
+I DECLARE ALL INFORMATION CONTAINED IN THIS INVOICE TO BE TRUE AND CORRECT.
+
+(SAGE INTERNATIONAL INC)
+
+???Bossard Inc.
+
+Bossard LLC
+Branch: 00
+
+2 Kay Way
+Stoughton, MA 02072
+
+US
+
+781-828-4343
+
+Bill To:
+
+INVOICE
+
+INVOICE
+
+3247929
+
+Invoice Date
+
+02-17-2022
+
+Page
+
+1 of 1
+
+ORDER NUMBER
+
+1214892
+
+Ship To:
+
+Hubbell Products Mexico, S. DE R.L DE C.V
+
+Hubbell Products MX c/o Space Border Logistics Cor
+
+Calle 5 Sur N. 104
+
+Parque Ind. Toluca 2000
+Toluca, MX 50200
+
+MX
+
+Customer ID:
+
+100681
+
+PO Number
+
+4505938096
+
+11302-B East Point Dr. Suite 100
+
+Laredo, TX 78045
+US
+
+Term Description
+
+Net Due Date
+
+Disc Due Date
+
+Discount Amount
+
+Net 60
+
+4/18/2022
+
+4/18/2022
+
+0.00
+
+Order Date
+
+Pick Ticket No
+
+Primary Salesrep Name
+
+2/16/2022 00:47:20
+
+2250784
+
+Chavon Bellamy
+
+Taker
+
+DSPENCE
+
+Quantities
+
+Ordered
+
+Shipped
+
+Remaining
+
+UOM
+
+Unit Size
+
+.
+p
+s
+i
+D
+
+Item ID
+Item Description
+
+Pricing 
+UOM
+
+Unit Size
+
+Unit 
+Price
+
+Extended
+Price
+
+Customer Note:
+
+3 COPIES INV-PACK LIST & NAFTA
+
+Customer Note:
+
+20653
+
+Customer Note:
+
+BILL OF LADING MUST BE SUPPLIED 
+
+TO ACCT.MGR,ALONG WITH THE 
+
+PACKING SLIP ON EVERY 
+
+SHIPMENT!!!!!!!!
+
+Delivery Instructions: Over 250 lbs or 9 Boxes or more ship UPS 
+
+Freight - See Document Links for Routing Guide
+
+Carrier:
+
+FedEx Freight
+
+Tracking #:
+
+927928152-4
+
+100,000
+
+100,000
+
+0 EA
+
+058170
+1/2-13 FIN HEX NUT SILBRZ
+
+1.0
+
+EA
+
+0.453800
+
+45,380.00
+
+1.0
+
+Lot Number:
+
+227446
+
+Qty:
+
+100,000
+
+EA
+
+Contract Name:
+
+Burndy Mexico Contract Pricing
+
+Line Number:
+
+47
+
+Total Lines: 1
+
+SUB-TOTAL:
+:
+
+TAX
+
+45,380.00
+
+0.00
+
+AMOUNT DUE:
+
+45,380.00
+
+USD
+
+Terms & Conditions of Sale:  http://www.arnoldindustries.com/ArnoldIndustries_ Terms.pdf
+
+ORIGINAL
+
+12.16.2272 - 7/21/2016
+
+Form - ARN 8-16 Rev A 8/11/2017
+
+???2150 Elmwood Avenue
+Buffalo, NY 14207
+United States
+Ph: 716-876-9855
+Fax: 716-874-1680
+
+7090 Edinboro Road
+Erie, PA 16509
+United States
+Ph: 814-868-3671
+Fax: 814-864-2423
+
+2016 East University Drive
+Rancho Dominguez, CA 90220
+United States
+Ph: 310-537-2300
+Fax: 310-537-7770
+
+1.888.CAPLUGS | www.caplugs.com | sales@caplugs.com
+
+3/4/2022
+
+Bill
+To:
+
+Hubbell Products Mexico 
+Alejandro Lievana
+Calle 5 Sur No. 104
+Parque Industrial Toluca 2000
+Toluca, Edo de Mex, Mex 50200
+Mexico
+
+Customer #:
+Purchase Order #:
+Release #:
+
+Contact:
+Shipped Via:
+Shipping Service:
+
+271703
+
+4505948980
+
+Alejandro Lievana
+UPS
+Ground Services
+Freight Collect
+
+INVOICE #   4195107
+
+Page: 1
+
+Ship
+To:
+
+Space Border Logistics Corp.
+c/o Hubbell Products Mexico
+11302-B East Point Dr.
+Suite 100
+Laredo, TX 78045
+
+Order#:
+Order Date:
+Incoterms:
+Supplier:
+ASN:
+
+SO2814432
+3/3/2022
+EXW
+
+Please note, effective Dec. 31, 2021, Caplugs will eliminate the current Raw Material-Related Surcharge, and implement a 10% increase to all part prices.  This 
+change will apply to all standard catalog and custom product lines and go into effect on orders placed on or after Jan. 1, 2022.
+
+As a product supplier, Caplugs is not subject to COVID-19 safety protocols applicable to federal 
+contractors.  Notwithstanding any other provision of this order, Caplugs does not accept FAR 52.223-99 or any 
+other provision implementing COVID-19 safety protocols applicable to federal contractors. 
+
+OUR PART NO./DESCRIPTION
+
+203P1AH1 | CPT-9
+
+PLUG PULL ORANGE LDPE
+
+PLUG: 1/2 NPT SIZE
+
+QUANTITY
+ORDERED SHIPMENTS
+
+PRIOR QUANTITY
+SHIPPED
+
+UNIT PRICE
+
+U/M
+
+EXTENDED PRICE
+
+5000
+
+5000
+
+0.01008
+
+PIECES
+
+50.40
+
+Schedule B Code: 3923.50.0000
+
+Cust. PO #: 4505948980 Shipment Number: WHS-04728654
+
+Tracking Number: 1Z1862640327455151
+
+Please email dims & weight for 
+
+shipping instructions:
+
+kmothelet@hubbell.com
+
+dgamboa@hubbell.com
+
+Terms:  Net 90 Days
+
+0
+
+0
+
+0
+
+0
+
+Subtotal:
+
+Total Sales Tax:
+
+Total:
+
+50.40
+
+0.00
+
+50.40
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2150 Elmwood Avenue
+Buffalo, NY 14207
+United States
+Ph: 716-876-9855
+Fax: 716-874-1680
+
+7090 Edinboro Road
+Erie, PA 16509
+United States
+Ph: 814-868-3671
+Fax: 814-864-2423
+
+2016 East University Drive
+Rancho Dominguez, CA 90220
+United States
+Ph: 310-537-2300
+Fax: 310-537-7770
+
+1.888.CAPLUGS | www.caplugs.com | sales@caplugs.com
+
+3/4/2022
+
+Bill
+To:
+
+Hubbell Products Mexico 
+Alejandro Lievana
+Calle 5 Sur No. 104
+Parque Industrial Toluca 2000
+Toluca, Edo de Mex, Mex 50200
+Mexico
+
+Customer #:
+Purchase Order #:
+Release #:
+
+Contact:
+Shipped Via:
+Shipping Service:
+
+271703
+
+4505948980
+
+Alejandro Lievana
+UPS
+Ground Services
+Freight Collect
+
+INVOICE #   4195107
+
+Page: 2
+
+Ship
+To:
+
+Space Border Logistics Corp.
+c/o Hubbell Products Mexico
+11302-B East Point Dr.
+Suite 100
+Laredo, TX 78045
+
+Order#:
+Order Date:
+Incoterms:
+Supplier:
+ASN:
+
+SO2814432
+3/3/2022
+EXW
+
+Please note, effective Dec. 31, 2021, Caplugs will eliminate the current Raw Material-Related Surcharge, and implement a 10% increase to all part prices.  This 
+change will apply to all standard catalog and custom product lines and go into effect on orders placed on or after Jan. 1, 2022.
+
+As a product supplier, Caplugs is not subject to COVID-19 safety protocols applicable to federal 
+contractors.  Notwithstanding any other provision of this order, Caplugs does not accept FAR 52.223-99 or any 
+other provision implementing COVID-19 safety protocols applicable to federal contractors. 
+
+Mini/Micro Paks may not be returned.
+
+No returns will be accepted without prior authorization.
+
+Detach and return with payment, payable in U.S. funds.
+
+Remit
+To:
+
+Protective Industries -Caplugs
+PO Box 1693
+Carol Stream, IL 60132-1693
+United States
+
+Bill
+ To:
+
+Hubbell Products Mexico 
+Alejandro Lievana
+Calle 5 Sur No. 104
+Parque Industrial Toluca 2000
+Toluca, Edo de Mex, Mex 50200
+
+Invoice #:
+
+4195107
+
+Invoice Date: 3/4/2022
+
+Cust #:
+
+271703
+
+Order #:
+
+SO2814432 Amount:
+
+50.40
+
+As a product supplier, Caplugs is not subject to COVID-19 safety protocols applicable to federal 
+contractors.  Notwithstanding any other provision of this order, Caplugs does not accept FAR 52.223-99 or any 
+
+other provision implementing COVID-19 safety protocols applicable to federal contractors. 
+Caplugs Brands Include:  Shercon Masking, Evergreen Scientific Labware and Tri-Star Thread Protectors.  The parent company is Protective Industries, Inc.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+???

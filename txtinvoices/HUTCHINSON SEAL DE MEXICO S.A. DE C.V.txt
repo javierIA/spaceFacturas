@@ -1,0 +1,6538 @@
+IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+WACKER CHEMICAL CORPORATION
+3301 SUTTON ROAD  ADRIAN, MI (E.F.:MI) 49221-9397 USA, IRS: 942272388, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+146775661
+
+Fecha(Date):
+
+ 27/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.2992
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U98462 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002529
+
+RESUMEN DE EMPAQUE FACTURA
+
+Tarima de Madera
+
+Total Bultos:
+
+ 2
+
+ 2
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 200274, Mrc: WACKER/SILMIX,  Ser: P/N: 60103089 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88920  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 998.00  
+
+998.00  
+
+998.00  
+
+998.00  KG (1)
+998.00 KG in: 2 
+PALLET MADERA
+
+998.00
+
+998.00
+
+998.00
+998.00
+
+3910009900 Tasa General:6.00% /Exp.USA:
+
+• 200274, RESINA DE SILICONA / SILMIX 50046
+
+US (USA) 
+
+ 9.33000
+
+ 9.33000
+
+Subtotal  por  (Subtotal by):  3910009900 Tasa General:6.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 9,311.34
+
+ 189,012.75
+
+ 9,311.34
+
+ 189,012.75
+
+ 9,311.34
+
+ 189,012.75
+
+ Peso Total: 998.00  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 27/Apr/2022  3:49:54PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+H M ROYAL OF CALIFORNIA
+6880 8TH STREET  BUENA PARK, CA (E.F.:CA) 90620 USA, IRS: 330378052, RNIE: , Tel. 
+, Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+2058344
+
+Fecha(Date):
+
+ 27/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.2992
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U98462 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002529
+
+RESUMEN DE EMPAQUE FACTURA
+
+Tarima de Madera
+
+Total Bultos:
+
+ 2
+
+ 2
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: H153910, Mrc: CIMBAR BF,   
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88921  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 2,268.00  
+
+2,268.00  
+
+2,268.00  
+
+2,268.00  KG (1)
+2,268.00 KG in: 2 
+PALLET MADERA
+
+2,268.00
+
+2,268.00
+
+2,268.00
+2,268.00
+
+2833270100 Tasa General:0.00% /Exp.USA:
+
+• H153910, SULFATO DE BARIO / SYNTHETIC, BARIUM, 
+SULPHATE
+
+DE (DEU) 
+
+ 3.48325
+
+ 3.48325
+
+Subtotal  por  (Subtotal by):  2833270100 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 7,900.00
+
+ 160,363.68
+
+ 7,900.00
+
+ 160,363.68
+
+ 7,900.00
+
+ 160,363.68
+
+ Peso Total: 2,270.00  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 27/Apr/2022  3:48:46PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+??????IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+HEADLY MANUFACTURING CO.
+2700 W.23RD STREET  BROADVIEW, IL (E.F.:IL) 60155 USA, IRS: 36-1349898, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+2909094-2
+
+Fecha(Date):
+
+ 26/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.3183
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U80693 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: EXW
+
+Pedimento Consolidado: 3459-2002525
+
+RESUMEN DE EMPAQUE FACTURA
+
+Tarima de Madera
+
+Total Bultos:
+
+ 6
+
+ 6
+
+1. No. Parte: 399184,   Ser: P/N: 399184-854 
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88933 BOL 12889 FACTURA HEADLY 2909094 2 PO  P093838 4,800 PZS X 1.598 TOTAL 7,670.40  FACTURA UNIVERSAL 
+1003062 PO P092904 4,800 PZS X 0.7321 TOTAL 3,514.08  VALOR TOTAL 11,184.48 USD  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 2,311.68  
+
+2,311.68  
+
+2,311.68  
+
+4,800.00  PZA (6)
+4,800.00 EA in: 6 
+PALLET MADERA
+
+4,800.00
+
+4,800.00
+
+4,800.00
+4,800.00
+
+7326909999 Tasa General:0.00% /Exp.USA:
+
+• 399184, ANILLOS DE ACERO (MANUFACTURAS) / STEEL 
+INSERT
+
+US (USA) 
+
+ 2.33010
+
+ 2.33010
+
+Subtotal  por  (Subtotal by):  7326909999 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 11,184.48
+
+ 227,249.62
+
+ 11,184.48
+
+ 227,249.62
+
+ 11,184.48
+
+ 227,249.62
+
+ Peso Total: 2,311.68  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 26/Apr/2022  3:34:21PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+HEADLY MANUFACTURING CO.
+2700 W.23RD STREET  BROADVIEW, IL (E.F.:IL) 60155 USA, IRS: 36-1349898, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+2909095-1
+
+Fecha(Date):
+
+ 26/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.3183
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U80693 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: EXW
+
+Pedimento Consolidado: 3459-2002525
+
+RESUMEN DE EMPAQUE FACTURA
+
+Tarima de Madera
+
+Total Bultos:
+
+ 1
+
+ 1
+
+1. No. Parte: 399215,   Ser: P/N: 399215 
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88933 BOL 12889 FACTURA HEADLY 2909095 1 PO  P102331 510 PZS X 2.3847 TOTAL 1,216.197  FACTURA UNIVERSAL 
+1003062 PO P094964 510 PZS X 0.9060 TOTAL 462.06  VALOR TOTAL 1,678.257 USD  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 347.00  
+
+347.00  
+
+347.00  
+
+510.00  PZA (6)
+510.00 EA in: 1 
+PALLET MADERA
+
+510.00
+
+510.00
+
+510.00
+510.00
+
+7326909999 Tasa General:0.00% /Exp.USA:
+
+• 399215, ANILLO DE ACERO (MANUFACTURA) / STEEL 
+RING
+
+US (USA) 
+
+ 3.29070
+
+ 3.29070
+
+Subtotal  por  (Subtotal by):  7326909999 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 1,678.26
+
+ 34,099.33
+
+ 1,678.26
+
+ 34,099.33
+
+ 1,678.26
+
+ 34,099.33
+
+ Peso Total: 347.00  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 26/Apr/2022  1:32:44PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+HEADLY MANUFACTURING CO.
+2700 W.23RD STREET  BROADVIEW, IL (E.F.:IL) 60155 USA, IRS: 36-1349898, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+2909247
+
+Fecha(Date):
+
+ 26/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.3183
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Contenedor Reg./Sello (Seal): U80693 / 
+
+Fletes (Freight) : 
+4,500.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Total: 4,500.00
+
+Chofer (Driver): 
+
+Incoterms: EXW
+
+Pedimento Consolidado: 3459-2002525
+
+RESUMEN DE EMPAQUE FACTURA
+
+Tarima de Madera
+
+Total Bultos:
+
+ 17
+
+ 17
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 399776,   Ser: P/N: 399776 850 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88933 BOL 12889 FACTURA HEADLY 2909247 PO  P094517 13,503 PZS X 1.6262 TOTAL 21,958.5786  FACTURA UNIVERSAL 
+1003062 PO P101289 13,503 PZS X 0.7321 TOTAL 9,885.5463  VALOR TOTAL 31,844.1249 USD  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 6,020.99  
+
+6,020.99  
+
+6,020.99  
+
+13,503.00  PZA (6)
+13,503.00 EA in: 17 
+PALLET MADERA
+
+13,503.00
+
+13,503.00
+
+13,503.00
+13,503.00
+
+7326909999 Tasa General:0.00% /Exp.USA:
+
+• 399776, ANILLOS DE ACERO (MANUFACTURAS) / STEEL 
+INSERT
+
+US (USA) 
+
+ 2.35830
+
+ 2.35830
+
+Subtotal  por  (Subtotal by):  7326909999 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 31,844.12
+
+ 647,018.48
+
+ 31,844.12
+
+ 647,018.48
+
+ 31,844.12
+
+ 647,018.48
+
+ Peso Total: 6,020.99  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 26/Apr/2022  1:33:35PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+COATING SYSTEMS INC.
+150 SALES AVENUE  HARRISON, OH (E.F.:OH) 45030 USA, IRS: 31-0869494, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+635588
+
+Fecha(Date):
+
+ 18/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 19.8407
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): 53A703 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002511
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJAS DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 34
+
+ 34
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 3139421, Mrc: HUTCHINSON,  Ser: P/N: 633246C67-TT 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88686. PA 3459 2001888  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 30.27  
+
+30.27  
+
+30.27  
+
+81,600.00  PZA (6)
+81,600.00 EA in: 34 
+CAJASDECARTON
+
+81,600.00
+
+81,600.00
+
+81,600.00
+81,600.00
+
+4016930401 Tasa General:0.00% /Exp.USA:
+
+• 3139421, EMPAQUES DE HULE / RUBBER SEAL
+
+MX (MEX) 
+
+ 0.01480
+
+ 0.01480
+
+Subtotal  por  (Subtotal by):  4016930401 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 1,207.68
+
+ 23,961.22
+
+ 1,207.68
+
+ 23,961.22
+
+ 1,207.68
+
+ 23,961.22
+
+ Peso Total: 30.27  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 18/Apr/2022  3:31:18PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+COATING SYSTEMS INC.
+150 SALES AVENUE  HARRISON, OH (E.F.:OH) 45030 USA, IRS: 31-0869494, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+635589
+
+Fecha(Date):
+
+ 18/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 19.8407
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): 53A703 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002511
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJAS DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 4
+
+ 4
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 3134381, Mrc: HUTCHINSON,  Ser: P/N: 645561E49 5TH 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88691. PA 3459 2001653  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 14.56  
+
+14.56  
+
+14.56  
+
+16,000.00  PZA (6)
+16,000.00 EA in: 4 
+CAJASDECARTON
+
+16,000.00
+
+16,000.00
+
+16,000.00
+16,000.00
+
+4016930401 Tasa General:0.00% /Exp.USA:4016935050
+
+• 3134381, EMPAQUES DE HULE / RUBBER SEAL P/N 
+645561E49 5TH
+
+MX (MEX) 
+
+ 0.01500
+
+ 0.01500
+
+Subtotal  por  (Subtotal by):  4016930401 Tasa General:0.00% 
+/Exp.USA:4016935050
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 240.00
+
+ 4,761.77
+
+ 240.00
+
+ 4,761.77
+
+ 240.00
+
+ 4,761.77
+
+ Peso Total: 14.56  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 18/Apr/2022  3:30:35PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+COATING SYSTEMS INC.
+150 SALES AVENUE  HARRISON, OH (E.F.:OH) 45030 USA, IRS: 31-0869494, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+635677
+
+Fecha(Date):
+
+ 25/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.1802
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): TLH-538657 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002524
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJAS DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 1
+
+ 1
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 3139451, Mrc: HUTCHINSON,  Ser: P/N: 633261C67-TT 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88879. PA 3459 2001653  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 1.80  
+
+1.80  
+
+1.80  
+
+4,000.00  PZA (6)
+4,000.00 EA in: 1 
+CAJASDECARTON
+
+4,000.00
+
+4,000.00
+
+4,000.00
+4,000.00
+
+4016930401 Tasa General:0.00% /Exp.USA:
+
+• 3139451, EMPAQUES DE HULE / RUBBER SEAL
+
+MX (MEX) 
+
+ 0.01480
+
+ 0.01480
+
+Subtotal  por  (Subtotal by):  4016930401 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 59.20
+
+ 1,194.67
+
+ 59.20
+
+ 1,194.67
+
+ 59.20
+
+ 1,194.67
+
+ Peso Total: 1.80  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 25/Apr/2022  1:29:22PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+COATING SYSTEMS INC.
+150 SALES AVENUE  HARRISON, OH (E.F.:OH) 45030 USA, IRS: 31-0869494, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+635743
+
+Fecha(Date):
+
+ 28/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.3560
+
+Páginas (Pages):
+
+1 de 1
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Total: 0.00
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+SEMIRREMOLQUE TIPO CAJA CERRADA 53'.
+
+Contenedor Reg./Sello (Seal): W15669 / 
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002532
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJAS DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 27
+
+ 27
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 3133331, Mrc: HUTCHINSON,  Ser: P/N: 6455347RC247D DTI 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 89002. PA 3459 2002167  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 67.18  
+
+67.18  
+
+67.18  
+
+54,000.00  PZA (6)
+54,000.00 EA in: 27 
+CAJASDECARTON
+
+54,000.00
+
+54,000.00
+
+54,000.00
+54,000.00
+
+4016930401 Tasa General:0.00% /Exp.USA:4016935050
+
+• 3133331, EMPAQUES DE HULE / RUBBER SEAL
+
+MX (MEX) 
+
+ 0.02000
+
+ 0.02000
+
+Subtotal  por  (Subtotal by):  4016930401 Tasa General:0.00% 
+/Exp.USA:4016935050
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 1,080.00
+
+ 21,984.48
+
+ 1,080.00
+
+ 21,984.48
+
+ 1,080.00
+
+ 21,984.48
+
+ Peso Total: 67.18  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 28/Apr/2022  4:33:12PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+COATING SYSTEMS INC.
+150 SALES AVENUE  HARRISON, OH (E.F.:OH) 45030 USA, IRS: 31-0869494, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+635744
+
+Fecha(Date):
+
+ 28/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.3560
+
+Páginas (Pages):
+
+1 de 1
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Total: 0.00
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+SEMIRREMOLQUE TIPO CAJA CERRADA 53'.
+
+Contenedor Reg./Sello (Seal): W15669 / 
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002532
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJAS DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 27
+
+ 27
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 3133331, Mrc: HUTCHINSON,  Ser: P/N: 6455347RC247D 5TI 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 89000. PA 3459 2001898  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 67.18  
+
+67.18  
+
+67.18  
+
+54,000.00  PZA (6)
+54,000.00 EA in: 27 
+CAJASDECARTON
+
+54,000.00
+
+54,000.00
+
+54,000.00
+54,000.00
+
+4016930401 Tasa General:0.00% /Exp.USA:4016935050
+
+• 3133331, EMPAQUES DE HULE / RUBBER SEAL
+
+MX (MEX) 
+
+ 0.02000
+
+ 0.02000
+
+Subtotal  por  (Subtotal by):  4016930401 Tasa General:0.00% 
+/Exp.USA:4016935050
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 1,080.00
+
+ 21,984.48
+
+ 1,080.00
+
+ 21,984.48
+
+ 1,080.00
+
+ 21,984.48
+
+ Peso Total: 67.18  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 28/Apr/2022  4:33:33PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+COATING SYSTEMS INC.
+150 SALES AVENUE  HARRISON, OH (E.F.:OH) 45030 USA, IRS: 31-0869494, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+635757
+
+Fecha(Date):
+
+ 28/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.3560
+
+Páginas (Pages):
+
+1 de 1
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 50.00
+
+Total: 50.00
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+SEMIRREMOLQUE TIPO CAJA CERRADA 53'.
+
+Contenedor Reg./Sello (Seal): W15669 / 
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002532
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJAS DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 1
+
+ 1
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 3139401, Mrc: HUTCHINSON,  Ser: P/N: 633257C67-TT 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 89001. PA 3459 2002176  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 2.06  
+
+2.06  
+
+2.06  
+
+9,000.00  PZA (6)
+9,000.00 EA in: 1 
+CAJASDECARTON
+
+9,000.00
+
+9,000.00
+
+9,000.00
+9,000.00
+
+4016930401 Tasa General:0.00% /Exp.USA:
+
+• 3139401, EMPAQUES DE HULE / RUBBER SEAL
+
+MX (MEX) 
+
+ 0.01130
+
+ 0.01130
+
+Subtotal  por  (Subtotal by):  4016930401 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 101.70
+
+ 2,070.21
+
+ 101.70
+
+ 2,070.21
+
+ 101.70
+
+ 2,070.21
+
+ Peso Total: 2.06  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 28/Apr/2022  4:33:52PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+MOMENTIVE PERFORMANCE MATERIAL
+260 HUDSON RIVER ROAD  WATERFORD, NY (E.F.:NY) 12188 USA, IRS: 205748388, 
+RNIE: , Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+7004897882
+
+Fecha(Date):
+
+ 27/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.2992
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U98462 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002529
+
+RESUMEN DE EMPAQUE FACTURA
+
+Tarima de Madera
+
+Total Bultos:
+
+ 2
+
+ 2
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 200266, Mrc: MOMENTIVE,  Ser: P/N:150891 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88875  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 908.00  
+
+908.00  
+
+908.00  
+
+908.00  KG (1)
+908.00 KG in: 2 
+PALLET MADERA
+
+908.00
+
+908.00
+
+908.00
+908.00
+
+4005999900 Tasa General:0.00% /Exp.USA:
+
+• 200266, CAUCHO SIN VULCANIZER EN FORMA 
+PRIMARIA / 6PL603L
+
+US (USA) 
+
+ 9.22907
+
+ 9.22908
+
+Subtotal  por  (Subtotal by):  4005999900 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 8,380.00
+
+ 170,107.30
+
+ 8,380.00
+
+ 170,107.30
+
+ 8,380.00
+
+ 170,107.30
+
+ Peso Total: 908.00  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 27/Apr/2022  3:57:16PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+MC MASTER CARR
+ 9630 NORWALK BLVD.  "SANTA FE SPRINGS, CA          ",  (E.F.:) 90670 USA, IRS: 
+36-1458720, RNIE: , Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+76027728
+
+Fecha(Date):
+
+ 26/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.3183
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U80693 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002525
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJAS DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 1
+
+ 1
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 9M131245,   Ser: P/N: FC-13376380 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88932  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 0.45  
+
+0.45  
+
+* 0.45  
+
+0.45  
+
+0.91  
+
+5.00  PZA (6)
+5.00 EA in: 1 
+CAJASDECARTON
+
+5.00
+
+5.00
+
+7318159905 Tasa General:0.00% /Exp.USA:
+
+• 9M131276, TORNILLO DE ACERO / BLACK-OXIDE 
+STEEL MACHINED
+
+US (USA) 
+
+ 23.43000
+
+ 23.43000
+
+Subtotal  por  (Subtotal by):  7318159905 Tasa General:0.00% 
+/Exp.USA:
+
+7318160604 Tasa General:0.00% /Exp.USA:
+
+5.00  PZA (6)
+5.00 EA 
+
+• 9M131245, TUERCA DE ACERO (PAQUETE CON 5 PZS) 
+/ HIGH-STRENGTH CLASS 10STEEL FLANGE NUT
+
+TW (TWN) 
+
+ 12.86000
+
+ 12.86000
+
+5.00
+
+5.00
+
+10.00
+10.00
+
+Subtotal  por  (Subtotal by):  7318160604 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 117.15
+
+ 2,380.29
+
+ 117.15
+
+ 2,380.29
+
+ 64.30
+
+ 1,306.47
+
+ 64.30
+
+ 1,306.47
+
+ 181.45
+
+ 3,686.76
+
+ Peso Total: 1.91  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 26/Apr/2022 12:37:20PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+DUPONT SPECIALTY PRODUCTS  USA LLC
+974 CENTRE ROAD  WILMINGTON, DE (E.F.:DE) 19805 USA, IRS: 822298836, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+7616264551
+
+Fecha(Date):
+
+ 18/ Mar / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.7035
+
+Páginas (Pages):
+
+1 de 1
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Fletes (Freight) : 
+7,200.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Total: 7,200.00
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+SEMIRREMOLQUE TIPO CAJA CERRADA 53'.
+
+Contenedor Reg./Sello (Seal): TLH-530057 / 
+
+Chofer (Driver): 
+
+Incoterms: EXW
+
+Pedimento Consolidado: 3459-2002021
+
+RESUMEN DE EMPAQUE FACTURA
+
+Tarima de Madera
+
+Total Bultos:
+
+ 4
+
+ 4
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: H111021, Mrc: DUPONT / VAMAC,  Ser: P/N: D15532776 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL XXXXX, BOL 12761  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 1,360.78  
+
+1,360.78  
+
+1,360.78  
+
+1,360.78  KG (1)
+1,360.78 KG in: 4 
+PALLET MADERA
+
+1,360.78
+
+1,360.78
+
+1,360.78
+1,360.78
+
+3906909900 Tasa General:5.00% /Exp.USA:
+
+• H111021, COPOLIMERO DE ETILENO Y ACIDO 
+ACRILICO / VAMAC GLS
+
+CA (CAN) 
+
+ 24.91224
+
+ 24.91224
+
+Subtotal  por  (Subtotal by):  3906909900 Tasa General:5.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 33,900.00
+
+ 701,848.65
+
+ 33,900.00
+
+ 701,848.65
+
+ 33,900.00
+
+ 701,848.65
+
+ Peso Total: 1,360.78  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 18/Mar/2022  4:26:20PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+IMPORTACION DEFINITIVA de TODO TIPO MATERIAL 
+
+R.S. HUGHES COMPANY INC.
+1162 SONORA COURT  SUNNYVALE, CA (E.F.:CA) 94086 USA, IRS: 95-1943801, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): Hutchinson Seal de Mexico S.A de C.V. 
+Pelicanos  No. 313  Lomas de San Fernando Ensenada, BC (E.F.:BC) 22785 MX, RFC: 
+HSM-000316H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+79663685-00
+
+Fecha(Date):
+
+ 25/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.1802
+
+Páginas (Pages):
+
+1 de 1
+
+Importador (Importer): Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC (E.F.:BC) 22785 MX, RFC: 
+HSM-000316H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , No. 
+PITEX: 0
+
+Destino (Ship To): Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC (E.F.:BC) 22785 MX
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+C. Transp. (R.F.C. /CAAT) Carrier: 
+
+TRANSPORTES LEGASPY (TLH900104GG5/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+Contenedor Reg./Sello (Seal):  / 
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: -
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJA DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 1
+
+ 1
+
+INCREMENTABLES
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Total: 0.00
+
+DECREMENTABLES
+
+Carga: 0.00
+Descarga: 0.00
+Fletes: 0.00
+Seguros: 0.00
+Otros: 0.00
+
+Total: 0.00
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: CH00855, Mrc: MOMENTIVE,  Ser: P/N: RTV106 
+
+Ag. Aduanal MX/US Broker MX/US): Especialistas en Aduanas y Comercio Exterior S.C. / Space Border Logistics Corp.
+
+Comentarios MX/US(Comments): PO# 7IP104233/CC#17IC00300
+
+CAAT: A0FZ
+SCAC:TLEG  / 
+
+Entradas a Cargar:
+
+88758
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 0.96  
+
+0.96  
+
+0.96  
+
+12.00  PZA (6)
+12.00 EA in: 1 
+CAJACARTON
+
+12.00
+
+12.00
+
+12.00
+12.00
+
+3506109901 Tasa General:6.00% /Exp.USA:
+
+• CH00855, SELLADOR DE SILICONA / SILICONE
+
+US (USA) 
+
+ 25.50000
+
+ 25.50000
+
+Subtotal  por  (Subtotal by):  3506109901 Tasa General:6.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 306.00
+
+ 6,175.14
+
+ 306.00
+
+ 6,175.14
+
+ 306.00
+
+ 6,175.14
+
+ Peso Total: 0.96  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature): Itamar Hernandez
+
+ Rep. Legal.: Pilar Concepción Orozco 
+Huerta
+
+Fecha y Hora Impresión: 25/Apr/2022  1:14:27PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+ORION ENGINEERED CARBONS LLC
+4501 MAGNOLIA COVE DRIVE 106  KINGWOOD, TX (E.F.:TX) 77345 USA, IRS: 
+03-0614703, RNIE: , Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+90124962
+
+Fecha(Date):
+
+ 13/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.1200
+
+Páginas (Pages):
+
+1 de 1
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Fletes (Freight) : 
+3,700.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Total: 3,700.00
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+SEMIRREMOLQUE TIPO CAJA CERRADA 53'.
+
+Contenedor Reg./Sello (Seal): U19308 / 
+
+Chofer (Driver): 
+
+Incoterms: EXW
+
+Pedimento Consolidado: 3459-2002506
+
+RESUMEN DE EMPAQUE FACTURA
+
+Tarima de Madera
+
+Total Bultos:
+
+ 18
+
+ 18
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: H155002, Mrc: CORAX,  Ser: P/N: 110000191 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88511  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 13,880.16  
+
+13,880.16  
+
+13,880.16  
+
+13,880.16  KG (1)
+13,880.16 KG in: 18 
+PALLET MADERA
+
+13,880.16
+
+13,880.16
+
+13,880.16
+13,880.16
+
+2803000200 Tasa General:5.00% /Exp.USA:
+
+• H155002, NEGRO DE HUMO / CARBON BLACK N550
+
+US (USA) 
+
+ 1.87390
+
+ 1.87390
+
+Subtotal  por  (Subtotal by):  2803000200 Tasa General:5.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 26,010.00
+
+ 523,321.20
+
+ 26,010.00
+
+ 523,321.20
+
+ 26,010.00
+
+ 523,321.20
+
+ Peso Total: 13,898.16  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 13/Apr/2022  1:23:03PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+ZEON CHEMICALS
+4100 BELLS LANE LOUIVILLE  LOUISVILLE, KY (E.F.:KY) 40211 USA, IRS: 611335430, 
+RNIE: , Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+90302713
+
+Fecha(Date):
+
+ 27/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.2992
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U98462 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002529
+
+RESUMEN DE EMPAQUE FACTURA
+
+CONTENEDOR DE METAL
+
+Total Bultos:
+
+ 2
+
+ 2
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: H110010, Mrc: HYTEMP/ZEON,  Ser: P/N: 301AR71000R3 
+
+2. No. Parte: CONT.METAL, Mrc: ZEON,   
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88974  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 2,000.00  
+
+2,000.00  
+
+* 60.00  
+
+60.00  
+
+2,060.00  
+
+2,000.00  KG (1)
+2,000.00 KG in: 2 
+CONT.METAL
+
+2,000.00
+
+2,000.00
+
+4002999900 Tasa General:5.00% /Exp.USA:
+
+• H110010, POLIMERO ACRILICO / HYTEMP AR71 PN 
+301AR71000R3
+
+US (USA) 
+
+ 8.62500
+
+ 8.62500
+
+Subtotal  por  (Subtotal by):  4002999900 Tasa General:5.00% 
+/Exp.USA:
+
+7310100599 Tasa General:0.00% /Exp.USA:
+
+2.00  PZA (6)
+2.00 EA 
+
+• CONT.METAL, CONTENEDOR DE METAL / METAL 
+CONTAINER
+
+VN (VNM) 
+
+ 14.68000
+
+ 14.68000
+
+ 17,250.00
+
+ 350,161.20
+
+ 17,250.00
+
+ 350,161.20
+
+ 29.36
+
+ 595.98
+
+ 29.36
+
+ 595.98
+
+2.00
+
+2.00
+
+2,002.00
+2,002.00
+
+Subtotal  por  (Subtotal by):  7310100599 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 17,279.36
+
+ 350,757.18
+
+ Peso Total: 2,060.00  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 27/Apr/2022  3:52:12PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+VANDERBILT CHEMICALS LLC
+30 WINFIELD STREET  NORWALK, CT (E.F.:CT) 06855 USA, IRS: 461031856, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+90462840
+
+Fecha(Date):
+
+ 27/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.2992
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U98462 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002529
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJAS DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 1
+
+ 1
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: H999999, Mrc: MORFAX/VANDERBILT CHEMICALS, LLC,  Ser: 
+P/N: 29205 
+2. No. Parte: H999999, Mrc: DURAX/VANDERBILT CHEMICALS, LLC,  Ser: 
+P/N: 20850 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 87386, MUESTRA SIN VALOR COMERCIAL, VALOR SOLO PARA PROPOSITOS ADUANALES  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 0.45  
+
+0.45  
+
+* 0.45  
+
+0.45  
+
+0.91  
+
+2934209902 Tasa General:0.00% /Exp.USA:
+
+0.45  KG (1)
+0.45 KG 
+
+• H999999, N-CYCLOHEXYL-2-BENZOTHLAZOLE 
+SULFENAMIDE / DURAZ
+
+CN (CHN) 
+
+ 176.36684
+
+ 176.36684
+
+0.45
+
+0.45
+
+0.45  KG (1)
+0.45 KG in: 1 
+CAJASDECARTON
+
+0.45
+
+0.45
+
+0.91
+0.91
+
+Subtotal  por  (Subtotal by):  2934209902 Tasa General:0.00% 
+/Exp.USA:
+
+2934209999 Tasa General:0.00% /Exp.USA:
+
+• H999999, BENZOTIAZOL 2(-4 MORFOLINIL) / MORFAX
+
+CN (CHN) 
+
+ 176.36684
+
+ 176.36684
+
+Subtotal  por  (Subtotal by):  2934209999 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 80.00
+
+ 1,623.94
+
+ 80.00
+
+ 1,623.94
+
+ 80.00
+
+ 1,623.94
+
+ 80.00
+
+ 1,623.94
+
+ 160.00
+
+ 3,247.87
+
+ Peso Total: 1.91  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 27/Apr/2022  3:54:35PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+VANDERBILT CHEMICALS LLC
+30 WINFIELD STREET  NORWALK, CT (E.F.:CT) 06855 USA, IRS: 461031856, RNIE: , 
+Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+90467539
+
+Fecha(Date):
+
+ 27/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.2992
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U98462 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002529
+
+RESUMEN DE EMPAQUE FACTURA
+
+Tarima de Madera
+
+Total Bultos:
+
+ 1
+
+ 1
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: H103001, Mrc: DENKA,   
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88924  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 100.00  
+
+100.00  
+
+100.00  
+
+100.00  KG (1)
+100.00 KG in: 1 
+PALLET MADERA
+
+100.00
+
+100.00
+
+100.00
+100.00
+
+4002499901 Tasa General:0.00% /Exp.USA:
+
+• H103001, NEOPRENO / NEOPRENE WHV
+
+US (USA) 
+
+ 13.64770
+
+ 13.64770
+
+Subtotal  por  (Subtotal by):  4002499901 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 1,364.77
+
+ 27,703.74
+
+ 1,364.77
+
+ 27,703.74
+
+ 1,364.77
+
+ 27,703.74
+
+ Peso Total: 100.00  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 27/Apr/2022  3:50:27PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC 22785 MX, RFC. HSM-000316-H84, 
+IMMEX:1169-2006
+Tel.: , Fax. 
+
+Vendido a (Sold to): ALLISON TRANSMISSION
+ P. O. BOX 894  INDIANAPOLIS                  IN,  46222 USA, IRS: 38-0572515 
+Phone.:, Fax. 
+
+Exportado por (Exported By): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC 22785 MX, RFC: HSM-000316-H84, 
+IMMEX: 1169-2006
+Tel:  , Fax. 
+
+Enviado a (Ship to): ALLISON TRANSMISSION
+ P. O. BOX 894  INDIANAPOLIS                  IN,  46222 USA, 
+IRS: 38-0572515, RNIE: 
+Phone: , Fax.  
+
+Comments: 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Total Bultos (Total Bulks): 4
+
+HTS     Rate (%)
+
+FACTURA EXPORTACION MX BILINGÜE (BILINGUAL US IMPORT INVOICE)
+
+EXPORTACION MAQUILA de TODO TIPO MATERIAL Y EQUIPO 
+
+Clave de pedimento:
+
+RT
+
+PAPS 
+
+Factura No. (Invoice No.):
+
+EB-00013
+
+Fecha (Date):
+
+05 / Abr /  2022
+
+T. Cambio (Exch. Rate):
+
+Páginas (Pages):
+
+ 19.8432
+
+1 de 2
+
+C. Tranportista (RFC/SCAC/CAAT) (Transport Co.): Transportes Legaspy e Hijos 
+
+(TLH-900104-GG/TLEG/A0FZ)
+
+Trailer MX/US:  / 9F82478, Ruta: No.Economico:   
+
+Chofer (Driver): VICENTE MONDRAGON, Gafete chofer:  Vinculación:0 , Incoterms:DAP  Cont. Tipo / 
+
+Reg./Placas /Sello (Cont. Tipe/Reg./Plates/Seal):  SEMIRREMOLQUE TIPO CAJA CERRADA 53'. / 
+
+TLH-530058 / 4PY3936 / HA45530, HA45531, HA45532 
+
+Ag. Aduanal Mx/US (Broker Mx/US): ESPECIALISTAS EN ADUANAS Y 
+
+INCREMENTABLES
+
+COMERCIO EXTERIOR SC / Space Border Logistics
+
+Pedimento Consolidado: 3459-2001894
+
+Fletes (Freight): 0.00, Seguros 
+(Insurance): 0.00, Embalajes 
+(Packing):0.00
+
+TOTAL:$0.00
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+Cantidad (Qty)
+
+U. M.
+
+Empaque 
+(Packing)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 36.0000 
+
+36.0000 
+
+      4.00 EA
+in: 4 
+
+9801001098   FREE  /Exp.Mx:3923100301
+
+• CONT.PLSTICO, CONTENEDOR DE PLASTICO (CAJA 
+DE PLASTICO)(EQUIPO DE ALMACENAMIENTO) / 
+TEMP, , - , * US(USA) --  /
+
+ 0.25000
+
+U
+T
+
+ 0.25000
+ 1.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 1.00
+
+ 19.84
+
+36.0000 
+
+36.0000 
+
+* 2.0000 
+
+2.0000 
+
+4.00
+4
+
+S  U  B  T  O  T  A  L  9801001098   FREE  /Exp.Mx:3923100301
+
+ 1.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 1.00
+
+9801001098   FREE  /Exp.Mx:3923500100
+
+      4.00 EA
+
+• TAPASFLAT, TAPAS DE PLASTICO / PLASTIC TOP, , - 
+, * US(USA) --  /
+
+ 0.25000
+
+U
+T
+
+ 0.25000
+ 1.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 1.00
+
+ 19.84
+
+FACTURA EXPORTACION MX BILINGÜE
+(BILINGUAL US IMPORT INVOICE)
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+HTS     Rate (%)
+
+Factura No. (Invoice No.):
+
+EB-00013
+
+Páginas (Pages):
+
+2 de 2
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+2.0000 
+
+2.0000 
+
+* 11.5200 
+
+11.5200 
+
+11.5200 
+
+11.5200 
+
+49.5200 
+
+49.5200 
+
+""
+
+Cantidad (Qty)
+
+U. M.
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+4.00
+
+S  U  B  T  O  T  A  L  9801001098   FREE  /Exp.Mx:3923500100
+
+ 1.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 1.00
+
+     96.00 EA
+
+9801001098   FREE  /Exp.Mx:3926909999
+
+• SEPARADORES, SEPARADORES DE PLASTICO / EA, 
+, - , * US(USA) --  /
+
+ 0.01042
+
+U
+T
+
+ 0.01042
+ 1.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 1.00
+
+ 19.84
+
+96.00
+
+S  U  B  T  O  T  A  L  9801001098   FREE  /Exp.Mx:3926909999
+
+ 1.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 1.00
+
+104.00
+
+4
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+ 3.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+U =Unitario, T = Total
+
+ 3.00
+
+ 59.53
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature): Eliott Lambarena
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 06/Apr/2022  9:23:06AM
+\\ENSVR20\Intrade\Reportes\FactExpBi.rpt 
+
+???HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC 22785 MX, RFC. HSM-000316-H84, 
+IMMEX:1169-2006
+Tel.: , Fax. 
+
+Vendido a (Sold to): ALLISON TRANSMISSION
+. P. O. BOX 894  INDIANAPOLIS, IN 46206 USA, IRS: 38-0572515 
+Phone.:, Fax. 
+
+Exportado por (Exported By): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC 22785 MX, RFC: HSM-000316-H84, 
+IMMEX: 1169-2006
+Tel:  , Fax. 
+
+Enviado a (Ship to): ALLISON TRANSMISSION DOCK #99
+5902 Decatur Boulevard  INDIANAPOLIS, IN 46241 USA, 
+IRS: 38-0572515, RNIE: 
+Phone: , Fax.  
+
+Comments: 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Total Bultos (Total Bulks): 1
+
+HTS     Rate (%)
+
+FACTURA EXPORTACION MX BILINGÜE (BILINGUAL US IMPORT INVOICE)
+
+EXPORTACION MAQUILA de TODO TIPO MATERIAL Y EQUIPO 
+
+Clave de pedimento:
+
+RT
+
+PAPS 
+
+Factura No. (Invoice No.):
+
+EB-00016
+
+Fecha (Date):
+
+22 / Abr /  2022
+
+T. Cambio (Exch. Rate):
+
+Páginas (Pages):
+
+ 20.0383
+
+1 de 2
+
+C. Tranportista (RFC/SCAC/CAAT) (Transport Co.): Transportes Legaspy e Hijos 
+
+(TLH-900104-GG/TLEG/A0FZ)
+
+Trailer MX/US:  / 9G36764, Ruta: No.Economico:   
+
+Chofer (Driver): , Gafete chofer:  Vinculación:0 , Incoterms:DAP  Cont. Tipo / Reg./Placas /Sello 
+
+(Cont. Tipe/Reg./Plates/Seal):   / W13873 /  / HA45569, HA45570, HA45571 
+
+Ag. Aduanal Mx/US (Broker Mx/US): ESPECIALISTAS EN ADUANAS Y 
+
+INCREMENTABLES
+
+COMERCIO EXTERIOR SC / Space Border Logistics
+
+Pedimento Consolidado: 3459-2002182
+
+Fletes (Freight): 0.00, Seguros 
+(Insurance): 0.00, Embalajes 
+(Packing):0.00
+
+TOTAL:$0.00
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+Cantidad (Qty)
+
+U. M.
+
+Empaque 
+(Packing)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 9.0000 
+
+9.0000 
+
+      1.00 EA
+in: 1 
+
+9801001098   FREE  /Exp.Mx:3923100301
+
+• CONT.PLSTICO, CONTENEDOR DE PLASTICO (CAJA 
+DE PLASTICO)(EQUIPO DE ALMACENAMIENTO) / 
+TEMP, , - , * US(USA) --  /
+
+ 1.00000
+
+U
+T
+
+ 1.00000
+ 1.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 1.00
+
+ 20.04
+
+9.0000 
+
+9.0000 
+
+* 0.5000 
+
+0.5000 
+
+1.00
+1
+
+S  U  B  T  O  T  A  L  9801001098   FREE  /Exp.Mx:3923100301
+
+ 1.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 1.00
+
+9801001098   FREE  /Exp.Mx:3923500100
+
+      1.00 EA
+
+• TAPASFLAT, TAPAS DE PLASTICO / PLASTIC TOP, , - 
+, * US(USA) --  /
+
+ 1.00000
+
+U
+T
+
+ 1.00000
+ 1.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 1.00
+
+ 20.04
+
+FACTURA EXPORTACION MX BILINGÜE
+(BILINGUAL US IMPORT INVOICE)
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+HTS     Rate (%)
+
+Factura No. (Invoice No.):
+
+EB-00016
+
+Páginas (Pages):
+
+2 de 2
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+0.5000 
+
+0.5000 
+
+* 2.8800 
+
+2.8800 
+
+2.8800 
+
+2.8800 
+
+12.3800 
+
+12.3800 
+
+""
+
+Cantidad (Qty)
+
+U. M.
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+1.00
+
+S  U  B  T  O  T  A  L  9801001098   FREE  /Exp.Mx:3923500100
+
+ 1.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 1.00
+
+     24.00 EA
+
+9801001098   FREE  /Exp.Mx:3926909999
+
+• SEPARADORES, SEPARADORES DE PLASTICO / EA, 
+, - , * US(USA) --  /
+
+ 0.04167
+
+U
+T
+
+ 0.04167
+ 1.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 1.00
+
+ 20.04
+
+24.00
+
+26.00
+
+1
+
+S  U  B  T  O  T  A  L  9801001098   FREE  /Exp.Mx:3926909999
+
+ 1.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 1.00
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+ 3.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+U =Unitario, T = Total
+
+ 3.00
+
+ 60.12
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature): Eliott Lambarena
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 22/Apr/2022  7:33:52AM
+\\ENSVR20\Intrade\Reportes\FactExpBi.rpt 
+
+???HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC 22785 MX, RFC. HSM-000316-H84, 
+IMMEX:1169-2006
+Tel.: , Fax. 
+
+Vendido a (Sold to): ALLISON TRANSMISSION
+. P. O. BOX 894  INDIANAPOLIS, IN 46206 USA, IRS: 38-0572515 
+Phone.:, Fax. 
+
+Exportado por (Exported By): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC 22785 MX, RFC: HSM-000316-H84, 
+IMMEX: 1169-2006
+Tel:  , Fax. 
+
+Enviado a (Ship to): ALLISON TRANSMISSION DOCK #99
+5902 Decatur Boulevard  INDIANAPOLIS, IN 46241 USA, 
+IRS: 38-0572515, RNIE: 
+Phone: , Fax.  
+
+Comments: 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Total Bultos (Total Bulks): 1
+
+HTS     Rate (%)
+
+FACTURA EXPORTACION MX BILINGÜE (BILINGUAL US IMPORT INVOICE)
+
+EXPORTACION MAQUILA de TODO TIPO MATERIAL Y EQUIPO 
+
+Clave de pedimento:
+
+RT
+
+PAPS 
+
+Factura No. (Invoice No.):
+
+EB-00017
+
+Fecha (Date):
+
+25 / Abr /  2022
+
+T. Cambio (Exch. Rate):
+
+Páginas (Pages):
+
+ 20.1802
+
+1 de 2
+
+C. Tranportista (RFC/SCAC/CAAT) (Transport Co.): Transportes Legaspy e Hijos 
+
+(TLH-900104-GG/TLEG/A0FZ)
+
+Trailer MX/US: 68AB4D / 9F62487, Ruta: No.Economico:   
+
+Chofer (Driver): GABRIEL BARAJAS, Gafete chofer:  Vinculación:0 , Incoterms:DAP  Cont. Tipo / 
+
+Reg./Placas /Sello (Cont. Tipe/Reg./Plates/Seal):  CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53'). / 530192 / 4AB8157 / HA45576, HA45577, HA45578 
+
+Ag. Aduanal Mx/US (Broker Mx/US): ESPECIALISTAS EN ADUANAS Y 
+
+INCREMENTABLES
+
+COMERCIO EXTERIOR SC / Space Border Logistics
+
+Pedimento Consolidado: 3459-2002186
+
+Fletes (Freight): 0.00, Seguros 
+(Insurance): 0.00, Embalajes 
+(Packing):0.00
+
+TOTAL:$0.00
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+Cantidad (Qty)
+
+U. M.
+
+Empaque 
+(Packing)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 9.0000 
+
+9.0000 
+
+      1.00 EA
+in: 1 
+
+9801001098   FREE  /Exp.Mx:3923100301
+
+• CONT.PLSTICO, CONTENEDOR DE PLASTICO (CAJA 
+DE PLASTICO)(EQUIPO DE ALMACENAMIENTO) / 
+TEMP, , - , * US(USA) --  /
+
+ 1.00000
+
+U
+T
+
+ 1.00000
+ 1.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 1.00
+
+ 20.18
+
+9.0000 
+
+9.0000 
+
+* 0.5000 
+
+0.5000 
+
+1.00
+1
+
+S  U  B  T  O  T  A  L  9801001098   FREE  /Exp.Mx:3923100301
+
+ 1.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 1.00
+
+9801001098   FREE  /Exp.Mx:3923500100
+
+      1.00 EA
+
+• TAPASFLAT, TAPAS DE PLASTICO / PLASTIC TOP, , - 
+, * US(USA) --  /
+
+ 1.00000
+
+U
+T
+
+ 1.00000
+ 1.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 1.00
+
+ 20.18
+
+FACTURA EXPORTACION MX BILINGÜE
+(BILINGUAL US IMPORT INVOICE)
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+HTS     Rate (%)
+
+Factura No. (Invoice No.):
+
+EB-00017
+
+Páginas (Pages):
+
+2 de 2
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+0.5000 
+
+0.5000 
+
+* 2.8800 
+
+2.8800 
+
+2.8800 
+
+2.8800 
+
+12.3800 
+
+12.3800 
+
+""
+
+Cantidad (Qty)
+
+U. M.
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+1.00
+
+S  U  B  T  O  T  A  L  9801001098   FREE  /Exp.Mx:3923500100
+
+ 1.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 1.00
+
+     24.00 EA
+
+9801001098   FREE  /Exp.Mx:3926909999
+
+• SEPARADORES, SEPARADORES DE PLASTICO / EA, 
+, - , * US(USA) --  /
+
+ 0.04167
+
+U
+T
+
+ 0.04167
+ 1.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 1.00
+
+ 20.18
+
+24.00
+
+26.00
+
+1
+
+S  U  B  T  O  T  A  L  9801001098   FREE  /Exp.Mx:3926909999
+
+ 1.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 1.00
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+ 3.00
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+U =Unitario, T = Total
+
+ 3.00
+
+ 60.54
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature): Eliott Lambarena
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 25/Apr/2022  8:44:49AM
+\\ENSVR20\Intrade\Reportes\FactExpBi.rpt 
+
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+ALLISON TRANSMISSION
+. P. O. BOX 894  INDIANAPOLIS, IN (E.F.:IN) 46206 USA, IRS: 38-0572515, RNIE: , Tel. 
+, Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+EB-00348
+
+Fecha(Date):
+
+ 27/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.2992
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U98462 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002529
+
+RESUMEN DE EMPAQUE FACTURA
+
+TARIMAS DE PLASTICO
+
+Total Bultos:
+
+ 2
+
+ 2
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: CONT.PLASTICO(V), Mrc: ORBIS,   
+
+2. No. Parte: CONT.PLASTICO(V), Mrc: ORBIS,   
+
+3. No. Parte: SEPARADORES,   Ser: P/N: SA950 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88870  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 60.00  
+
+* 40.00  
+
+100.00  
+
+* 126.00  
+
+126.00  
+
+226.00  
+
+3.00  PZA (6)
+3.00 EA in: 2 
+PALLET
+
+2.00  PZA (6)
+2.00 EA 
+
+5.00
+
+5.00
+
+315.00  PZA (6)
+315.00 EA 
+
+315.00
+
+315.00
+
+320.00
+320.00
+
+3923100301 Tasa General:15.00% /Exp.USA:
+
+• CONT.PLASTICO(V), CONTENEDORES DE PLASTICO / 
+PLASTIC CONTENEIRS
+
+• CONT.PLASTICO(V), CONTENEDORES DE PLASTICO / 
+PLASTIC CONTENEIRS
+
+MX (MEX) 
+
+US (USA) 
+
+Subtotal  por  (Subtotal by):  3923100301 Tasa General:15.00% 
+/Exp.USA:
+
+3926909999 Tasa General:0.00% /Exp.USA:
+
+• SEPARADORES, SEPARADORES DE PLASTICO / EA
+
+US (USA) 
+
+ 0.33333
+
+ 0.33333
+
+ 0.50000
+
+ 0.50000
+
+ 0.00317
+
+ 0.00318
+
+Subtotal  por  (Subtotal by):  3926909999 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 1.00
+
+ 20.30
+
+ 1.00
+
+ 20.30
+
+ 2.00
+
+ 40.60
+
+ 1.00
+
+ 20.30
+
+ 1.00
+
+ 20.30
+
+ 3.00
+
+ 60.90
+
+ Peso Total: 226.00  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 27/Apr/2022  3:55:11PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+ 
+ 
+???IMPORTACION DEFINITIVA de TODO TIPO MATERIAL Y EQUIPO 
+
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+AGC CHEMICALS AMERICAS INC
+35675 NEWARK  NEWARK, NJ (E.F.:NJ) 7193 USA, IRS: 943343075, RNIE: , Tel. , Fax 
+
+Vendido a (Sold To): HUTCHINSON SEAL DE MEXICO SA DE CV 
+PELICANOS  No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+IN110507
+
+Fecha(Date):
+
+ 27/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.2992
+
+Páginas (Pages):
+
+1 de 1
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+Importador (Importer): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX, 
+RFC: HSM-000316-H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , 
+No. Maq.: 0
+
+Destino (Ship To): HUTCHINSON SEAL DE MEXICO SA DE CV
+PELICANOS No. 313  LOMAS DE SAN FERNANDO ENSENADA, BC (E.F.:BC) 22785 MX
+
+C. Transp. (R.F.C. /CAAT) Carrier: Transportes 
+
+INCREMENTABLES
+
+Legaspy e Hijos (TLH-900104-GG/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+CONTENEDOR ESTANDAR 53' (STANDARD CONTAINER 
+
+53').
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Contenedor Reg./Sello (Seal): U98462 / 
+
+Total: 0.00
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: 3459-2002529
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJAS DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 1
+
+ 1
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: H107190, Mrc: AFLAS,  Ser: P/N: 100H 
+
+Ag. Aduanal MX/US Broker MX/US): ESPECIALISTAS EN ADUANAS Y COMERCIO EXTERIOR SC / Space Border Logistics
+
+Comentarios MX/US(Comments): SBL 88841  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 15.00  
+
+15.00  
+
+15.00  
+
+15.00  KG (1)
+15.00 KG in: 1 
+CAJASDECARTON
+
+15.00
+
+15.00
+
+15.00
+15.00
+
+3910000400 Tasa General:0.00% /Exp.USA:
+
+• H107190, CAUCHO DE SILICONA / AFLAS FA 100H
+
+JP (JPN) 
+
+ 58.64000
+
+ 58.64000
+
+Subtotal  por  (Subtotal by):  3910000400 Tasa General:0.00% 
+/Exp.USA:
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+USD  $
+
+ 879.60
+
+ 17,855.18
+
+ 879.60
+
+ 17,855.18
+
+ 879.60
+
+ 17,855.18
+
+ Peso Total: 15.00  Kgs.
+
+""
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature):  
+
+ Rep. Legal.: Pilar Orozco   (AUTO)
+
+Fecha y Hora Impresión: 27/Apr/2022  3:51:38PM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+ 
+???FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+IMPORTACION DEFINITIVA de TODO TIPO MATERIAL 
+
+GOODRICH AEROSPACE CANADA, LTD
+HENRI-FABRE BLVD No. 13100  MIRABEL , PQ (E.F.:XQ) J7N3C6 CA, IRS: 
+882134695RM0005, RNIE: , Tel. , Fax 
+
+Vendido a (Sold To): Hutchinson Seal de Mexico S.A de C.V. 
+Pelicanos  No. 313  Lomas de San Fernando Ensenada, BC (E.F.:BC) 22785 MX, RFC: 
+HSM-000316H84, IMMEX: 1169-2006
+
+Factura No. (Invoice No.):
+
+ROHR-0128
+
+Fecha(Date):
+
+ 22/ Abr / 2022
+
+T. Cambio (Exch. Rate):
+
+ 20.0383
+
+Páginas (Pages):
+
+1 de 2
+
+Importador (Importer): Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC (E.F.:BC) 22785 MX, RFC: 
+HSM-000316H84, IMMEX: 1169-2006, No. Reg. Pedimento Consolidado: , No. 
+PITEX: 0
+
+Destino (Ship To): Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC (E.F.:BC) 22785 MX
+
+Trailer MX/US:  /  
+
+Ruta(Route):
+
+C. Transp. (R.F.C. /CAAT) Carrier: 
+
+TRANSPORTES LEGASPY (TLH900104GG5/A0FZ), 
+
+No. Guia: 
+
+Contenedor Tipo (Container Type): 
+
+Contenedor Reg./Sello (Seal):  / 
+
+Chofer (Driver): 
+
+Incoterms: DAP
+
+Pedimento Consolidado: -
+
+RESUMEN DE EMPAQUE FACTURA
+
+CAJA DE CARTON CORRUGADO
+
+Total Bultos:
+
+ 1
+
+ 1
+
+INCREMENTABLES
+
+Fletes (Freight) : 0.00, 
+Seguros (Insurance): 
+0.00,  
+Embalajes: 0.00 
+Otros (Others): 0.00
+
+Total: 0.00
+
+DECREMENTABLES
+
+Carga: 0.00
+Descarga: 0.00
+Fletes: 0.00
+Seguros: 0.00
+Otros: 0.00
+
+Total: 0.00
+
+Marcas Modelos y Series
+
+Identificadores a Nivel No. Parte
+
+1. No. Parte: 999-5681-507, Mrc: ,  Ser: P/N: 999-5681-507 
+
+2. No. Parte: 999-5680-505, Mrc: ,  Ser: P/N: 999-5680-505 
+
+Ag. Aduanal MX/US Broker MX/US): Especialistas en Aduanas y Comercio Exterior S.C. / Space Border Logistics Corp.
+
+Comentarios MX/US(Comments): RMA 1249/CC#17IFQ0000
+
+GUIA MASTER: 
+
+TRACKING NUMEBR: 8136 5954 2206
+
+CAAT: A0FZ
+SCAC:TLEG  / 
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 0.78  
+
+* 1.95  
+
+2.73  
+
+2.00  PZA (6)
+2.00 EA in: 1 
+CAJACARTON
+
+5.00  PZA (6)
+5.00 EA 
+
+7.00
+
+7.00
+
+7326199908 Tasa General:0.00% /Exp.USA:7326190080
+
+• 999-5681-507, EMPAQUES DE ACERO REFORZADOS / 
+STEEL GASKET
+
+• 999-5680-505, EMPAQUES DE ACERO REFORZADOS / 
+STEEL GASKET
+
+MX (MEX) 
+
+MX (MEX) 
+
+ 229.00000
+
+ 229.00000
+
+ 319.00000
+
+ 319.00000
+
+Subtotal  por  (Subtotal by):  7326199908 Tasa General:0.00% 
+/Exp.USA:7326190080
+
+ 458.00
+
+ 9,177.54
+
+ 1,595.00
+
+ 31,961.09
+
+ 2,053.00
+
+ 41,138.63
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Fecha y Hora Impresión: 25/Apr/2022  9:16:17AM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+Firma (Signature): Itamar Hernandez
+
+ Rep. Legal.: Pilar Concepción Orozco 
+Huerta
+
+                         
+ 
+ 
+FACTURA IMPORTACION MX BILINGÜE
+(BILINGUAL US EXPORT INVOICE)
+
+Factura No. (Invoice No.):
+
+ROHR-0128
+
+Páginas (Pages):
+
+2 de 2
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en  DOLAR (Values expressed in AMERICAN DOLLARS) 
+
+* Peso Neto Kgs
+(Net Wt.)
+
+Cant. Comercial y 
+Compra U.M.
+(Commercial. Qty & 
+Purch.)
+
+Fracción (HTS)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description)
+
+2.73  
+
+7.00
+7.00
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+ Peso Total: 3.73  Kgs.
+
+""
+
+Pais Orig. 
+-Clave(Origin 
+-Ctry Code)
+Permisos
+
+V. Unit. 
+Comercial 
+yCompra  
+(commercial Unit 
+V. & Purch.)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+USD  $
+
+ 2,053.00
+
+ 41,138.63
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Fecha y Hora Impresión: 25/Apr/2022  9:16:17AM
+\\ENSVR20\Intrade\Reportes\FactImpBi.rpt 
+
+Firma (Signature): Itamar Hernandez
+
+ Rep. Legal.: Pilar Concepción Orozco 
+Huerta
+
+???FACTURA EXPORTACION MX BILINGÜE (BILINGUAL US IMPORT INVOICE)
+
+EXPORTACION MAQUILA de TODO TIPO MATERIAL 
+
+Clave de pedimento:
+
+BM
+
+Factura No. (Invoice No.):
+
+S-BM22-0020
+
+Fecha (Date):
+
+23 / Mar /  2022
+
+T. Cambio (Exch. Rate):
+
+Páginas (Pages):
+
+ 20.4145
+
+1 de 2
+
+C. Tranportista (RFC/SCAC/CAAT) (Transport Co.): TRANSPORTES LEGASPY (TLH900104GG5/TLEG/A0FZ)
+
+Trailer MX/US:  / , Ruta: No.Economico:   
+
+Chofer (Driver): , Gafete chofer:  Vinculación:0 , Incoterms:DAP  Cont. Tipo / Reg./Placas /Sello 
+
+(Cont. Tipe/Reg./Plates/Seal):  OTROS. /  /  /  
+
+Ag. Aduanal Mx/US (Broker Mx/US): Especialistas en Aduanas y 
+
+INCREMENTABLES
+
+Comercio Exterior S.C. / Space Border Logistics Corp.
+
+Pedimento Consolidado: -
+
+Fletes (Freight): 0.00, Seguros 
+(Insurance): 0.00, Embalajes 
+(Packing):0.00
+
+TOTAL:$0.00
+
+Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC 22785 MX, RFC. HSM-000316H84, 
+IMMEX:1169-2006
+Tel.: 646 152 2923, Fax. 
+
+Vendido a (Sold to): GREER INDUSTRIES
+2521 E. LOOP 820 N FOR WORTH  , TX 76118 USA, IRS: 75-1774731 
+Phone.:, Fax. 
+
+Exportado por (Exported By): Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC 22785 MX, RFC: HSM-000316H84, IMMEX: 
+1169-2006
+Tel: 646 152 2923 , Fax. 
+
+Enviado a (Ship to): GREER INDUSTRIES
+2521 E. LOOP 820 N FOR WORTH  , TX 76118 USA, 
+IRS: 75-1774731, RNIE: 
+Phone: , Fax.  
+
+Comments: SELLOS FISCALES: UL-5851456/UL-6144154/UL-6144155/
+
+Total Bultos (Total Bulks): 1
+
+Transporte Legaspy
+
+Chofer: VICENTE MONDRAGON
+
+Camion: TL-140
+
+Placas: 9F82478
+
+Caja: TLH-282869
+
+Placas caja: 4CA8785
+
+Caja seca de 28 pies. 
+
+Gafete: SATGN2017053140000001517
+
+CAAT: A0FZ
+
+SCAC: TLEG
+
+NO EXISTEN PEDIMENTOS AFECTADOS YA QUE LOS INSUMOS CON LOS CUALES SE ELABORARON ESTOS MATERIALES FUERON IMPORTADOS DEFINITIVAMENTE Y/O COMPRADOS NACIONAL.
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+HTS     Rate (%)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+Cantidad (Qty)
+
+U. M.
+
+Empaque 
+(Packing)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+MX4016935050   FREE  /Exp.Mx:4016930499
+
+ 
+FACTURA EXPORTACION MX BILINGÜE
+(BILINGUAL US IMPORT INVOICE)
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+HTS     Rate (%)
+
+Factura No. (Invoice No.):
+
+S-BM22-0020
+
+Páginas (Pages):
+
+2 de 2
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+Cantidad (Qty)
+
+U. M.
+
+Empaque 
+(Packing)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 0.1000 
+
+0.5000 
+
+      1.00 EA
+in: 1 CAJACARTON
+
+MX4016935050   FREE  /Exp.Mx:4016930499
+
+• 2002421, EMPAQUE DE HULE CON REFUERZO 
+TEXTIL / RUBBER GASKET, 20085, - , * MX(MEX) --  
+/20085
+
+ 31.36000
+
+U
+T
+
+ 31.36000
+ 31.36
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 31.36
+
+ 640.20
+
+0.1000 
+
+0.5000 
+
+0.1000 
+
+0.5000 
+
+""
+
+1.00
+1
+
+1.00
+
+1
+
+S  U  B  T  O  T  A  L  MX4016935050   FREE  /Exp.Mx:4016930499
+
+ 31.36
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 31.36
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+ 31.36
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+U =Unitario, T = Total
+
+ 31.36
+
+ 640.20
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature): MIGUEL ARTURO NAVA
+
+ Rep. Legal.: Pilar Concepción Orozco Huerta
+
+Fecha y Hora Impresión: 23/Mar/2022 11:48:36AM
+\\ENSVR20\InTrade\Reportes\FactExpBi.rpt 
+
+???FACTURA EXPORTACION MX BILINGÜE (BILINGUAL US IMPORT INVOICE)
+
+EXPORTACION MAQUILA de TODO TIPO MATERIAL 
+
+Clave de pedimento:
+
+BM
+
+Factura No. (Invoice No.):
+
+S-BM22-0034
+
+Fecha (Date):
+
+21 / Abr /  2022
+
+T. Cambio (Exch. Rate):
+
+Páginas (Pages):
+
+ 20.0447
+
+1 de 2
+
+C. Tranportista (RFC/SCAC/CAAT) (Transport Co.): TRANSPORTES LEGASPY (TLH900104GG5/TLEG/A0FZ)
+
+Trailer MX/US:  / , Ruta: No.Economico:   
+
+Chofer (Driver): , Gafete chofer:  Vinculación:0 , Incoterms:DAP  Cont. Tipo / Reg./Placas /Sello 
+
+(Cont. Tipe/Reg./Plates/Seal):  SEMIRREMOLQUE TIPO CAJA CERRADA 53'. /  /  /  
+
+Ag. Aduanal Mx/US (Broker Mx/US): Especialistas en Aduanas y 
+
+INCREMENTABLES
+
+Comercio Exterior S.C. / Space Border Logistics Corp.
+
+Pedimento Consolidado: -
+
+Fletes (Freight): 0.00, Seguros 
+(Insurance): 0.00, Embalajes 
+(Packing):0.00
+
+TOTAL:$0.00
+
+Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC 22785 MX, RFC. HSM-000316H84, 
+IMMEX:1169-2006
+Tel.: 646 152 2923, Fax. 
+
+Vendido a (Sold to): HIXSON METAL FINISHING
+829 PRODUCTION PLACE  NEWPORT BEACH CA USA,  92663 USA, IRS: 95-2222470 
+Phone.:, Fax. 
+
+Exportado por (Exported By): Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC 22785 MX, RFC: HSM-000316H84, IMMEX: 
+1169-2006
+Tel: 646 152 2923 , Fax. 
+
+Enviado a (Ship to): HUTCHINSON SEAL DE MEXICO SA DE CV
+9654 Siempre Viva 1 San Diego, CA 92154 USA, 
+IRS: 062506-00036, RNIE: 
+Phone: 619 869-8731, Fax.  
+
+Comments: SELLOS FISCALES: UL-6074519/UL-6144220/UL-6144221/
+
+Total Bultos (Total Bulks): 1
+
+Transporte Legaspy
+
+Chofer: ALFONSO RODRIGUEZ
+
+Camión: TL-142
+
+Placas: 9F82479
+
+Caja: U80396
+
+Placas: 4TX8940
+
+Es caja seca de 53’
+
+CAAT: A0FZ
+
+SCAC: TLEG
+
+NO EXISTEN PEDIMENTOS AFECTADOS YA QUE LOS INSUMOS CON LOS CUALES SE ELABORARON ESTOS MATERIALES FUERON IMPORTADOS DEFINITIVAMENTE Y/O COMPRADOS NACIONAL.
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+HTS     Rate (%)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+Cantidad (Qty)
+
+U. M.
+
+Empaque 
+(Packing)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+MX7616995090   FREE  /Exp.Mx:7616999999
+
+ 
+FACTURA EXPORTACION MX BILINGÜE
+(BILINGUAL US IMPORT INVOICE)
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+HTS     Rate (%)
+
+Factura No. (Invoice No.):
+
+S-BM22-0034
+
+Páginas (Pages):
+
+2 de 2
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+Cantidad (Qty)
+
+U. M.
+
+Empaque 
+(Packing)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 3.3300 
+
+4.5000 
+
+    111.00 EA
+in: 1 CAJACARTON
+
+• M06927, Empaques de aluminio / Aluminium gasket, 
+20141, - , * MX(MEX) --  /20141
+
+ 6.65000
+
+U
+T
+
+ 6.65000
+ 738.15
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 738.15
+
+ 14,796.00
+
+MX7616995090   FREE  /Exp.Mx:7616999999
+
+3.3300 
+
+4.5000 
+
+3.3300 
+
+4.5000 
+
+""
+
+111.00
+1
+
+111.00
+
+1
+
+S  U  B  T  O  T  A  L  MX7616995090   FREE  /Exp.Mx:7616999999
+
+ 738.15
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 738.15
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+ 738.15
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 738.15
+
+U =Unitario, T = Total
+
+ 14,796.00
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature): MIGUEL ARTURO NAVA
+
+ Rep. Legal.: Pilar Concepción Orozco Huerta
+
+Fecha y Hora Impresión: 21/Apr/2022 10:36:24AM
+\\ENSVR20\InTrade\Reportes\FactExpBi.rpt 
+
+???FACTURA EXPORTACION MX BILINGÜE (BILINGUAL US IMPORT INVOICE)
+
+EXPORTACION MAQUILA de TODO TIPO MATERIAL 
+
+Clave de pedimento:
+
+BM
+
+Factura No. (Invoice No.):
+
+S-BM22-0035
+
+Fecha (Date):
+
+27 / Abr /  2022
+
+T. Cambio (Exch. Rate):
+
+Páginas (Pages):
+
+ 20.2992
+
+1 de 2
+
+C. Tranportista (RFC/SCAC/CAAT) (Transport Co.): TRANSPORTES LEGASPY (TLH900104GG5/TLEG/A0FZ)
+
+Trailer MX/US:  / , Ruta: No.Economico:   
+
+Chofer (Driver): , Gafete chofer:  Vinculación:0 , Incoterms:DAP  Cont. Tipo / Reg./Placas /Sello 
+
+(Cont. Tipe/Reg./Plates/Seal):  SEMIRREMOLQUE TIPO CAJA CERRADA 53'. /  /  /  
+
+Ag. Aduanal Mx/US (Broker Mx/US): Especialistas en Aduanas y 
+
+INCREMENTABLES
+
+Comercio Exterior S.C. / Space Border Logistics Corp.
+
+Pedimento Consolidado: -
+
+Fletes (Freight): 0.00, Seguros 
+(Insurance): 0.00, Embalajes 
+(Packing):0.00
+
+TOTAL:$0.00
+
+Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC 22785 MX, RFC. HSM-000316H84, 
+IMMEX:1169-2006
+Tel.: 646 152 2923, Fax. 
+
+Vendido a (Sold to): Barry Avenue Plating Co Inc
+2210 Barry Avenue  Los Angeles, CA 90064 USA, IRS: 95-2104106 
+Phone.:, Fax. 
+
+Exportado por (Exported By): Hutchinson Seal de Mexico S.A de C.V.
+Pelicanos No. 313  Lomas de San Fernando Ensenada, BC 22785 MX, RFC: HSM-000316H84, IMMEX: 
+1169-2006
+Tel: 646 152 2923 , Fax. 
+
+Enviado a (Ship to): Barry Avenue Plating Co Inc
+2210 Barry Avenue  Los Angeles, CA 90064 USA, 
+IRS: 95-2104106, RNIE: 
+Phone: , Fax.  
+
+Comments: SELLOS FISCALES: UL-6074644/UL-6144229/UL-6144230/
+
+Total Bultos (Total Bulks): 5
+
+Transporte Legaspy
+
+Chofer: ALFONSO RODRIGUEZ
+
+Camion: TL-142
+
+Placas: 9F82479
+
+Caja: TLH-539062
+
+Placas caja: 4PE6790
+
+Caja seca de 53 pies. 
+
+Gafete: SATGN2022030211000112633
+
+CAAT: A0FZ
+
+SCAC: TLEG
+
+NO EXISTEN PEDIMENTOS AFECTADOS YA QUE LOS INSUMOS CON LOS CUALES SE ELABORARON ESTOS MATERIALES FUERON IMPORTADOS DEFINITIVAMENTE Y/O COMPRADOS NACIONAL.
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+HTS     Rate (%)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+Cantidad (Qty)
+
+U. M.
+
+Empaque 
+(Packing)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+MX7326190080   FREE  /Exp.Mx:7326199908
+
+ 
+FACTURA EXPORTACION MX BILINGÜE
+(BILINGUAL US IMPORT INVOICE)
+
+RELACION DE MERCANCIA (MERCHANDISE RELATION)
+
+HTS     Rate (%)
+
+Factura No. (Invoice No.):
+
+S-BM22-0035
+
+Páginas (Pages):
+
+2 de 2
+
+Valores expresados en DOLAR (Values expressed in  AMERICAN DOLLARS)
+
+* Peso Neto
+(Net Wt.)
+Peso Total  Kgs. 
+(Gross Wt. )
+
+Cantidad (Qty)
+
+U. M.
+
+Empaque 
+(Packing)
+
+• No. Parte (Part No.), Descripción Español (Spanish 
+Description)/ Descripción Inglés (English Description), PO 
+, Marca - Modelo, * Origen (Origin)--Comentarios
+Identificadores/Orden de Trabajo
+
+Valor Unitario 
+(Unit Value)
+
+Material
+
+Gravable 
+(Dutiable)
+
+No Gravable 
+(Non Dutiable)
+
+Empaque 
+NG
+(Packing)
+
+Valor Agregador 
+(Add Value)
+
+Valor Total 
+Total Value 
+(USD) 
+
+Total Value (M.N.)
+
+* 4.7600 
+
+5.2000 
+
+    119.00 EA
+in: 1 CAJACARTON
+
+• M07491, EMPAQUE DE ACERO INOXIDABLE / 
+STAINLESS STEEL GASKET, , - , * MX(MEX) --  /
+
+MX7326190080   FREE  /Exp.Mx:7326199908
+
+* 4.8000 
+
+5.3000 
+
+    120.00 EA
+in: 1 CAJACARTON
+
+• M07491, EMPAQUE DE ACERO INOXIDABLE / 
+STAINLESS STEEL GASKET, , - , * MX(MEX) --  /
+
+* 1.7400 
+
+2.0000 
+
+     29.00 EA
+in: 1 CAJACARTON
+
+• M06963, EMPAQUE DE ACERO INOXIDABLE / 
+STAINLESS STEEL GASKET, , - , * MX(MEX) --  /
+
+* 0.4350 
+
+1.0000 
+
+     29.00 EA
+in: 1 CAJACARTON
+
+• M08120, EMPAQUE DE ACERO INOXIDABLE / 
+STAINLESS STEEL GASKET, , - , * MX(MEX) --  /
+
+* 1.7400 
+
+2.0000 
+
+     29.00 EA
+in: 1 CAJACARTON
+
+• M06963, EMPAQUE DE ACERO INOXIDABLE / 
+STAINLESS STEEL GASKET, , - , * MX(MEX) --  /
+
+ 1.21000
+
+ 1.21000
+
+ 8.74000
+
+ 5.80000
+
+ 8.74000
+
+U
+T
+
+U
+T
+
+U
+T
+
+U
+T
+
+U
+T
+
+ 1.21000
+ 143.99
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 143.99
+
+ 2,922.88
+
+ 1.21000
+ 145.20
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 145.20
+
+ 2,947.44
+
+ 8.74000
+ 253.46
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 253.46
+
+ 5,145.04
+
+ 5.80000
+ 168.20
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 168.20
+
+ 3,414.33
+
+ 8.74000
+ 253.46
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+
+ 0.00
+
+ 0.00000
+ 0.00
+
+ 253.46
+
+ 5,145.04
+
+13.4750 
+
+15.5000 
+
+13.4750 
+
+15.5000 
+
+""
+
+326.00
+5
+
+326.00
+
+5
+
+S  U  B  T  O  T  A  L  MX7326190080   FREE  /Exp.Mx:7326199908
+
+ 964.31
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 964.31
+
+T    O    T   A    L    E    S   ( T   O   T   A   L   S )
+
+ 964.31
+
+ 0.00
+
+ 0.00
+
+ 0.00
+
+ 964.31
+
+U =Unitario, T = Total
+
+ 19,574.72
+
+Para usos aduanales unicamente (For Custom purposes Only)
+
+InTrade
+Import & Export System
+
+Firma (Signature): MIGUEL ARTURO NAVA
+
+ Rep. Legal.: Pilar Concepción Orozco Huerta
+
+Fecha y Hora Impresión: 27/Apr/2022 11:11:56AM
+\\ENSVR20\InTrade\Reportes\FactExpBi.rpt 
+
+???
