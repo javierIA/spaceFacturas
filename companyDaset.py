@@ -1,4 +1,4 @@
-import tools.PdfReader as PdfReader
+import tools.PdfTools as PdfTools
 import tools.RelugarExpretions as RelugarExpretions
 import tools.ScanPDFChecker as ScanPDFChecker
 import glob 
@@ -8,7 +8,7 @@ def main():
     path = glob.glob('facturas/**/*.pdf')
     for file in path:
         if ScanPDFChecker.ispdfa(file):
-            textPDF=PdfReader.reader(file)
+            textPDF=PdfTools.reader(file)
             #save the text in a file
             foldername=os.path.dirname(file)
             foldername=foldername.replace('facturas/','')

@@ -2,7 +2,7 @@ from cgitb import text
 import glob
 
 from requests import patch
-import tools.PdfReader as PdfReader
+import tools.PdfTools as PdfTools
 import tools.ScanPDFChecker as ScanPDFChecker
 
 def main():
@@ -11,7 +11,7 @@ def main():
     for file in paths:
         file=file.replace("\n","")
         if ScanPDFChecker.ispdfa(file):
-            textPDF=PdfReader.reader(file)
+            textPDF=PdfTools.reader(file)
             print(file,textPDF)
             f=open('dataset.txt','a+')
             f.write(textPDF+'???')

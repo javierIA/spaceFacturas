@@ -22,7 +22,8 @@ def searchDate(date):
 def searchRFC(rfc):
         pattern = regex.compile(r'^[A-Z&Ñ]{3,4}[0-9]{2}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])[A-Z0-9]{2}[0-9A]$', re.IGNORECASE|re.M)
         return regex.search(pattern,rfc)
-def serchCustomWord(word,matcher):
+def searchCustomWord(word,matcher):
         pattern = re.compile(r'\b({})\b'.format(matcher), re.IGNORECASE|re.M)
         return re.match(pattern,word)
+
         
