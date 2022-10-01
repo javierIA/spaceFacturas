@@ -84,7 +84,7 @@ def selectorTemplate(PATH,RFC,TYPE):
             print("Import template")
             extract_data_safran(PATH)
 
-    elif(RFC == "VST0906151H7"):
+    elif(RFC == "VST0906151H7")or (RFC == "OIS120807SV8"):
         if TYPE == "export":
             print("Export template")
             

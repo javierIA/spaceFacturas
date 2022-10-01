@@ -1,4 +1,3 @@
-from ast import parse
 import tabula
 import pandas as pd
 import re
@@ -125,10 +124,10 @@ def extract_from_pdf(filename):
     data_pieces_clean = [pd.DataFrame()]
     data_pieces = [pd.DataFrame()]
     tables_full = tabula.read_pdf_with_template(input_path=filename,
-        template_path="templates/jabil_exportacion/Jabil Exportacion P1.tabula-template.json")
+        template_path="helpers/templates/jabil_exportacion/Jabil Exportacion P1.tabula-template.json")
 
     tables_middle = tabula.read_pdf_with_template(input_path=filename,
-        template_path="templates/jabil_exportacion/Jabil Exportacion PL.tabula-template.json")
+        template_path="helpers/templates/jabil_exportacion/Jabil Exportacion PL.tabula-template.json")
 
     for idx, table in enumerate(tables_full):
         try:
@@ -157,9 +156,14 @@ def extract_data_lau_export(filename):
     pieces_clean = separate_brutos_netos(pieces_clean)
     pieces_clean = separate_materia_prima(pieces_clean)
     for index,row in pieces_clean.iterrows():
-        total=row['CODIGO DE PERMISO TOTAL DOLARES']
-        total = total.replace('$','')
-        insert_item(Description_items=row['DESCRIPCION'],Quantity_items=row['CANTIDAD'],Mesure_items=row['UMC'],Cost_items=total)
+        
+        #remove format from contidad and convert to float  
+        #if row['cantidad'] has  format 1,234.56
+        if ',' in row['cantidad']:
+            row['cantidad'] = row['cantidad'].replace(',','')
+        
+        
+        insert_item(Description_items=row['descripcion'],Quantity_items=row['cantidad'],Mesure_items=row['umc'],Cost_items=float(row['total']))
 
     return pieces_clean
 

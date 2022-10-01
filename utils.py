@@ -7,12 +7,11 @@ def validate_rfc(word):
 def validate_date(word):
     if RelugarExpretions.validDate(word):
         return word
-def db_select(word):
-    return db.get_client(word)
+
 def validte_words(word,words):
-    for importword in words:
-        if RelugarExpretions.searchCustomWord(word, importword):
-            return word
+    if RelugarExpretions.searchCustomWord(words,word):
+        print("true")
+        return True
  
 def word_finder(word,matcher):
     if RelugarExpretions.searchCustomWord(word, matcher):

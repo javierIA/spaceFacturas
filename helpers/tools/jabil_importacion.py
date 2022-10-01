@@ -88,7 +88,7 @@ def extract_from_pdf(filename):
     data_pieces_clean = [pd.DataFrame()]
     data_pieces = [pd.DataFrame()]
     tables_full = tabula.read_pdf_with_template(input_path=filename,
-        template_path="templates/jabil_importacion/Jabil Importacion P1.tabula-template.json")
+        template_path="helpers/templates/jabil_importacion/Jabil Importacion P1.tabula-template.json")
 
     for idx, table in enumerate(tables_full):
         try:
@@ -107,9 +107,8 @@ def extract_data_jabil_import(filename):
     pieces_clean = pieces_clean.iloc[:-1,:]
     pieces_clean = separate_description(pieces_clean)
     pieces_clean = extract_pieces_data(pieces, pieces_clean)
+   
     for index, row in pieces_clean.iterrows():
-        insert_item(Description_items,Quantity_items,Mesure_items,Cost_items)
-
         insert_item(row['DESCRIPCION'],row['CANTIDAD'],row['UMC'],row['COSTO UNIT'])
     return pieces_clean
 

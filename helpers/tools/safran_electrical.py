@@ -1,4 +1,3 @@
-from curses.ascii import TAB
 import tabula
 from PyPDF2 import PdfFileReader
 import pandas as pd

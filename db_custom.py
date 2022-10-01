@@ -1,16 +1,16 @@
 
 import os
 from dotenv import load_dotenv
-from connection import connection
+from connection import dbconection
 load_dotenv()
 
 
 
 def execute(sql):
     try:
-        with connection.cursor() as cursor:
+        with dbconection.cursor() as cursor:
             cursor.execute(sql)
-            connection.commit()
+            dbconection.commit()
             return True
     except Exception as e:
         print(e)
@@ -18,7 +18,7 @@ def execute(sql):
     
 def select(sql):
     try:
-        with connection.cursor() as cursor:
+        with dbconection.cursor() as cursor:
             cursor.execute(sql)
             return cursor.fetchall()
     except:

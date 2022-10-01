@@ -1,4 +1,3 @@
-from ast import parse
 import tabula
 import pandas as pd
 import re

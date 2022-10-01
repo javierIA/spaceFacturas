@@ -16,11 +16,11 @@ def only_numerics(seq):
 
 def use_template_page_one(filename):
     tables_body = tabula.read_pdf_with_template(input_path=filename,
-        template_path="templates/signify/Signify BodyP1.tabula-template.json")
+        template_path="helpers/templates/signify/Signify BodyP1.tabula-template.json")
 
     if any(['PATENTE' in x for x in tables_body[0].columns.to_list()]):
         tables_body = tabula.read_pdf_with_template(input_path=filename,
-            template_path="templates/signify/Signify BodyP1V.tabula-template.json")
+            template_path="helpers/templates/signify/Signify BodyP1V.tabula-template.json")
     return tables_body
 
 # Clean columns

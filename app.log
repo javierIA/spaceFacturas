@@ -1,0 +1,76 @@
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 clients.[RFC_clients] AS [clients_RFC_clients], clients.[Name_clients] AS [clients_Name_clients] 
+FROM clients 
+WHERE clients.[RFC_clients] = ?
+sqlalchemy.engine.Engine - INFO - [generated in 0.00127s] ('OIS120807SV8',)
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 clients.[RFC_clients] AS [clients_RFC_clients], clients.[Name_clients] AS [clients_Name_clients] 
+FROM clients 
+WHERE clients.[RFC_clients] = ?
+sqlalchemy.engine.Engine - INFO - [cached since 0.5226s ago] ('OIS120807SV8',)
+root - ERROR - update_status() got an unexpected keyword argument 'status_pdfs'
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 pdfs.id_pdfs AS pdfs_id_pdfs, pdfs.author_pdfs AS pdfs_author_pdfs, pdfs.path_pdfs AS pdfs_path_pdfs, pdfs.status_pdfs AS pdfs_status_pdfs 
+FROM pdfs 
+WHERE pdfs.id_pdfs = ?
+sqlalchemy.engine.Engine - INFO - [generated in 0.00098s] (1,)
+sqlalchemy.engine.Engine - INFO - UPDATE pdfs SET status_pdfs=? WHERE pdfs.id_pdfs = ?
+sqlalchemy.engine.Engine - INFO - [generated in 0.00067s] ('error', 1)
+sqlalchemy.engine.Engine - INFO - COMMIT
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 clients.[RFC_clients] AS [clients_RFC_clients], clients.[Name_clients] AS [clients_Name_clients] 
+FROM clients 
+WHERE clients.[RFC_clients] = ?
+sqlalchemy.engine.Engine - INFO - [cached since 3.767s ago] ('RME040213EC5',)
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 clients.[RFC_clients] AS [clients_RFC_clients], clients.[Name_clients] AS [clients_Name_clients] 
+FROM clients 
+WHERE clients.[RFC_clients] = ?
+sqlalchemy.engine.Engine - INFO - [cached since 3.944s ago] ('RME040213EC5',)
+root - ERROR - update_status() got an unexpected keyword argument 'status_pdfs'
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 pdfs.id_pdfs AS pdfs_id_pdfs, pdfs.author_pdfs AS pdfs_author_pdfs, pdfs.path_pdfs AS pdfs_path_pdfs, pdfs.status_pdfs AS pdfs_status_pdfs 
+FROM pdfs 
+WHERE pdfs.id_pdfs = ?
+sqlalchemy.engine.Engine - INFO - [cached since 2.987s ago] (2,)
+sqlalchemy.engine.Engine - INFO - UPDATE pdfs SET status_pdfs=? WHERE pdfs.id_pdfs = ?
+sqlalchemy.engine.Engine - INFO - [cached since 2.987s ago] ('error', 2)
+sqlalchemy.engine.Engine - INFO - COMMIT
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 clients.[RFC_clients] AS [clients_RFC_clients], clients.[Name_clients] AS [clients_Name_clients] 
+FROM clients 
+WHERE clients.[RFC_clients] = ?
+sqlalchemy.engine.Engine - INFO - [cached since 6.907s ago] ('OIS120807SV8',)
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 clients.[RFC_clients] AS [clients_RFC_clients], clients.[Name_clients] AS [clients_Name_clients] 
+FROM clients 
+WHERE clients.[RFC_clients] = ?
+sqlalchemy.engine.Engine - INFO - [cached since 7.025s ago] ('OIS120807SV8',)
+root - ERROR - update_status() got an unexpected keyword argument 'status_pdfs'
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 pdfs.id_pdfs AS pdfs_id_pdfs, pdfs.author_pdfs AS pdfs_author_pdfs, pdfs.path_pdfs AS pdfs_path_pdfs, pdfs.status_pdfs AS pdfs_status_pdfs 
+FROM pdfs 
+WHERE pdfs.id_pdfs = ?
+sqlalchemy.engine.Engine - INFO - [cached since 9.557s ago] (3,)
+sqlalchemy.engine.Engine - INFO - UPDATE pdfs SET status_pdfs=? WHERE pdfs.id_pdfs = ?
+sqlalchemy.engine.Engine - INFO - [cached since 9.562s ago] ('error', 3)
+sqlalchemy.engine.Engine - INFO - COMMIT
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 clients.[RFC_clients] AS [clients_RFC_clients], clients.[Name_clients] AS [clients_Name_clients] 
+FROM clients 
+WHERE clients.[RFC_clients] = ?
+sqlalchemy.engine.Engine - INFO - [cached since 13.25s ago] ('RME040213EC5',)
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 clients.[RFC_clients] AS [clients_RFC_clients], clients.[Name_clients] AS [clients_Name_clients] 
+FROM clients 
+WHERE clients.[RFC_clients] = ?
+sqlalchemy.engine.Engine - INFO - [cached since 13.44s ago] ('RME040213EC5',)
+root - ERROR - update_status() got an unexpected keyword argument 'status_pdfs'
+sqlalchemy.engine.Engine - INFO - BEGIN (implicit)
+sqlalchemy.engine.Engine - INFO - SELECT TOP 1 pdfs.id_pdfs AS pdfs_id_pdfs, pdfs.author_pdfs AS pdfs_author_pdfs, pdfs.path_pdfs AS pdfs_path_pdfs, pdfs.status_pdfs AS pdfs_status_pdfs 
+FROM pdfs 
+WHERE pdfs.id_pdfs = ?
+sqlalchemy.engine.Engine - INFO - [cached since 12.31s ago] (4,)
+sqlalchemy.engine.Engine - INFO - UPDATE pdfs SET status_pdfs=? WHERE pdfs.id_pdfs = ?
+sqlalchemy.engine.Engine - INFO - [cached since 12.32s ago] ('error', 4)
+sqlalchemy.engine.Engine - INFO - COMMIT

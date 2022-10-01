@@ -1,6 +1,7 @@
 
 import re 
 import regex
+from sqlalchemy import false
 def validRFC(rfc):
         valid = re.compile(r'^[A-Z&Ñ]{3,4}[0-9]{2}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])[A-Z0-9]{2}[0-9A]$')
         return valid.match(rfc)
@@ -22,8 +23,8 @@ def searchDate(date):
 def searchRFC(rfc):
         pattern = regex.compile(r'^[A-Z&Ñ]{3,4}[0-9]{2}(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])[A-Z0-9]{2}[0-9A]$', re.IGNORECASE|re.M)
         return regex.search(pattern,rfc)
-def searchCustomWord(word,matcher):
-        pattern = re.compile(r'\b({})\b'.format(matcher), re.IGNORECASE|re.M)
-        return re.match(pattern,word)
-
-        
+def searchCustomWord(words,matcher):
+        if re.search(matcher,words,re.IGNORECASE):
+                return True
+        else:
+                return False

@@ -1,3 +1,4 @@
+from regex import W
 from tools import PdfTools
 import db as db
 import utils as utils
@@ -5,9 +6,10 @@ from helpers import selector
 from pathlib import Path
 from db_custom import insert_invoice,insert_item
 from datetime import date
+import logging
 pdfs=db. get_pdfs()
-arrayimport=['import','imports','importacion','importación']
-arrayexport=['export','exports','exportacion','exportación']
+arrayimport=['import','imports','importacion','importación','IMPORT','IMPORTS','I M P O R T A C I O N','IMPORTACIÓN','I  M  P  O  R  T  A  C  I  O  N']
+arrayexport=['export','exports','exportacion','exportación','EXPORT','EXPORTS','E X P O R T A C I O N','EXPORTACIÓN','E  X  P  O  R  T  A  C  I  O  N']
 
 
 def update_status(pdf,status):
@@ -32,18 +34,18 @@ def getName(rfc):
 
 def extract_type(text):
     typepdf=""
-    wordlistr=text.split()   
-    for word in wordlistr:   
-        for matcher in arrayimport:
-            if utils.validte_words(word,matcher):
-                typepdf="import"
-        for matcher in arrayexport:
-            if utils.validte_words(word,matcher):
-                typepdf="export"
+    for matcher in arrayimport:
+       if utils.validte_words(matcher,text):
+            typepdf="import"
+    for matcher in arrayexport:
+        if utils.validte_words(matcher,text):
+            typepdf="export"
     if typepdf=="":
         typepdf="other"
+    
     return typepdf
 
+#logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s')
 for pdf in pdfs:
     id_pdfs=pdf.id_pdfs
     author_pdfs=pdf.author_pdfs
@@ -57,24 +59,31 @@ for pdf in pdfs:
             datelist=extract_date(textPDF)
             typepdf=extract_type(textPDF)
             try:
+                
                 if len(rfclist)>0:
+                    #romove duplicate elements
+                    rfclist=list(set(rfclist))
+                    print(rfclist)
                     for rfc in rfclist:
-                        if rfc!="SICO5407099U2":
-                            print(rfc)
+                        if rfc!="SICO5407099U2" and rfc!="IACL5612133X0" and  rfc!="SICA660112JJ4":
+                            if not db.get_client(rfc):
+                                print("No existe el cliente")
+                                pass
                             if not datelist:
                                 date=date.today()
                             else:
                                 date=datelist[0]
-                            print(getName(rfc))
                             insert_invoice(RFC_clients=rfc,Date_invoices=date,Total_invoives=0,Origin_invoices=getName(rfc))    
                             selector.selectorTemplate(RFC=rfc,TYPE=typepdf,PATH=path_pdfs)
-    
-                            #update_status(id_pdfs,status_pdfs="processed")
+                            update_status(id_pdfs,"processed")
+                            break
+                            pass
+                    
                 else:
                     status_pdfs="IA"
                     update_status(id_pdfs,status_pdfs)
             except Exception as e:
-                print(e)
+                logging.error(e)
                 status_pdfs="error"
                 update_status(id_pdfs,status_pdfs)
                 continue      

@@ -2,6 +2,7 @@ import tabula
 from PyPDF2 import PdfFileReader
 import pandas as pd
 from helpers.tools.table_utils import *
+#from table_utils import *
 from db_custom import insert_item
 def get_num_pages(filename):
     reader = PdfFileReader(filename)
@@ -69,8 +70,8 @@ def clean_pda_parte(pieces_clean):
     return pieces_clean
 
 def extract_data_vehicle_stability_export(filename):
-    template_one="templates/ptv/PTV BodyP1.tabula-template.json"
-    template_n="templates/ptv/PTV BodyPM.tabula-template.json"
+    template_one="helpers/templates/ptv/PTV BodyP1.tabula-template.json"
+    template_n="helpers/templates/ptv/PTV BodyPM.tabula-template.json"
     pieces_clean, pieces = extract_from_pdf(
         filename,
         template_one,
@@ -82,9 +83,12 @@ def extract_data_vehicle_stability_export(filename):
     pieces_clean = clean_pda_parte(pieces_clean)
     pieces_clean = pieces_clean.reset_index(drop=True)
     for index,row in pieces_clean.iterrows():
-        insert_item(row['DESCRIPCION'],row['CANTIDAD'],row['UM'],row['UNITARIO'])
+        CANTIDAD,UM = row['CANTIDAD UM'].split(' ')
+        unit= row['UNITARIO'].replace('$','')
+        unit= unit.replace(',','')
+        unit= float(unit)
+        insert_item(Description_items=row['DESCRIPCION'],Quantity_items=float(CANTIDAD),Mesure_items=UM,Cost_items=unit)
+    
+
     return pieces_clean
 
-# filename = 'facturas/vehicle_stability_exportacion/1.pdf'
-# result = extract_data(filename)
-# print(result)

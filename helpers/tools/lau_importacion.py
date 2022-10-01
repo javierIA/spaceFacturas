@@ -110,12 +110,12 @@ def clean_columns(pieces):
 
 def use_appropiate_template(filename):
     tables_body = tabula.read_pdf_with_template(input_path=filename,
-        template_path="templates/lau_importacion/Lau Importacion V1.tabula-template.json")
+        template_path="helpers/templates/lau_importacion/Lau Importacion V1.tabula-template.json")
     
     for i in range(2,5):
         if len(tables_body) <= 0 or not ('TOTAL' in tables_body[0].columns.to_list() or 'TOTAL PESO' in tables_body[0].columns.to_list()):
             tables_body = tabula.read_pdf_with_template(input_path=filename,
-                template_path=f"templates/lau_importacion/Lau Importacion V{i}.tabula-template.json")
+                template_path=f"helpers/templates/lau_importacion/Lau Importacion V{i}.tabula-template.json")
        
     return tables_body
 
@@ -145,6 +145,7 @@ def extract_data_lau_import(filename):
     pieces_clean = separate_description(pieces_clean)
     pieces_clean = extract_pieces_data(pieces, pieces_clean)
     for index, row in pieces_clean.iterrows():
+        
         insert_item(Description_items=row['DESCRIPTION'],Quantity_items=row['CANTIDAD'],Mesure_items=row['UMC'],Cost_items=row['COSTO UNIT'])
 
     return pieces_clean

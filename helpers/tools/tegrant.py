@@ -8,14 +8,14 @@ from db_custom import insert_item
 
 def use_template_page_one(filename):
     tables_body = tabula.read_pdf_with_template(input_path=filename,
-        template_path="templates/tegrant/TegrantP1.tabula-template.json")
+        template_path="helpers/templates/tegrant/TegrantP1.tabula-template.json")
 
     alternate_templates = ['TegrantP1V.tabula-template.json', 'TegrantP1V2.tabula-template.json', 'TegrantP1V3.tabula-template.json']
 
     for template in alternate_templates:
         if any(['PATENTE' in x for x in tables_body[0].columns.to_list()]) or not 'DESCRIPCION MERCANCIA/Merchandise Description' in tables_body[0].columns.to_list():
             tables_body = tabula.read_pdf_with_template(input_path=filename,
-                template_path=f"templates/tegrant/{template}")
+                template_path=f"helpers/templates/tegrant/{template}")
        
     return tables_body
 
@@ -109,7 +109,7 @@ def extract_pieces_page_one(filename):
 
 def extract_pieces_page_n(filename):
     tables_body = tabula.read_pdf_with_template(input_path=filename,
-    template_path="templates/signify/Signify BodyPM.tabula-template.json")
+    template_path="helpers/templates/signify/Signify BodyPM.tabula-template.json")
     data_pieces_clean = [pd.DataFrame()]
     data_pieces = [pd.DataFrame()]
     for page in range(1, get_num_pages(filename)):
