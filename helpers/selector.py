@@ -15,19 +15,21 @@ from helpers.tools.vehicle_stability_exportacion import extract_data_vehicle_sta
 from helpers.tools.vehicle_stability_importacion import extract_data_vehicle_stability_import
 
 
-
 def selectorTemplate(PATH,RFC,TYPE):
     """
     This function is used to select the template to be used for the generation of the RFC.
     """
     if(RFC == "ETE9603221A4") or (RFC=="EIN0306306H6"):
-        #eaton template
-        if TYPE == "export":
-            print("Export template eaton")
-            extract_data_eaton_export(PATH)
-        else:
-            print("Import template eaton")
+        #search for the word "exportacion" in the text
+        try:
+            if TYPE=="export":
+                extract_data_eaton_export(PATH)
+            elif TYPE=="import":
+                extract_data_eaton_import(PATH)
+        except Exception as e:
+            print(e)
             extract_data_eaton_import(PATH)
+            pass
     elif(RFC == "EST040824HB5") or (RFC == "PCM9307212B8"):
         if RFC=="PCM9307212B8":
             print("Export template estapack pcm")

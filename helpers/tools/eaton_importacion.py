@@ -1,9 +1,10 @@
+import imp
 import tabula
 import pandas as pd
 import re
 import numpy as np
 from helpers.tools.table_utils import umc_values, get_num_pages, index_containing_substring
-
+from db_custom import insert_item
 def create_column_name(parts):
     name = ''
     for part in parts:
@@ -143,6 +144,8 @@ def extract_data_eaton_import(filename):
     # print(pieces_clean)
     pieces_clean = separate_description(pieces_clean)
     pieces_clean = extract_pieces_data(pieces, pieces_clean)
+    for index,row in pieces_clean.iterrows():
+        insert_item(Description_items=row['DESCRIPCION'],Quantity_items=row['CANTIDAD'],Mesure_items=row['UMC'],Cost_items=row['COSTO UNIT'])
     return pieces_clean
 
 # filename = 'facturas/eaton_importacion/19.pdf'

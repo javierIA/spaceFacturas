@@ -1,3 +1,5 @@
+from cmath import log
+from dbm import dumb
 from regex import W
 from tools import PdfTools
 import db as db
@@ -45,7 +47,9 @@ def extract_type(text):
     
     return typepdf
 
-#logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename='app.log', filemode='w', format='%(name)s - %(levelname)s - %(message)s')
+logging.disable(logging.INFO)
+
 for pdf in pdfs:
     id_pdfs=pdf.id_pdfs
     author_pdfs=pdf.author_pdfs
@@ -64,8 +68,10 @@ for pdf in pdfs:
                     #romove duplicate elements
                     rfclist=list(set(rfclist))
                     print(rfclist)
+                    logging.error(typepdf+ " - " +str(pdf.path_pdfs))
                     for rfc in rfclist:
                         if rfc!="SICO5407099U2" and rfc!="IACL5612133X0" and  rfc!="SICA660112JJ4":
+                            
                             if not db.get_client(rfc):
                                 print("No existe el cliente")
                                 pass
@@ -79,12 +85,14 @@ for pdf in pdfs:
                             break
                             pass
                     
-                else:
+                else:   
                     status_pdfs="IA"
                     update_status(id_pdfs,status_pdfs)
             except Exception as e:
                 logging.error(e)
+                print(e)    
                 status_pdfs="error"
+                logging.error(pdf.path_pdfs)
                 update_status(id_pdfs,status_pdfs)
                 continue      
             

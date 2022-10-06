@@ -1,4 +1,5 @@
 from ast import parse
+from functools import total_ordering
 import tabula
 import pandas as pd
 import re
@@ -26,7 +27,6 @@ def separate_materia_prima(pieces_clean):
     if 'materia prima y agregado' not in pieces_clean.columns:
         return pieces_clean
     new = pieces_clean['materia prima y agregado'].str.replace('$', '', regex=False).str.split(n=2, expand=True)
-    print(new)
     pieces_clean['materia prima'] = new[0]
     pieces_clean['agregado'] = new[1]
     del pieces_clean['materia prima y agregado']
@@ -158,6 +158,22 @@ def extract_data_eaton_export(filename):
     pieces_clean = separate_brutos_netos(pieces_clean)
     pieces_clean = separate_materia_prima(pieces_clean)
     #pieces_clean['origen'] = extract_origin(pieces)
+    for index, row in pieces_clean.iterrows():
+        #precio unitario = total / cantidad
+        #if canidad has , romove it
+        cantidad= str(row['cantidad'])
+        total_ordering = str(row['total'])
+        if cantidad.find(',') != -1:
+            cantidad = cantidad.replace(',','')
+
+    
+        if total_ordering.find(',') != -1:
+            total_ordering = total_ordering.replace(',','')
+        units= float(total_ordering)/float(cantidad)
+        units = round(units, 3)
+        
+        insert_item(Description_items=row['descripcion'],Quantity_items=row['cantidad'],Mesure_items= row['umc'],Cost_items=units)
+    
     return pieces_clean
 
 # filename = 'facturas/eaton_exportacion/4.pdf'
