@@ -6,7 +6,7 @@ import db as db
 import utils as utils
 from helpers import selector
 from pathlib import Path
-from db_custom import insert_invoice,insert_item
+from db_custom import getlastidInvoices, insert_invoice,insert_item, multiplyItems
 from datetime import date
 import logging
 pdfs=db. get_pdfs()
@@ -79,8 +79,9 @@ for pdf in pdfs:
                                 date=date.today()
                             else:
                                 date=datelist[0]
-                            insert_invoice(RFC_clients=rfc,Date_invoices=date,Total_invoives=0,Origin_invoices=getName(rfc))    
+                            insert_invoice(RFC_clients=rfc,Date_invoices=date,Total_invoives=0,Origin_invoices=getName(rfc))  
                             selector.selectorTemplate(RFC=rfc,TYPE=typepdf,PATH=path_pdfs)
+                            multiplyItems(getlastidInvoices())
                             update_status(id_pdfs,"processed")
                             break
                             pass

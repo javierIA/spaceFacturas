@@ -39,3 +39,16 @@ def getlastidItems():
 def getlastidInvoices():
     sql = "SELECT MAX(Num_invoices) FROM invoices"
     return select(sql)[0][0]
+def multiplyItems(Num_invoices):
+    sql = "SELECT Cost_items,Quantity_items FROM items WHERE Num_invoice='{}'".format(Num_invoices)
+    select(sql)
+    for row in select(sql):
+        total=getTotal(Num_invoices)
+        total=total+(row[0]*row[1])
+        updateInvoices(Num_invoices,total)
+def updateInvoices(Num_invoices,Total_invoices):
+    sql = "UPDATE invoices SET Total_invoices='{}' WHERE Num_invoices='{}'".format(Total_invoices,Num_invoices)
+    execute(sql)
+def getTotal(Num_invoices):
+    sql = "SELECT Total_invoices FROM invoices WHERE Num_invoices='{}'".format(Num_invoices)
+    return select(sql)[0][0]
