@@ -1,15 +1,25 @@
 
+import os
 from sqlalchemy import *
 from sqlalchemy import create_engine, ForeignKey
 from sqlalchemy import Column, Date, Integer, String,VARCHAR
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, backref, sessionmaker
 import urllib
+from dotenv import load_dotenv
 
-server = 'spacebot.database.windows.net' # to specify an alternate port
-database = 'spacebot' 
-username = 'Javier' 
-password = 'Sp4c3bot.2022@'
+load_dotenv()
+
+
+Host=os.getenv("HOST")
+User=os.getenv("USER")
+Password=os.getenv("PASS")
+Database=os.getenv("DATABASE")
+
+server = Host # to specify an alternate port
+database = Database
+username = User
+password = Password
 params = urllib.parse.quote_plus("DRIVER={ODBC Driver 17 for SQL Server};SERVER=" + server + ";DATABASE=" + database + ";UID=" + username + ";PWD=" + password)
 engine = create_engine("mssql+pyodbc:///?odbc_connect=%s" % params,echo=True)
 Base = declarative_base()
