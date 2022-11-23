@@ -52,9 +52,8 @@ def getPages(filename):
     num_pages = pdfReader.numPages
     return num_pages
 
-def getTables():
-    path=f'C://Users//javie//Downloads//space_extraccion//facturas//ssc//*.pdf'
-    for filename in glob.glob(path):
+def getTables(filename):
+        filename = filename.replace("\\", "/")
         print(filename)
         num_pages = getPages(filename)
         tables = camelot.read_pdf(filename, pages='1-end', flavor="stream")
@@ -70,9 +69,5 @@ def getTables():
         print(pieces.head())
         
 
-    return pieces    
+        return pieces    
                                     
-                        
-if __name__ == '__main__':
-    getTables()
-                

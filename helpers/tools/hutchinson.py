@@ -60,20 +60,16 @@ def getPages(filename):
     pdfReader = PyPDF2.PdfFileReader(pdfFileObj, strict=False)
     num_pages = pdfReader.numPages
     return num_pages
-def getTables():
-    path='C://Users//javie//Downloads//space_extraccion//facturas//hutchinson//*.pdf'
-    for filename in glob.glob(path):
-        print(filename)
+def getTables(filename):
+    
+    filename = filename.replace("\\", "/")
         
-        tables = camelot.read_pdf(filename, flavor='stream', pages='1-end',split_text=True)
-        for table in tables:
-            if  not table.df.empty:
+    tables = camelot.read_pdf(filename, flavor='stream', pages='1-end',split_text=True)
+    for table in tables:
+        if  not table.df.empty:
                 table=clean_table(table)
                 table=remove_not_data(table.df)
-                print(table)
+                
             
                                         
-                        
-if __name__ == '__main__':
-    getTables()
-                
+    return tables

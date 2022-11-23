@@ -75,26 +75,21 @@ def remove_table(table,pdfpath):
 
 
     
-def getTables():
-    path=f'C://Users//javie//Downloads//space_extraccion//facturas//abisa//*.pdf'
-    for filename in glob.glob(path):
-        print(filename)
-        tables = camelot.read_pdf(filename, pages='1', flavor="stream", table_areas=["34,514,567,194"],split_text=True)
-        pieces=pd.DataFrame()
-        #check tables has dataframe
-        if len(tables) != 0:
+def getTables(path):
+    filename=path.split("\\")[-1]
+    tables = camelot.read_pdf(filename, pages='1', flavor="stream", table_areas=["34,514,567,194"],split_text=True)
+    pieces=pd.DataFrame()
+     #check tables has dataframe
+    if len(tables) != 0:
             for table in tables:
                 if table.df is not None:
                     table=clean_table(table)
                     #table=remove_table(table)
                     if table is not None:
                         pieces=pd.concat([pieces,table.df])
-           
+    return pieces  
     
             
                 
                                         
                         
-if __name__ == '__main__':
-    getTables()
-                

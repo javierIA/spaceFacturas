@@ -13,8 +13,7 @@ from helpers.tools.safran_electrical import extract_data_safran
 from helpers.tools.signify import extract_data_signify
 from helpers.tools.vehicle_stability_exportacion import extract_data_vehicle_stability_export
 from helpers.tools.vehicle_stability_importacion import extract_data_vehicle_stability_import
-
-
+from helpers.tools.modine import getTables
 def selectorTemplate(PATH,RFC,TYPE):
     """
     This function is used to select the template to be used for the generation of the RFC.
@@ -107,7 +106,8 @@ def selectorTemplate(PATH,RFC,TYPE):
         ##MMJ 
         print("Export template Modine")
     elif (RFC == "SAI120808FA9"):
-        print("Export template sage") 
+        modine = getTables(PATH)
+        print("Export template Modine")
     else:
         
         print("No template found for this RFC:"+RFC)

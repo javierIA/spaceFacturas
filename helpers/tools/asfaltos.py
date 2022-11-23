@@ -30,7 +30,7 @@ def clean_table(table):
 
     
 
-def pieces_clean(table):
+def pieces_cleaner(table):
     if table_regex(table,"PRICING"):
         table = table.drop(table.index[0])
         table = table.reset_index(drop=True)
@@ -65,20 +65,15 @@ def pieces_clean(table):
         
         
         
-def getTables():
-    path='C://Users//javie//Downloads//space_extraccion//facturas//asfaltos//*.pdf'
+def getTables(path):
     pieces=pd.DataFrame()
-    for filename in glob.glob(path):
-        print(filename)
-        tables = camelot.read_pdf(filename, pages='1-end', flavor='stream',table_areas=["11.450629507660107,507.4383068422732,596.1640053038385,232.13461330127885"])
-        for table in tables:
-            if  not table.df.empty:
-                table = clean_table(table)
-                table = pieces_clean(table.df)
-        pieces_clean=pd.concat([pieces,table])
+    filename=path.split("\\")[-1]
+    print(filename)
+    tables = camelot.read_pdf(filename, pages='1-end', flavor='stream',table_areas=["11.450629507660107,507.4383068422732,596.1640053038385,232.13461330127885"])
+    for table in tables:
+        if  not table.df.empty:
+            table = clean_table(table)
+            table = pieces_clean(table.df)
+            pieces_clean=pd.concat([pieces,table])
     return pieces_clean
                                         
-                        
-if __name__ == '__main__':
-    getTables()
-                

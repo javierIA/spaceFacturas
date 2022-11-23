@@ -96,3 +96,22 @@ def regex_all_table(table,regex):
             if re.search(regex, str(row[column])):
                 return True
     return False
+def clean_table(table):
+    df = table.df
+    df = df.dropna(axis=1, how='all')
+    df = df.dropna(axis=0, how='all')
+    for column in df:
+        df[column] = df[column].str.strip()
+    #romove the last row
+    df = df.drop(df.index[-1])
+    #
+
+    table.df=df
+    #remove /n in the header
+
+    for column in table.df:
+        table.df[column] = table.df[column].str.replace('\n','')
+        
+    #remove the first row
+    table.df = table.df.drop(table.df.index[0])
+    return table
