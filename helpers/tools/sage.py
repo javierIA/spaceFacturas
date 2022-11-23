@@ -97,9 +97,8 @@ def extract_with_coordinates(filename):
     
     return table
     
-def getTables():
-    path=f'C://Users//javie//Downloads//space_extraccion//facturas//sage//*.pdf'
-    for filename in glob.glob(path):
+def getTables(filename):
+        filename=filename.replace("\\","/")
         print(filename)
         num_pages = getPages(filename)
         tables = camelot.read_pdf(filename, pages='1-end', flavor="stream")
@@ -113,7 +112,7 @@ def getTables():
                     if table is not None:
                         pieces= pd.concat([pieces,table])
                         pieces=remove_empty_columns(pieces)
-                  
+                        
                         
         print(pieces.head())
            
@@ -121,7 +120,3 @@ def getTables():
             
                 
                                         
-                        
-if __name__ == '__main__':
-    getTables()
-                
