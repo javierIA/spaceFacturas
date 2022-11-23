@@ -1,7 +1,7 @@
 from PyPDF2 import PdfFileReader
 import tabula
 import pandas as pd
-
+import re 
 umc_values = ['EA', 'SET', 'KGM', 'MTR', 'LT', 'PZS', 'JGO']
 def index_containing_substring(the_list, substring):
     for i, s in enumerate(the_list):
@@ -48,3 +48,51 @@ def extract_from_pdf_page_n(filename, template_path, clean_columns_fn):
         data_pieces_clean.append(pieces_clean_n)
         data_pieces.append(pieces_n)
     return pd.concat(data_pieces_clean), pd.concat(data_pieces)
+
+
+def table_regex(table,regex):
+    #if table contains word in regex return true
+    for index, row in table.iterrows():
+        for column in table:
+            if re.search(regex, str(row[column])):
+                return True
+            
+def row_contains_word(table,word):
+    #if the row contains the word return index
+    index=[]
+    for idx, row in table.iterrows():
+        for column in table:
+            if word in str(row[column]):
+                index.append(idx)
+                return index
+    return False
+
+def tryiloc(table,column,index):
+    try:
+        return table.iloc[column][index]
+    except:
+        return None
+
+def remove_empty_rows(table):
+    #remove nah and null rows
+    for index, row in table.iterrows():
+        if row.isnull().all():
+            table = table.drop(index)
+    return table
+def remove_empty_columns(table):
+   #if the column is empty or NAN remove it
+    for column in table: 
+        if table[column].isnull().all() : 
+            table = table.drop(column, axis=1)
+    return table
+def regex_all_table(table,regex):
+    #if table contains word in regex return true
+    #create regex contain all the word in the list
+    
+    regex = '|'.join(regex)
+    regex=re.compile(regex)
+    for  row in table.iterrows():
+        for column in table:
+            if re.search(regex, str(row[column])):
+                return True
+    return False

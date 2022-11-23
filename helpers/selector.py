@@ -102,6 +102,12 @@ def selectorTemplate(PATH,RFC,TYPE):
         else:
             print("Export template  MMJ")
             extract_data_mmj_import(PATH)
+            
+    elif (RFC == "MTC901210UC2"):
+        ##MMJ 
+        print("Export template Modine")
+    elif (RFC == "SAI120808FA9"):
+        print("Export template sage") 
     else:
         
         print("No template found for this RFC:"+RFC)

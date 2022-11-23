@@ -7,6 +7,7 @@ from pathlib import Path
 from db_custom import getlastidInvoices, insert_invoice,insert_item, multiplyItems
 from datetime import date
 import logging
+import tools.RelugarExpretions as RelugarExpretions
 pdfs=db. get_pdfs()
 arrayimport=['import','imports','importacion','importación','IMPORT','IMPORTS','I M P O R T A C I O N','IMPORTACIÓN','I  M  P  O  R  T  A  C  I  O  N']
 arrayexport=['export','exports','exportacion','exportación','EXPORT','EXPORTS','E X P O R T A C I O N','EXPORTACIÓN','E  X  P  O  R  T  A  C  I  O  N']
@@ -31,7 +32,11 @@ def getName(rfc):
     else:
         return client.Name_clients
 
-
+def extract_words(text,word):
+    wordlist=map(lambda x: utils.word_finder(x,word) ,text.split())
+    wordlist=list(filter(None,wordlist))
+    wordlist=list(set(wordlist))
+    return wordslist
 def extract_type(text):
     typepdf=""
     for matcher in arrayimport:
@@ -85,6 +90,15 @@ for pdf in pdfs:
                             pass
                     
                 else:   
+                    rfc={"absia":   "AOM-210617-IC7","absia2":"14660055","asbaltos":"14660055","asbaltos2":"31-1537655","HUTCHINSON":"HSM-000316-H84","modine":"39-048200005","ssi":"SSC-840823-JT3"}
+                    #search rfc in text 
+                    for key in rfc:
+                        for matcher in rfc[key].split():
+                            wordlist=map(lambda x: utils.word_finder(x,matcher) ,textPDF.split())
+                            wordlist=list(filter(None,wordlist))
+                            wordlist=list(set(wordlist))
+                            if len(wordlist)>0:
+                                print("rfc: "+key)
                     status_pdfs="IA"
                     update_status(id_pdfs,status_pdfs)
             except Exception as e:
@@ -98,4 +112,3 @@ for pdf in pdfs:
                 
                 
             
-    
