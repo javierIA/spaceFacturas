@@ -1,11 +1,14 @@
 import os
+from pathlib import PureWindowsPath
 import camelot
 from numpy import fix
 import pandas as pd
 import PyPDF2
 import glob
 import numpy as np
-from table_utils import *
+from helpers.tools.table_utils import *
+
+
 def clean_table(table):
     df = table.df
     df = df.dropna(axis=1, how='all')
@@ -85,8 +88,8 @@ def getPages(filename):
 def getTables(filename):
  
 
-        filename = filename.replace("\\","/")
-        print(filename)
+        filename = PureWindowsPath(filename)
+        filename = str(filename)
         tables = camelot.read_pdf(filename, pages='1-end', flavor="stream")
         pieces=pd.DataFrame()
         #check tables has dataframe

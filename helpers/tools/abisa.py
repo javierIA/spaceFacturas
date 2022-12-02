@@ -1,10 +1,11 @@
+from pathlib import PureWindowsPath
 import camelot
 import pandas as pd
 import PyPDF2
 import glob
 import numpy as np
 import tabula
-from table_utils import remove_empty_columns, remove_empty_rows, table_regex,row_contains_word
+from helpers.tools.table_utils import remove_empty_columns, remove_empty_rows, table_regex,row_contains_word
 def clean_table(table):
     df = table.df
     df = df.dropna(axis=1, how='all')
@@ -76,7 +77,8 @@ def remove_table(table,pdfpath):
 
     
 def getTables(path):
-    filename=path.split("\\")[-1]
+    filename = PureWindowsPath(filename)
+    filename = str(filename)    
     tables = camelot.read_pdf(filename, pages='1', flavor="stream", table_areas=["34,514,567,194"],split_text=True)
     pieces=pd.DataFrame()
      #check tables has dataframe
