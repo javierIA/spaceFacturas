@@ -1,8 +1,7 @@
 import os
 import utils
 import camelot
-from tools import selectorTemplate
-from helpers.tools import abisa,asbaltos,HUTCHINSON,modine,ssi,table_utils
+from helpers.tools import abisa,asfaltos,hutchinson,modine,ssc,table_utils
 import db_custom
 import datetime
 
@@ -27,16 +26,16 @@ def extract_type(path,text):
                         abisa.getTables(path)
                         return "absia"
                     elif key=="asbaltos" or key=="asbaltos2":
-                        asbaltos.getTables(path)
+                        asfaltos.getTables(path)
                         return "asbaltos"
                     elif key=="HUTCHINSON":
-                        HUTCHINSON.getTables(path)
+                        hutchinson.getTables(path)
                         return "HUTCHINSON"
                     elif key=="modine":
                         modine.getTables(path)
                         return "modine"
                     elif key=="ssi":
-                        ssi.getTables(path)
+                        ssc.getTables(path)
                         return "ssi"
                     else:
                         table = camelot.read_pdf(path, pages='1-end')

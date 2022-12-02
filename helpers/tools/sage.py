@@ -1,3 +1,4 @@
+from pathlib import PureWindowsPath
 import camelot
 import pandas as pd
 import PyPDF2
@@ -98,8 +99,8 @@ def extract_with_coordinates(filename):
     return table
     
 def getTables(filename):
-        filename=filename.replace("\\","/")
-        print(filename)
+        filename = PureWindowsPath(filename)
+        filename = str(filename)
         num_pages = getPages(filename)
         tables = camelot.read_pdf(filename, pages='1-end', flavor="stream")
         pieces=pd.DataFrame()

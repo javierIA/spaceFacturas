@@ -14,6 +14,7 @@ from helpers.tools.signify import extract_data_signify
 from helpers.tools.vehicle_stability_exportacion import extract_data_vehicle_stability_export
 from helpers.tools.vehicle_stability_importacion import extract_data_vehicle_stability_import
 from helpers.tools.modine import getTables
+from helpers.tools.ssc import getTables as ssc_getTables
 def selectorTemplate(PATH,RFC,TYPE):
     """
     This function is used to select the template to be used for the generation of the RFC.
@@ -108,6 +109,10 @@ def selectorTemplate(PATH,RFC,TYPE):
     elif (RFC == "SAI120808FA9"):
         modine = getTables(PATH)
         print("Export template Modine")
+    elif (RFC == "XEXX010101000"):
+        ssc_getTables(PATH)
+        
     else:
         
         print("No template found for this RFC:"+RFC)
+        

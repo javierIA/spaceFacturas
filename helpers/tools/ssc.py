@@ -4,7 +4,8 @@ import pandas as pd
 import PyPDF2
 import numpy as np
 import glob
-from table_utils import table_regex ,remove_empty_columns, remove_empty_rows
+from helpers.tools.table_utils import remove_empty_columns, remove_empty_rows, table_regex
+from pathlib import  PureWindowsPath
 def clean_table(table):
     df = table.df
     df = df.dropna(axis=1, how='all')
@@ -53,9 +54,9 @@ def getPages(filename):
     return num_pages
 
 def getTables(filename):
-        filename = filename.replace("\\", "/")
-        print(filename)
-        num_pages = getPages(filename)
+        #C:\Users\javie\OneDrive\Documentos\easy\pdfs\javier.alejandro.flores.2@gmail.com\2022-10-03_14-12-29_7.pdf
+        filename = PureWindowsPath(filename)
+        filename = str(filename)
         tables = camelot.read_pdf(filename, pages='1-end', flavor="stream")
         pieces=pd.DataFrame()
         for table in tables:
