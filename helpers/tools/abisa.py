@@ -77,7 +77,7 @@ def remove_table(table,pdfpath):
 
     
 def getTables(path):
-    filename = PureWindowsPath(filename)
+    filename = PureWindowsPath(path)
     filename = str(filename)    
     tables = camelot.read_pdf(filename, pages='1', flavor="stream", table_areas=["34,514,567,194"],split_text=True)
     pieces=pd.DataFrame()

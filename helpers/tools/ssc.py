@@ -6,6 +6,7 @@ import numpy as np
 import glob
 from helpers.tools.table_utils import remove_empty_columns, remove_empty_rows, table_regex
 from pathlib import  PureWindowsPath
+from db_custom import insert_item
 def clean_table(table):
     df = table.df
     df = df.dropna(axis=1, how='all')
@@ -67,8 +68,8 @@ def getTables(filename):
                 table = remove_empty_rows(table)
                 pieces = pd.concat([pieces,table])
                 
-        print(pieces.head())
-        
+        for index, row in pieces.iterrows():
+            insert_item(Quantity_items=row[0],Mesure_items=row[1], Description_items=row[4],Cost_items=row[5])
 
         return pieces    
                                     

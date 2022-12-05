@@ -68,7 +68,7 @@ def pieces_cleaner(table):
         
 def getTables(path):
     pieces=pd.DataFrame()
-    filename = PureWindowsPath(filename)
+    filename = PureWindowsPath(path)
     filename = str(filename)  
     tables = camelot.read_pdf(filename, pages='1-end', flavor='stream',table_areas=["11.450629507660107,507.4383068422732,596.1640053038385,232.13461330127885"])
     for table in tables:
