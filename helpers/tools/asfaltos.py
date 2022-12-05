@@ -4,8 +4,7 @@ import camelot
 import tabula
 from  helpers.tools.table_utils import *
 import pandas as pd
-import PyPDF2
-import glob
+from db_custom import insert_item
 def clean_table(table):
     df = table.df
     df = df.dropna(axis=1, how='all')
@@ -51,7 +50,7 @@ def pieces_cleaner(table):
     if table_regex(table,"SHIP DATE"):
         #remove last row
         table = table.reset_index(drop=True)
-        header= ["Date","Description","Quantity","Unit Unit_Price","UM"]
+        header= ["Date","Description","Quantity","Unit_Price","UM"]
         #Join data of 1,2,3 columns and create a new column and remove the 1,2,3 columns
         table[1] = table[1].str.cat(table[2],sep=" ").str.cat(table[3],sep=" ")
         table = table.drop([2,3],axis=1)
@@ -76,5 +75,6 @@ def getTables(path):
             table = clean_table(table)
             table = pieces_clean(table.df)
             pieces_clean=pd.concat([pieces,table])
-    return pieces_clean
-                                        
+    #if header is =Date,Description,Quantity,Unit Unit_Price,UM
+    for index,row in pieces_clean.iterrows():
+            insert_item(Description_items=row["Description"],Quantity_items=row["Quantity"],Mesure_items=row["UM"],Cost_items=row   ["Unit_Price"])

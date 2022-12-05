@@ -5,3 +5,5 @@ model-best/transformer/model
 facturas/   
 *.txt
 .env
+ __pycache__/
+ *.pyc

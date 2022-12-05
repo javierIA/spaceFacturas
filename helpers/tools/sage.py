@@ -2,7 +2,7 @@ from pathlib import PureWindowsPath
 import camelot
 import pandas as pd
 import PyPDF2
-import glob
+from db_custom import insert_item
 import numpy as np
 from table_utils import remove_empty_columns, remove_empty_rows, table_regex
 def clean_table(table):
@@ -114,9 +114,9 @@ def getTables(filename):
                         pieces= pd.concat([pieces,table])
                         pieces=remove_empty_columns(pieces)
                         
-                        
-        print(pieces.head())
-           
+        for index, row in pieces.iterrows():
+            insert_item(Description_items=row["Descripcion"],Cost_items=row["CostoUnit"],Quantity_items=row["Cantidad"],UM_items=row["UM"])
+        return pieces           
     
             
                 
